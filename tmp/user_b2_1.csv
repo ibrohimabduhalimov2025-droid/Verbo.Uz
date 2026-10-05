@@ -1,0 +1,450 @@
+1,Environment & Nature,abandon,verb,"tashlab ketmoq, tark etmoq",B2 Master
+2,Environment & Nature,absorb,verb,shimib olmoq,B2 Master
+3,Environment & Nature,agriculture,noun,qishloq xo'jaligi,B2 Master
+4,Environment & Nature,atmosphere,noun,atmosfera,B2 Master
+5,Environment & Nature,biodiversity,noun,bioxilma-xillik,B2 Master
+6,Environment & Nature,carbon,noun,uglerod,B2 Master
+7,Environment & Nature,catastrophe,noun,"halokat, ofat",B2 Master
+8,Environment & Nature,climate,noun,iqlim,B2 Master
+9,Environment & Nature,consequence,noun,oqibat,B2 Master
+10,Environment & Nature,conservation,noun,"saqlash, muhofaza qilish",B2 Master
+11,Environment & Nature,consume,verb,iste'mol qilmoq,B2 Master
+12,Environment & Nature,contaminate,verb,ifloslantirmoq,B2 Master
+13,Environment & Nature,crisis,noun,inqiroz,B2 Master
+14,Environment & Nature,deforestation,noun,o'rmonlarni kesish,B2 Master
+15,Environment & Nature,disaster,noun,falokat,B2 Master
+16,Environment & Nature,dispose,verb,"qutulmoq, yo'q qilmoq",B2 Master
+17,Environment & Nature,drought,noun,qurg'oqchilik,B2 Master
+18,Environment & Nature,ecology,noun,ekologiya,B2 Master
+19,Environment & Nature,emission,noun,ajralib chiqish (gaz),B2 Master
+20,Environment & Nature,endangered,adjective,yo'qolib ketish xavfi ostidagi,B2 Master
+21,Environment & Nature,environment,noun,atrof-muhit,B2 Master
+22,Environment & Nature,erosion,noun,"yemirilish, eroziya",B2 Master
+23,Environment & Nature,exhaust,noun,chiqindi gazlar,B2 Master
+24,Environment & Nature,extinct,adjective,"yo'q bo'lib ketgan, qirilib ketgan",B2 Master
+25,Environment & Nature,fossil,noun,qazilma,B2 Master
+26,Environment & Nature,fuel,noun,yoqilg'i,B2 Master
+27,Environment & Nature,generate,verb,ishlab chiqarmoq,B2 Master
+28,Environment & Nature,global,adjective,"global, umumjahon",B2 Master
+29,Environment & Nature,greenhouse,noun,issiqxona,B2 Master
+30,Environment & Nature,habitat,noun,yashash joyi (hayvonlar uchun),B2 Master
+31,Environment & Nature,impact,noun,ta'sir,B2 Master
+32,Environment & Nature,melt,verb,erimoq,B2 Master
+33,Environment & Nature,nuclear,adjective,yadroviy,B2 Master
+34,Environment & Nature,organic,adjective,"organik, tabiiy",B2 Master
+35,Environment & Nature,oxygen,noun,kislorod,B2 Master
+36,Environment & Nature,planet,noun,sayyora,B2 Master
+37,Environment & Nature,pollution,noun,ifloslanish,B2 Master
+38,Environment & Nature,preserve,verb,saqlamoq (asrab qolmoq),B2 Master
+39,Environment & Nature,prevent,verb,oldini olmoq,B2 Master
+40,Environment & Nature,protect,verb,himoya qilmoq,B2 Master
+41,Environment & Nature,radiation,noun,radiatsiya,B2 Master
+42,Environment & Nature,recycle,verb,qayta ishlamoq,B2 Master
+43,Environment & Nature,reduce,verb,kamaytirmoq,B2 Master
+44,Environment & Nature,renewable,adjective,qayta tiklanadigan,B2 Master
+45,Environment & Nature,resource,noun,"resurs, manba",B2 Master
+46,Environment & Nature,solar,adjective,quyoshga oid,B2 Master
+47,Environment & Nature,source,noun,manba,B2 Master
+48,Environment & Nature,species,noun,tur (biologik),B2 Master
+49,Environment & Nature,survival,noun,omon qolish,B2 Master
+50,Environment & Nature,survive,verb,omon qolmoq,B2 Master
+51,Environment & Nature,sustainable,adjective,barqaror,B2 Master
+52,Environment & Nature,threaten,verb,tahdid qilmoq,B2 Master
+53,Environment & Nature,toxic,adjective,zaharli,B2 Master
+54,Environment & Nature,waste,noun/verb,chiqindi / isrof qilmoq,B2 Master
+55,Environment & Nature,wildlife,noun,yovvoyi tabiat,B2 Master
+56,Society & Politics,abolish,verb,bekor qilmoq,B2 Master
+57,Society & Politics,abortion,noun,abort,B2 Master
+58,Society & Politics,abuse,noun/verb,suiiste'mol qilish / tahqirlamoq,B2 Master
+59,Society & Politics,administration,noun,ma'muriyat,B2 Master
+60,Society & Politics,affair,noun,"ish, masala",B2 Master
+61,Society & Politics,amendment,noun,tuzatish (qonunga),B2 Master
+62,Society & Politics,authority,noun,"hokimiyat, vakolat",B2 Master
+63,Society & Politics,border,noun,chegara,B2 Master
+64,Society & Politics,campaign,noun,kampaniya,B2 Master
+65,Society & Politics,candidate,noun,nomzod,B2 Master
+66,Society & Politics,capitalism,noun,kapitalizm,B2 Master
+67,Society & Politics,charity,noun,xayriya,B2 Master
+68,Society & Politics,citizen,noun,fuqaro,B2 Master
+69,Society & Politics,civil,adjective,fuqarolik,B2 Master
+70,Society & Politics,committee,noun,qo'mita,B2 Master
+71,Society & Politics,communism,noun,kommunizm,B2 Master
+72,Society & Politics,community,noun,hamjamiyat,B2 Master
+73,Society & Politics,conflict,noun,"mojaro, ziddiyat",B2 Master
+74,Society & Politics,conservative,adjective,konservativ,B2 Master
+75,Society & Politics,constitution,noun,konstitutsiya,B2 Master
+76,Society & Politics,corruption,noun,korrupsiya,B2 Master
+77,Society & Politics,council,noun,kengash,B2 Master
+78,Society & Politics,debate,noun/verb,munozara / bahslashmoq,B2 Master
+79,Society & Politics,declare,verb,e'lon qilmoq,B2 Master
+80,Society & Politics,democracy,noun,demokratiya,B2 Master
+81,Society & Politics,demonstration,noun,namoyish,B2 Master
+82,Society & Politics,discrimination,noun,kamsitish,B2 Master
+83,Society & Politics,election,noun,saylov,B2 Master
+84,Society & Politics,equality,noun,tenglik,B2 Master
+85,Society & Politics,freedom,noun,erkinlik,B2 Master
+86,Society & Politics,government,noun,hukumat,B2 Master
+87,Society & Politics,humanity,noun,insoniyat,B2 Master
+88,Society & Politics,immigration,noun,immigratsiya,B2 Master
+89,Society & Politics,independence,noun,mustaqillik,B2 Master
+90,Society & Politics,integrate,verb,"birlashtirmoq, integratsiya qilmoq",B2 Master
+91,Society & Politics,justice,noun,adolat,B2 Master
+92,Society & Politics,law,noun,qonun,B2 Master
+93,Society & Politics,leader,noun,rahbar,B2 Master
+94,Society & Politics,liberal,adjective,"liberal, erkin fikrli",B2 Master
+95,Society & Politics,liberty,noun,erkinlik,B2 Master
+96,Society & Politics,majority,noun,ko'pchilik,B2 Master
+97,Society & Politics,mayor,noun,shahar hokimi (mer),B2 Master
+98,Society & Politics,minority,noun,ozchilik,B2 Master
+99,Society & Politics,nation,noun,"millat, davlat",B2 Master
+100,Society & Politics,parliament,noun,parlament,B2 Master
+101,Society & Politics,party,noun,partiya (siyosiy),B2 Master
+102,Society & Politics,policy,noun,siyosat (yo'nalish),B2 Master
+103,Society & Politics,politician,noun,siyosatchi,B2 Master
+104,Society & Politics,poverty,noun,qashshoqlik,B2 Master
+105,Society & Politics,president,noun,prezident,B2 Master
+106,Society & Politics,protest,noun/verb,norozilik / namoyish qilmoq,B2 Master
+107,Society & Politics,racism,noun,irqchilik,B2 Master
+108,Society & Politics,rebel,verb/noun,isyon ko'tarmoq / isyonchi,B2 Master
+109,Society & Politics,refugee,noun,"qochoq, qochqin",B2 Master
+110,Society & Politics,regulation,noun,"qoida, nizom",B2 Master
+111,Society & Politics,republic,noun,respublika,B2 Master
+112,Society & Politics,resident,noun,"rezident, yashovchi",B2 Master
+113,Society & Politics,resolution,noun,"rezolyutsiya, qaror",B2 Master
+114,Society & Politics,revolution,noun,inqilob,B2 Master
+115,Society & Politics,right,noun,"huquq, o'ng",B2 Master
+116,Society & Politics,scandal,noun,"janjal, mojaro",B2 Master
+117,Society & Politics,security,noun,xavfsizlik,B2 Master
+118,Society & Politics,senate,noun,senat,B2 Master
+119,Society & Politics,society,noun,jamiyat,B2 Master
+120,Society & Politics,strike,noun/verb,ish tashlash,B2 Master
+121,Society & Politics,struggle,noun/verb,kurash / kurashmoq,B2 Master
+122,Society & Politics,tax,noun,soliq,B2 Master
+123,Society & Politics,terrorism,noun,terrorizm,B2 Master
+124,Society & Politics,threat,noun,tahdid,B2 Master
+125,Society & Politics,treaty,noun,"shartnoma, bitim",B2 Master
+126,Society & Politics,vote,verb/noun,ovoz bermoq / ovoz,B2 Master
+127,Society & Politics,welfare,noun,farovonlik,B2 Master
+128,Business & Work,accomplish,verb,"bajarmoq, erishmoq",B2 Master
+129,Business & Work,accountant,noun,hisobchi,B2 Master
+130,Business & Work,acquire,verb,"qabul qilmoq, qo'lga kiritmoq",B2 Master
+131,Business & Work,adjust,verb,"moslashtirmoq, to'g'rilamoq",B2 Master
+132,Business & Work,agency,noun,agentlik,B2 Master
+133,Business & Work,allocate,verb,"ajratmoq, taqsimlamoq",B2 Master
+134,Business & Work,allowance,noun,"nafaqa, pul ajratmasi",B2 Master
+135,Business & Work,analyze,verb,tahlil qilmoq,B2 Master
+136,Business & Work,application,noun,"ariza, ilova",B2 Master
+137,Business & Work,appoint,verb,tayinlamoq,B2 Master
+138,Business & Work,asset,noun,"aktiv, mulk",B2 Master
+139,Business & Work,bankrupt,adjective,bankrot bo'lgan,B2 Master
+140,Business & Work,benefit,noun/verb,foyda / foyda keltirmoq,B2 Master
+141,Business & Work,bonus,noun,mukofot puli (bonus),B2 Master
+142,Business & Work,brand,noun,brend,B2 Master
+143,Business & Work,budget,noun,byudjet,B2 Master
+144,Business & Work,capital,noun,sarmoya,B2 Master
+145,Business & Work,career,noun,"karyera, kasbiy yo'l",B2 Master
+146,Business & Work,colleague,noun,hamkasb,B2 Master
+147,Business & Work,commission,noun,komissiya (to'lovi),B2 Master
+148,Business & Work,company,noun,kompaniya,B2 Master
+149,Business & Work,compensate,verb,"qoplamoq, tovon to'lamoq",B2 Master
+150,Business & Work,competitor,noun,raqobatchi,B2 Master
+151,Business & Work,confirm,verb,tasdiqlamoq,B2 Master
+152,Business & Work,consultant,noun,maslahatchi,B2 Master
+153,Business & Work,consumer,noun,iste'molchi,B2 Master
+154,Business & Work,contract,noun,shartnoma,B2 Master
+155,Business & Work,cooperate,verb,hamkorlik qilmoq,B2 Master
+156,Business & Work,corporate,adjective,korporativ,B2 Master
+157,Business & Work,corporation,noun,korporatsiya,B2 Master
+158,Business & Work,currency,noun,valyuta,B2 Master
+159,Business & Work,customer,noun,mijoz,B2 Master
+160,Business & Work,debt,noun,qarz,B2 Master
+161,Business & Work,deficit,noun,"kamoq, defitsit",B2 Master
+162,Business & Work,demand,noun/verb,talab / talab qilmoq,B2 Master
+163,Business & Work,department,noun,bo'lim,B2 Master
+164,Business & Work,director,noun,direktor,B2 Master
+165,Business & Work,dismiss,verb,bo'shatmoq (ishdan),B2 Master
+166,Business & Work,distribute,verb,"tarqatmoq, taqsimlamoq",B2 Master
+167,Business & Work,economy,noun,iqtisodiyot,B2 Master
+168,Business & Work,employ,verb,ishga yollamoq,B2 Master
+169,Business & Work,employee,noun,xodim,B2 Master
+170,Business & Work,employer,noun,ish beruvchi,B2 Master
+171,Business & Work,enterprise,noun,"korxona, tashabbus",B2 Master
+172,Business & Work,entrepreneur,noun,tadbirkor,B2 Master
+173,Business & Work,evaluate,verb,baholamoq,B2 Master
+174,Business & Work,exchange,noun/verb,ayirboshlash,B2 Master
+175,Business & Work,executive,noun/adjective,"boshqaruvchi, ijroiya",B2 Master
+176,Business & Work,expand,verb,kengaytirmoq,B2 Master
+177,Business & Work,export,noun/verb,eksport,B2 Master
+178,Business & Work,finance,noun,moliya,B2 Master
+179,Business & Work,fund,noun/verb,fond / moliyalashtirmoq,B2 Master
+180,Business & Work,headquarters,noun,bosh qarorgoh,B2 Master
+181,Business & Work,hire,verb,ishga yollamoq,B2 Master
+182,Business & Work,import,noun/verb,import,B2 Master
+183,Business & Work,income,noun,daromad,B2 Master
+184,Business & Work,industry,noun,sanoat,B2 Master
+185,Business & Work,inflation,noun,inflyatsiya,B2 Master
+186,Business & Work,innovate,verb,yangi narsa yaratmoq,B2 Master
+187,Business & Work,insurance,noun,sug'urta,B2 Master
+188,Business & Work,invest,verb,investitsiya kiritmoq,B2 Master
+189,Business & Work,investment,noun,sarmoya (investitsiya),B2 Master
+190,Business & Work,launch,verb,ishga tushirmoq (mahsulot/loyiha),B2 Master
+191,Business & Work,loss,noun,"zarar, yo'qotish",B2 Master
+192,Business & Work,management,noun,boshqaruv,B2 Master
+193,Business & Work,manager,noun,menejer,B2 Master
+194,Business & Work,manufacture,verb,ishlab chiqarmoq,B2 Master
+195,Business & Work,market,noun,bozor,B2 Master
+196,Business & Work,negotiate,verb,muzokara olib bormoq,B2 Master
+197,Business & Work,network,noun,"tarmoq, aloqa o'rnatish",B2 Master
+198,Business & Work,objective,noun,maqsad,B2 Master
+199,Business & Work,operate,verb,"boshqarmoq, ishlatmoq",B2 Master
+200,Business & Work,organization,noun,tashkilot,B2 Master
+201,Business & Work,partner,noun,hamkor,B2 Master
+202,Business & Work,pension,noun,pensiya,B2 Master
+203,Business & Work,personnel,noun,xodimlar,B2 Master
+204,Business & Work,position,noun,lavozim,B2 Master
+205,Business & Work,predict,verb,bashorat qilmoq,B2 Master
+206,Business & Work,produce,verb,ishlab chiqarmoq,B2 Master
+207,Business & Work,product,noun,mahsulot,B2 Master
+208,Business & Work,profit,noun,foyda,B2 Master
+209,Business & Work,promote,verb,"ko'tarmoq (lavozimini), targ'ib qilmoq",B2 Master
+210,Business & Work,purchase,noun/verb,xarid / xarid qilmoq,B2 Master
+211,Business & Work,recruit,verb,yollamoq (yangi xodimlarni),B2 Master
+212,Business & Work,resign,verb,iste'foga chiqmoq,B2 Master
+213,Business & Work,retail,noun,chakana savdo,B2 Master
+214,Business & Work,revenue,noun,"daromad, tushum",B2 Master
+215,Business & Work,salary,noun,oylik maosh,B2 Master
+216,Business & Work,share,noun,"ulush, aksiya",B2 Master
+217,Business & Work,sponsor,noun/verb,homiy / homiylik qilmoq,B2 Master
+218,Business & Work,strategy,noun,strategiya,B2 Master
+219,Business & Work,supply,noun/verb,ta'minot / ta'minlamoq,B2 Master
+220,Business & Work,target,noun,"mo'ljal, maqsad",B2 Master
+221,Business & Work,trade,noun/verb,savdo / savdo qilmoq,B2 Master
+222,Business & Work,trend,noun,"trend, oqim",B2 Master
+223,Business & Work,unemployment,noun,ishsizlik,B2 Master
+224,Business & Work,wage,noun,ish haqi,B2 Master
+225,Business & Work,wealth,noun,boylik,B2 Master
+226,Education & Learning,academic,adjective,akademik,B2 Master
+227,Education & Learning,academy,noun,akademiya,B2 Master
+228,Education & Learning,admission,noun,qabul qilish (o'qishga),B2 Master
+229,Education & Learning,analysis,noun,tahlil,B2 Master
+230,Education & Learning,approach,noun/verb,yondashuv,B2 Master
+231,Education & Learning,assess,verb,baholamoq,B2 Master
+232,Education & Learning,assignment,noun,"vazifa, topshiriq",B2 Master
+233,Education & Learning,bachelor,noun,bakalavr,B2 Master
+234,Education & Learning,biology,noun,biologiya,B2 Master
+235,Education & Learning,campus,noun,universitet shaharchasi,B2 Master
+236,Education & Learning,certificate,noun,sertifikat,B2 Master
+237,Education & Learning,chemistry,noun,kimyo,B2 Master
+238,Education & Learning,college,noun,kollej,B2 Master
+239,Education & Learning,comprehend,verb,tushunib yetmoq,B2 Master
+240,Education & Learning,concept,noun,"tushuncha, konsepsiya",B2 Master
+241,Education & Learning,conclusion,noun,xulosa,B2 Master
+242,Education & Learning,course,noun,kurs,B2 Master
+243,Education & Learning,curriculum,noun,o'quv dasturi,B2 Master
+244,Education & Learning,degree,noun,ilmiy daraja,B2 Master
+245,Education & Learning,diploma,noun,diplom,B2 Master
+246,Education & Learning,discipline,noun,"intizom, fan yo'nalishi",B2 Master
+247,Education & Learning,discover,verb,kashf qilmoq,B2 Master
+248,Education & Learning,educate,verb,ta'lim bermoq,B2 Master
+249,Education & Learning,education,noun,ta'lim,B2 Master
+250,Education & Learning,essay,noun,esse,B2 Master
+251,Education & Learning,exam,noun,imtihon,B2 Master
+252,Education & Learning,experiment,noun,tajriba,B2 Master
+253,Education & Learning,faculty,noun,fakultet,B2 Master
+254,Education & Learning,fail,verb,yiqilmoq (imtihondan),B2 Master
+255,Education & Learning,geography,noun,geografiya,B2 Master
+256,Education & Learning,graduate,noun/verb,bitiruvchi / bitirmoq,B2 Master
+257,Education & Learning,history,noun,tarix,B2 Master
+258,Education & Learning,institute,noun,institut,B2 Master
+259,Education & Learning,instruct,verb,"ko'rsatma bermoq, o'qitmoq",B2 Master
+260,Education & Learning,instructor,noun,"yo'riqchi, o'qituvchi",B2 Master
+261,Education & Learning,knowledge,noun,bilim,B2 Master
+262,Education & Learning,laboratory,noun,laboratoriya,B2 Master
+263,Education & Learning,lecture,noun,ma'ruza,B2 Master
+264,Education & Learning,library,noun,kutubxona,B2 Master
+265,Education & Learning,master,noun,magistr,B2 Master
+266,Education & Learning,mathematics,noun,matematika,B2 Master
+267,Education & Learning,method,noun,"usul, metod",B2 Master
+268,Education & Learning,observation,noun,kuzatish,B2 Master
+269,Education & Learning,observe,verb,kuzatmoq,B2 Master
+270,Education & Learning,physics,noun,fizika,B2 Master
+271,Education & Learning,primary,adjective,"boshlang'ich, asosiy",B2 Master
+272,Education & Learning,principal,noun,direktor (maktabda),B2 Master
+273,Education & Learning,professor,noun,professor,B2 Master
+274,Education & Learning,project,noun,loyiha,B2 Master
+275,Education & Learning,pupil,noun,o'quvchi,B2 Master
+276,Education & Learning,qualification,noun,malaka,B2 Master
+277,Education & Learning,qualify,verb,malakaga ega bo'lmoq,B2 Master
+278,Education & Learning,research,noun/verb,tadqiqot,B2 Master
+279,Education & Learning,review,noun/verb,"ko'rib chiqmoq, takrorlamoq",B2 Master
+280,Education & Learning,scholar,noun,"olim, ziyoli",B2 Master
+281,Education & Learning,scholarship,noun,stipendiya,B2 Master
+282,Education & Learning,science,noun,ilm-fan,B2 Master
+283,Education & Learning,secondary,adjective,o'rta (ta'lim),B2 Master
+284,Education & Learning,semester,noun,semestr,B2 Master
+285,Education & Learning,seminar,noun,seminar,B2 Master
+286,Education & Learning,skill,noun,ko'nikma,B2 Master
+287,Education & Learning,student,noun,"talaba, o'quvchi",B2 Master
+288,Education & Learning,subject,noun,"fan, mavzu",B2 Master
+289,Education & Learning,survey,noun/verb,so'rovnoma / tadqiq qilmoq,B2 Master
+290,Education & Learning,syllabus,noun,o'quv dasturi (silabus),B2 Master
+291,Education & Learning,task,noun,vazifa,B2 Master
+292,Education & Learning,term,noun,"chorak, termin",B2 Master
+293,Education & Learning,test,noun/verb,test,B2 Master
+294,Education & Learning,theory,noun,nazariya,B2 Master
+295,Education & Learning,thesis,noun,"dissertatsiya, tezis",B2 Master
+296,Education & Learning,training,noun,"trening, mashg'ulot",B2 Master
+297,Education & Learning,tutor,noun,"repetitor, ustoz",B2 Master
+298,Education & Learning,university,noun,universitet,B2 Master
+299,Abstract Concepts & General Nouns,ability,noun,qobiliyat,B2 Master
+300,Abstract Concepts & General Nouns,absence,noun,"yo'qlik, qatnashmaslik",B2 Master
+301,Abstract Concepts & General Nouns,access,noun,"kirish, ruxsat",B2 Master
+302,Abstract Concepts & General Nouns,accident,noun,"tasodif, falokat",B2 Master
+303,Abstract Concepts & General Nouns,accuracy,noun,aniqlik,B2 Master
+304,Abstract Concepts & General Nouns,advantage,noun,"ustunlik, afzallik",B2 Master
+305,Abstract Concepts & General Nouns,amount,noun,miqdor,B2 Master
+306,Abstract Concepts & General Nouns,anger,noun,g'azab,B2 Master
+307,Abstract Concepts & General Nouns,anxiety,noun,"xavotir, tashvish",B2 Master
+308,Abstract Concepts & General Nouns,appearance,noun,tashqi ko'rinish,B2 Master
+309,Abstract Concepts & General Nouns,attention,noun,e'tibor,B2 Master
+310,Abstract Concepts & General Nouns,attitude,noun,"munosabat, yondashuv",B2 Master
+311,Abstract Concepts & General Nouns,beauty,noun,go'zallik,B2 Master
+312,Abstract Concepts & General Nouns,belief,noun,"e'tiqod, ishonch",B2 Master
+313,Abstract Concepts & General Nouns,capacity,noun,"sig'im, imkoniyat",B2 Master
+314,Abstract Concepts & General Nouns,cause,noun,sabab,B2 Master
+315,Abstract Concepts & General Nouns,chance,noun,"imkoniyat, tasodif",B2 Master
+316,Abstract Concepts & General Nouns,character,noun,"xarakter, qahramon",B2 Master
+317,Abstract Concepts & General Nouns,choice,noun,tanlov,B2 Master
+318,Abstract Concepts & General Nouns,circumstance,noun,"vaziyat, holat",B2 Master
+319,Abstract Concepts & General Nouns,combination,noun,"kombinatsiya, birikma",B2 Master
+320,Abstract Concepts & General Nouns,comfort,noun,qulaylik,B2 Master
+321,Abstract Concepts & General Nouns,commitment,noun,"majburiyat, sodiqlik",B2 Master
+322,Abstract Concepts & General Nouns,communication,noun,muloqot,B2 Master
+323,Abstract Concepts & General Nouns,comparison,noun,taqqoslash,B2 Master
+324,Abstract Concepts & General Nouns,competition,noun,"musobaqa, raqobat",B2 Master
+325,Abstract Concepts & General Nouns,condition,noun,"sharoit, holat",B2 Master
+326,Abstract Concepts & General Nouns,confidence,noun,ishonch,B2 Master
+327,Abstract Concepts & General Nouns,connection,noun,"aloqa, bog'lanish",B2 Master
+328,Abstract Concepts & General Nouns,construction,noun,"qurilish, tuzilish",B2 Master
+329,Abstract Concepts & General Nouns,content,noun,"tarkib, mazmun",B2 Master
+330,Abstract Concepts & General Nouns,context,noun,"kontekst, matn holati",B2 Master
+331,Abstract Concepts & General Nouns,contrast,noun,qarama-qarshilik,B2 Master
+332,Abstract Concepts & General Nouns,contribution,noun,hissa,B2 Master
+333,Abstract Concepts & General Nouns,creation,noun,"yaratilish, ijod",B2 Master
+334,Abstract Concepts & General Nouns,culture,noun,madaniyat,B2 Master
+335,Abstract Concepts & General Nouns,danger,noun,xavf,B2 Master
+336,Abstract Concepts & General Nouns,decision,noun,qaror,B2 Master
+337,Abstract Concepts & General Nouns,definition,noun,ta'rif,B2 Master
+338,Abstract Concepts & General Nouns,depth,noun,chuqurlik,B2 Master
+339,Abstract Concepts & General Nouns,description,noun,"tasvir, ta'rif",B2 Master
+340,Abstract Concepts & General Nouns,design,noun,dizayn,B2 Master
+341,Abstract Concepts & General Nouns,desire,noun,"istak, xohish",B2 Master
+342,Abstract Concepts & General Nouns,destruction,noun,"halokat, vayronagarchilik",B2 Master
+343,Abstract Concepts & General Nouns,detail,noun,"tafsilot, detal",B2 Master
+344,Abstract Concepts & General Nouns,development,noun,rivojlanish,B2 Master
+345,Abstract Concepts & General Nouns,difference,noun,farq,B2 Master
+346,Abstract Concepts & General Nouns,difficulty,noun,qiyinchilik,B2 Master
+347,Abstract Concepts & General Nouns,direction,noun,yo'nalish,B2 Master
+348,Abstract Concepts & General Nouns,discovery,noun,kashfiyot,B2 Master
+349,Abstract Concepts & General Nouns,discussion,noun,muhokama,B2 Master
+350,Abstract Concepts & General Nouns,disease,noun,kasallik,B2 Master
+351,Abstract Concepts & General Nouns,distance,noun,masofa,B2 Master
+352,Abstract Concepts & General Nouns,distribution,noun,taqsimot,B2 Master
+353,Abstract Concepts & General Nouns,doubt,noun,shubha,B2 Master
+354,Abstract Concepts & General Nouns,duty,noun,"burch, vazifa",B2 Master
+355,Abstract Concepts & General Nouns,effect,noun,"ta'sir, natija",B2 Master
+356,Abstract Concepts & General Nouns,effort,noun,"harakat, kuch-g'ayrat",B2 Master
+357,Abstract Concepts & General Nouns,element,noun,"element, qism",B2 Master
+358,Abstract Concepts & General Nouns,emotion,noun,his-tuyg'u,B2 Master
+359,Abstract Concepts & General Nouns,emphasis,noun,urg'u,B2 Master
+360,Abstract Concepts & General Nouns,energy,noun,energiya,B2 Master
+361,Abstract Concepts & General Nouns,error,noun,xato,B2 Master
+362,Abstract Concepts & General Nouns,event,noun,"hodisa, tadbir",B2 Master
+363,Abstract Concepts & General Nouns,evidence,noun,"dalil, isbot",B2 Master
+364,Abstract Concepts & General Nouns,example,noun,misol,B2 Master
+365,Abstract Concepts & General Nouns,exception,noun,istisno,B2 Master
+366,Abstract Concepts & General Nouns,existence,noun,mavjudlik,B2 Master
+367,Abstract Concepts & General Nouns,experience,noun,tajriba,B2 Master
+368,Abstract Concepts & General Nouns,explanation,noun,tushuntirish,B2 Master
+369,Abstract Concepts & General Nouns,expression,noun,ifoda,B2 Master
+370,Abstract Concepts & General Nouns,fact,noun,"fakt, haqiqat",B2 Master
+371,Abstract Concepts & General Nouns,factor,noun,omil,B2 Master
+372,Abstract Concepts & General Nouns,failure,noun,muvaffaqiyatsizlik,B2 Master
+373,Abstract Concepts & General Nouns,faith,noun,"ishonch, e'tiqod",B2 Master
+374,Abstract Concepts & General Nouns,fear,noun,qo'rquv,B2 Master
+375,Abstract Concepts & General Nouns,feature,noun,xususiyat,B2 Master
+376,Abstract Concepts & General Nouns,feeling,noun,tuyg'u,B2 Master
+377,Abstract Concepts & General Nouns,figure,noun,"shakl, raqam",B2 Master
+378,Abstract Concepts & General Nouns,focus,noun,diqqat markazi,B2 Master
+379,Abstract Concepts & General Nouns,force,noun,kuch,B2 Master
+380,Abstract Concepts & General Nouns,form,noun,"shakl, forma",B2 Master
+381,Abstract Concepts & General Nouns,function,noun,"funksiya, vazifa",B2 Master
+382,Abstract Concepts & General Nouns,future,noun,kelajak,B2 Master
+383,Abstract Concepts & General Nouns,goal,noun,maqsad,B2 Master
+384,Abstract Concepts & General Nouns,growth,noun,o'sish,B2 Master
+385,Abstract Concepts & General Nouns,habit,noun,odat,B2 Master
+386,Abstract Concepts & General Nouns,health,noun,sog'liq,B2 Master
+387,Abstract Concepts & General Nouns,height,noun,balandlik,B2 Master
+388,Abstract Concepts & General Nouns,hope,noun,umid,B2 Master
+389,Abstract Concepts & General Nouns,idea,noun,g'oya,B2 Master
+390,Abstract Concepts & General Nouns,identity,noun,"shaxsiyat, o'zlik",B2 Master
+391,Abstract Concepts & General Nouns,image,noun,"tasvir, imij",B2 Master
+392,Abstract Concepts & General Nouns,imagination,noun,tasavvur,B2 Master
+393,Abstract Concepts & General Nouns,importance,noun,muhimlik,B2 Master
+394,Abstract Concepts & General Nouns,impression,noun,taassurot,B2 Master
+395,Abstract Concepts & General Nouns,improvement,noun,yaxshilanish,B2 Master
+396,Abstract Concepts & General Nouns,incident,noun,"voqea, tasodif",B2 Master
+397,Abstract Concepts & General Nouns,influence,noun,ta'sir,B2 Master
+398,Abstract Concepts & General Nouns,information,noun,ma'lumot,B2 Master
+399,Abstract Concepts & General Nouns,instance,noun,"misol, holat",B2 Master
+400,Abstract Concepts & General Nouns,institution,noun,muassasa,B2 Master
+401,Abstract Concepts & General Nouns,instruction,noun,ko'rsatma,B2 Master
+402,Abstract Concepts & General Nouns,intelligence,noun,aql-idrok,B2 Master
+403,Abstract Concepts & General Nouns,intention,noun,niyat,B2 Master
+404,Abstract Concepts & General Nouns,interest,noun,"qiziqish, foiz",B2 Master
+405,Abstract Concepts & General Nouns,issue,noun,"masala, muammo",B2 Master
+406,Abstract Concepts & General Nouns,joy,noun,quvonch,B2 Master
+407,Abstract Concepts & General Nouns,judgment,noun,"hukm, xulosa",B2 Master
+408,Abstract Concepts & General Nouns,lack,noun,yetishmovchilik,B2 Master
+409,Abstract Concepts & General Nouns,language,noun,til,B2 Master
+410,Abstract Concepts & General Nouns,length,noun,uzunlik,B2 Master
+411,Abstract Concepts & General Nouns,level,noun,daraja,B2 Master
+412,Abstract Concepts & General Nouns,limit,noun,cheklov,B2 Master
+413,Abstract Concepts & General Nouns,love,noun,muhabbat,B2 Master
+414,Abstract Concepts & General Nouns,luck,noun,omad,B2 Master
+415,Abstract Concepts & General Nouns,marriage,noun,turmush (nikoh),B2 Master
+416,Abstract Concepts & General Nouns,material,noun,material,B2 Master
+417,Abstract Concepts & General Nouns,matter,noun,"masala, modda",B2 Master
+418,Abstract Concepts & General Nouns,meaning,noun,ma'no,B2 Master
+419,Abstract Concepts & General Nouns,measure,noun,"o'lchov, chora",B2 Master
+420,Abstract Concepts & General Nouns,memory,noun,xotira,B2 Master
+421,Abstract Concepts & General Nouns,mind,noun,"aql, ong",B2 Master
+422,Abstract Concepts & General Nouns,mistake,noun,xato,B2 Master
+423,Abstract Concepts & General Nouns,movement,noun,harakat,B2 Master
+424,Abstract Concepts & General Nouns,nature,noun,tabiat,B2 Master
+425,Abstract Concepts & General Nouns,need,noun,ehtiyoj,B2 Master
+426,Abstract Concepts & General Nouns,number,noun,"raqam, son",B2 Master
+427,Abstract Concepts & General Nouns,object,noun,"obyekt, narsa",B2 Master
+428,Abstract Concepts & General Nouns,occasion,noun,"holat, vaziyat",B2 Master
+429,Abstract Concepts & General Nouns,operation,noun,operatsiya,B2 Master
+430,Abstract Concepts & General Nouns,opinion,noun,fikr,B2 Master
+431,Abstract Concepts & General Nouns,opportunity,noun,imkoniyat,B2 Master
+432,Abstract Concepts & General Nouns,option,noun,"variant, tanlov",B2 Master
+433,Abstract Concepts & General Nouns,order,noun,"tartib, buyruq",B2 Master
+434,Abstract Concepts & General Nouns,origin,noun,kelib chiqish,B2 Master
+435,Abstract Concepts & General Nouns,outcome,noun,natija,B2 Master
+436,Abstract Concepts & General Nouns,pain,noun,og'riq,B2 Master
+437,Abstract Concepts & General Nouns,part,noun,qism,B2 Master
+438,Abstract Concepts & General Nouns,pattern,noun,"andoza, qolip",B2 Master
+439,Abstract Concepts & General Nouns,peace,noun,tinchlik,B2 Master
+440,Abstract Concepts & General Nouns,performance,noun,"ijro, unumdorlik",B2 Master
+441,Abstract Concepts & General Nouns,period,noun,davr,B2 Master
+442,Abstract Concepts & General Nouns,permission,noun,ruxsat,B2 Master
+443,Abstract Concepts & General Nouns,person,noun,shaxs,B2 Master
+444,Abstract Concepts & General Nouns,personality,noun,shaxsiyat,B2 Master
+445,Abstract Concepts & General Nouns,phase,noun,"faza, bosqich",B2 Master
+446,Abstract Concepts & General Nouns,philosophy,noun,falsafa,B2 Master
+447,Abstract Concepts & General Nouns,picture,noun,"rasm, tasavvur",B2 Master
+448,Abstract Concepts & General Nouns,piece,noun,bo'lak,B2 Master
+449,Abstract Concepts & General Nouns,place,noun,joy,B2 Master
+450,Abstract Concepts & General Nouns,plan,noun,reja,B2 Master

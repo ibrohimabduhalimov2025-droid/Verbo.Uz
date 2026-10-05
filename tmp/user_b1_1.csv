@@ -1,0 +1,500 @@
+1,Health & Lifestyle,active,adjective,faol,B1 Master
+2,Health & Lifestyle,allergy,noun,allergiya,B1 Master
+3,Health & Lifestyle,appointment,noun,"uchrashuv, qabul",B1 Master
+4,Health & Lifestyle,bleed,verb,qonamoq,B1 Master
+5,Health & Lifestyle,blood,noun,qon,B1 Master
+6,Health & Lifestyle,body,noun,tana,B1 Master
+7,Health & Lifestyle,bone,noun,suyak,B1 Master
+8,Health & Lifestyle,brain,noun,miya,B1 Master
+9,Health & Lifestyle,breath,noun,nafas,B1 Master
+10,Health & Lifestyle,breathe,verb,nafas olmoq,B1 Master
+11,Health & Lifestyle,cancer,noun,"saraton, rak",B1 Master
+12,Health & Lifestyle,care,noun/verb,"g'amxo'rlik, g'amxo'rlik qilmoq",B1 Master
+13,Health & Lifestyle,check-up,noun,tibbiy ko'rik,B1 Master
+14,Health & Lifestyle,clinic,noun,klinika,B1 Master
+15,Health & Lifestyle,cold,noun,shamollash,B1 Master
+16,Health & Lifestyle,cough,verb/noun,"yo'talmoq, yo'tal",B1 Master
+17,Health & Lifestyle,cure,verb/noun,"davolamoq, shifo",B1 Master
+18,Health & Lifestyle,cut,verb/noun,"kesmoq, jarohat",B1 Master
+19,Health & Lifestyle,damage,verb/noun,"zarar yetkazmoq, zarar",B1 Master
+20,Health & Lifestyle,dead,adjective,o'lik,B1 Master
+21,Health & Lifestyle,deaf,adjective,kar,B1 Master
+22,Health & Lifestyle,death,noun,o'lim,B1 Master
+23,Health & Lifestyle,dentist,noun,tish shifokori,B1 Master
+24,Health & Lifestyle,diet,noun,parhez,B1 Master
+25,Health & Lifestyle,disease,noun,kasallik,B1 Master
+26,Health & Lifestyle,drug,noun,"dori, giyohvand modda",B1 Master
+27,Health & Lifestyle,earache,noun,quloq og'rig'i,B1 Master
+28,Health & Lifestyle,emergency,noun,favqulodda holat,B1 Master
+29,Health & Lifestyle,exercise,noun/verb,"mashq, mashq qilmoq",B1 Master
+30,Health & Lifestyle,fever,noun,isitma,B1 Master
+31,Health & Lifestyle,fit,adjective,"sog'lom, jismoniy baquvvat",B1 Master
+32,Health & Lifestyle,flu,noun,gripp,B1 Master
+33,Health & Lifestyle,headache,noun,bosh og'rig'i,B1 Master
+34,Health & Lifestyle,heal,verb,tuzalmoq,B1 Master
+35,Health & Lifestyle,health,noun,sog'liq,B1 Master
+36,Health & Lifestyle,healthy,adjective,sog'lom,B1 Master
+37,Health & Lifestyle,heart,noun,yurak,B1 Master
+38,Health & Lifestyle,hospital,noun,shifoxona,B1 Master
+39,Health & Lifestyle,hurt,verb,"og'rimoq, jarohatlamoq",B1 Master
+40,Health & Lifestyle,ill,adjective,"kasal, xasta",B1 Master
+41,Health & Lifestyle,illness,noun,kasallik,B1 Master
+42,Health & Lifestyle,infection,noun,infeksiya,B1 Master
+43,Health & Lifestyle,injure,verb,shikastlamoq,B1 Master
+44,Health & Lifestyle,injury,noun,jarohat,B1 Master
+45,Health & Lifestyle,medicine,noun,"dori, tibbiyot",B1 Master
+46,Health & Lifestyle,muscle,noun,"muskul, mushak",B1 Master
+47,Health & Lifestyle,nurse,noun,hamshira,B1 Master
+48,Health & Lifestyle,operation,noun,operatsiya,B1 Master
+49,Health & Lifestyle,pain,noun,og'riq,B1 Master
+50,Health & Lifestyle,patient,noun,bemor,B1 Master
+51,Science & Technology,application,noun,ilova,B1 Master
+52,Science & Technology,attach,verb,"ilova qilmoq, qo'shmoq",B1 Master
+53,Science & Technology,battery,noun,batareya,B1 Master
+54,Science & Technology,cable,noun,kabel,B1 Master
+55,Science & Technology,calculate,verb,hisoblamoq,B1 Master
+56,Science & Technology,calculator,noun,kalkulyator,B1 Master
+57,Science & Technology,camera,noun,kamera,B1 Master
+58,Science & Technology,charge,verb,quvvatlamoq,B1 Master
+59,Science & Technology,click,verb,bosmoq (sichqonchani),B1 Master
+60,Science & Technology,computer,noun,kompyuter,B1 Master
+61,Science & Technology,connect,verb,ulamoq,B1 Master
+62,Science & Technology,connection,noun,"aloqa, ulanish",B1 Master
+63,Science & Technology,copy,verb/noun,"nusxa ko'chirmoq, nusxa",B1 Master
+64,Science & Technology,data,noun,ma'lumot,B1 Master
+65,Science & Technology,delete,verb,o'chirmoq,B1 Master
+66,Science & Technology,design,verb/noun,"dizayn, loyihalamoq",B1 Master
+67,Science & Technology,device,noun,qurilma,B1 Master
+68,Science & Technology,digital,adjective,raqamli,B1 Master
+69,Science & Technology,discover,verb,kashf qilmoq,B1 Master
+70,Science & Technology,discovery,noun,kashfiyot,B1 Master
+71,Science & Technology,document,noun,hujjat,B1 Master
+72,Science & Technology,download,verb,ko'chirib olmoq,B1 Master
+73,Science & Technology,electric,adjective,elektr,B1 Master
+74,Science & Technology,electricity,noun,elektr toki,B1 Master
+75,Science & Technology,electronic,adjective,elektron,B1 Master
+76,Science & Technology,email,noun/verb,elektron pochta,B1 Master
+77,Science & Technology,energy,noun,energiya,B1 Master
+78,Science & Technology,engine,noun,dvigatel,B1 Master
+79,Science & Technology,engineer,noun,muhandis,B1 Master
+80,Science & Technology,equipment,noun,uskuna,B1 Master
+81,Science & Technology,experiment,noun/verb,tajriba,B1 Master
+82,Science & Technology,factory,noun,"zavod, fabrika",B1 Master
+83,Science & Technology,file,noun,fayl,B1 Master
+84,Science & Technology,folder,noun,papka,B1 Master
+85,Science & Technology,hardware,noun,apparat qismi,B1 Master
+86,Science & Technology,install,verb,o'rnatmoq,B1 Master
+87,Science & Technology,internet,noun,internet,B1 Master
+88,Science & Technology,invent,verb,ixtiro qilmoq,B1 Master
+89,Science & Technology,invention,noun,ixtiro,B1 Master
+90,Science & Technology,keyboard,noun,klaviatura,B1 Master
+91,Science & Technology,laptop,noun,noutbuk,B1 Master
+92,Science & Technology,machine,noun,"mashina, uskuna",B1 Master
+93,Science & Technology,memory,noun,xotira,B1 Master
+94,Science & Technology,message,noun,xabar,B1 Master
+95,Science & Technology,mobile,adjective/noun,"mobil, telefon",B1 Master
+96,Science & Technology,mouse,noun,sichqoncha (kompyuter),B1 Master
+97,Science & Technology,network,noun,tarmoq,B1 Master
+98,Science & Technology,password,noun,parol,B1 Master
+99,Science & Technology,print,verb,chop etmoq,B1 Master
+100,Science & Technology,printer,noun,printer,B1 Master
+101,Work & Occupations,actor,noun,aktyor,B1 Master
+102,Work & Occupations,actress,noun,aktrisa,B1 Master
+103,Work & Occupations,architect,noun,me'mor,B1 Master
+104,Work & Occupations,artist,noun,"rassom, san'atkor",B1 Master
+105,Work & Occupations,assistant,noun,yordamchi,B1 Master
+106,Work & Occupations,author,noun,muallif,B1 Master
+107,Work & Occupations,baker,noun,novvoy,B1 Master
+108,Work & Occupations,boss,noun,"xo'jayin, boshliq",B1 Master
+109,Work & Occupations,builder,noun,quruvchi,B1 Master
+110,Work & Occupations,butcher,noun,qassob,B1 Master
+111,Work & Occupations,career,noun,"karyera, kasbiy yo'l",B1 Master
+112,Work & Occupations,chef,noun,oshpaz,B1 Master
+113,Work & Occupations,clerk,noun,"xizmatchi, kotib",B1 Master
+114,Work & Occupations,colleague,noun,hamkasb,B1 Master
+115,Work & Occupations,company,noun,kompaniya,B1 Master
+116,Work & Occupations,contract,noun,shartnoma,B1 Master
+117,Work & Occupations,director,noun,"direktor, rejissyor",B1 Master
+118,Work & Occupations,doctor,noun,shifokor,B1 Master
+119,Work & Occupations,driver,noun,haydovchi,B1 Master
+120,Work & Occupations,employ,verb,ishga yollamoq,B1 Master
+121,Work & Occupations,employee,noun,xodim,B1 Master
+122,Work & Occupations,employer,noun,ish beruvchi,B1 Master
+123,Work & Occupations,farmer,noun,fermer,B1 Master
+124,Work & Occupations,firefighter,noun,o't o'chiruvchi,B1 Master
+125,Work & Occupations,guard,noun,qorovul,B1 Master
+126,Work & Occupations,hairdresser,noun,sartarosh,B1 Master
+127,Work & Occupations,interview,noun/verb,suhbat,B1 Master
+128,Work & Occupations,journalist,noun,jurnalist,B1 Master
+129,Work & Occupations,lawyer,noun,"huquqshunos, yurist",B1 Master
+130,Work & Occupations,manager,noun,menejer,B1 Master
+131,Work & Occupations,mechanic,noun,mexanik,B1 Master
+132,Work & Occupations,musician,noun,musiqachi,B1 Master
+133,Work & Occupations,office,noun,"ofis, idora",B1 Master
+134,Work & Occupations,officer,noun,"zobit, xodim",B1 Master
+135,Work & Occupations,photographer,noun,fotograf,B1 Master
+136,Work & Occupations,pilot,noun,uchuvchi,B1 Master
+137,Work & Occupations,police,noun,politsiya,B1 Master
+138,Work & Occupations,politician,noun,siyosatchi,B1 Master
+139,Work & Occupations,profession,noun,kasb,B1 Master
+140,Work & Occupations,receptionist,noun,qabulxona xodimi,B1 Master
+141,Work & Occupations,retire,verb,nafaqaga chiqmoq,B1 Master
+142,Work & Occupations,salary,noun,oylik,B1 Master
+143,Work & Occupations,scientist,noun,olim,B1 Master
+144,Work & Occupations,secretary,noun,kotiba,B1 Master
+145,Work & Occupations,soldier,noun,askar,B1 Master
+146,Work & Occupations,staff,noun,"shtat, xodimlar",B1 Master
+147,Work & Occupations,unemployed,adjective,ishsiz,B1 Master
+148,Clothes & Fashion,belt,noun,kamar,B1 Master
+149,Clothes & Fashion,blouse,noun,bluzka,B1 Master
+150,Clothes & Fashion,boot,noun,etik,B1 Master
+151,Clothes & Fashion,button,noun,tugma,B1 Master
+152,Clothes & Fashion,casual,adjective,kundalik (kiyim),B1 Master
+153,Clothes & Fashion,clothes,noun,kiyimlar,B1 Master
+154,Clothes & Fashion,coat,noun,palto,B1 Master
+155,Clothes & Fashion,collar,noun,yoqa,B1 Master
+156,Clothes & Fashion,cotton,noun,"paxta, ip-gazlama",B1 Master
+157,Clothes & Fashion,dress,noun,ko'ylak (ayollar),B1 Master
+158,Clothes & Fashion,fashion,noun,moda,B1 Master
+159,Clothes & Fashion,fashionable,adjective,"zamonaviy, modaga mos",B1 Master
+160,Clothes & Fashion,glove,noun,qo'lqop,B1 Master
+161,Clothes & Fashion,hat,noun,"shlyapa, bosh kiyim",B1 Master
+162,Clothes & Fashion,jacket,noun,"kurtka, pidjak",B1 Master
+163,Clothes & Fashion,jeans,noun,jinsi,B1 Master
+164,Clothes & Fashion,jewellery,noun,zargarlik buyumlari,B1 Master
+165,Clothes & Fashion,jumper,noun,jemper,B1 Master
+166,Clothes & Fashion,leather,noun,"charm, teri",B1 Master
+167,Clothes & Fashion,match,verb,mos tushmoq,B1 Master
+168,Clothes & Fashion,necklace,noun,marjon,B1 Master
+169,Clothes & Fashion,old-fashioned,adjective,urf-odatdan qolgan,B1 Master
+170,Clothes & Fashion,pattern,noun,"naqsh, andoza",B1 Master
+171,Clothes & Fashion,pocket,noun,cho'ntak,B1 Master
+172,Clothes & Fashion,pullover,noun,pullover,B1 Master
+173,Clothes & Fashion,purse,noun,karmon (ayollar),B1 Master
+174,Clothes & Fashion,ring,noun,uzuk,B1 Master
+175,Clothes & Fashion,scarf,noun,sharf,B1 Master
+176,Clothes & Fashion,shirt,noun,ko'ylak (erkaklar),B1 Master
+177,Clothes & Fashion,shoe,noun,tuflik,B1 Master
+178,Clothes & Fashion,skirt,noun,yubka,B1 Master
+179,Clothes & Fashion,smart,adjective,"o'ziga tortadigan, didli",B1 Master
+180,Clothes & Fashion,sock,noun,paypoq,B1 Master
+181,Clothes & Fashion,suit,noun,kostyum,B1 Master
+182,Clothes & Fashion,sweater,noun,sviter,B1 Master
+183,Clothes & Fashion,tie,noun,bo'yinbog',B1 Master
+184,Clothes & Fashion,tights,noun,kolgotka,B1 Master
+185,Clothes & Fashion,trainers,noun,krossovka,B1 Master
+186,Clothes & Fashion,trousers,noun,shim,B1 Master
+187,Clothes & Fashion,try on,verb,kiyib ko'rmoq,B1 Master
+188,Clothes & Fashion,umbrella,noun,soyabon,B1 Master
+189,Clothes & Fashion,underwear,noun,ichki kiyim,B1 Master
+190,Clothes & Fashion,uniform,noun,forma,B1 Master
+191,Clothes & Fashion,wallet,noun,hamyon,B1 Master
+192,Clothes & Fashion,wear,verb,kiymoq,B1 Master
+193,Arts & Culture,act,verb,rol o'ynamoq,B1 Master
+194,Arts & Culture,action,noun,"harakat, jangari",B1 Master
+195,Arts & Culture,advertisement,noun,reklama,B1 Master
+196,Arts & Culture,art,noun,san'at,B1 Master
+197,Arts & Culture,article,noun,maqola,B1 Master
+198,Arts & Culture,audience,noun,tomoshabinlar,B1 Master
+199,Arts & Culture,band,noun,musiqiy guruh,B1 Master
+200,Arts & Culture,book,noun,kitob,B1 Master
+201,Arts & Culture,channel,noun,kanal,B1 Master
+202,Arts & Culture,character,noun,qahramon,B1 Master
+203,Arts & Culture,cinema,noun,kino,B1 Master
+204,Arts & Culture,collection,noun,kolleksiya,B1 Master
+205,Arts & Culture,comedy,noun,komediya,B1 Master
+206,Arts & Culture,concert,noun,konsert,B1 Master
+207,Arts & Culture,culture,noun,madaniyat,B1 Master
+208,Arts & Culture,dance,verb/noun,"raqs, raqs tushmoq",B1 Master
+209,Arts & Culture,display,verb/noun,"ko'rgazma, namoyish",B1 Master
+210,Arts & Culture,documentary,noun,hujjatli film,B1 Master
+211,Arts & Culture,drama,noun,drama,B1 Master
+212,Arts & Culture,drawing,noun,"chizma, rasm",B1 Master
+213,Arts & Culture,entertainment,noun,ko'ngilochar,B1 Master
+214,Arts & Culture,episode,noun,"epizod, qism",B1 Master
+215,Arts & Culture,exhibition,noun,ko'rgazma,B1 Master
+216,Arts & Culture,festival,noun,festival,B1 Master
+217,Arts & Culture,fiction,noun,badiiy adabiyot,B1 Master
+218,Arts & Culture,film,noun,film,B1 Master
+219,Arts & Culture,gallery,noun,galereya,B1 Master
+220,Arts & Culture,headline,noun,sarlavha,B1 Master
+221,Arts & Culture,instrument,noun,asbob (musiqa),B1 Master
+222,Arts & Culture,magazine,noun,jurnal,B1 Master
+223,Arts & Culture,magic,noun,sehr,B1 Master
+224,Arts & Culture,movie,noun,kino,B1 Master
+225,Arts & Culture,museum,noun,muzey,B1 Master
+226,Arts & Culture,music,noun,musiqa,B1 Master
+227,Arts & Culture,news,noun,yangiliklar,B1 Master
+228,Arts & Culture,newspaper,noun,gazeta,B1 Master
+229,Arts & Culture,paint,verb,rasm chizmoq (bo'yoq bilan),B1 Master
+230,Arts & Culture,painter,noun,rassom,B1 Master
+231,Arts & Culture,painting,noun,"rangtasvir, rasm",B1 Master
+232,Arts & Culture,performance,noun,"ijro, tomosha",B1 Master
+233,Arts & Culture,photograph,noun,fotosurat,B1 Master
+234,Arts & Culture,play,noun/verb,"spektakl, o'ynamoq",B1 Master
+235,Society & Politics,campaign,noun,kampaniya,B1 Master
+236,Society & Politics,candidate,noun,nomzod,B1 Master
+237,Society & Politics,capital,noun,poytaxt,B1 Master
+238,Society & Politics,citizen,noun,fuqaro,B1 Master
+239,Society & Politics,community,noun,jamiyat,B1 Master
+240,Society & Politics,council,noun,kengash,B1 Master
+241,Society & Politics,country,noun,mamlakat,B1 Master
+242,Society & Politics,crime,noun,jinoyat,B1 Master
+243,Society & Politics,criminal,noun,jinoyatchi,B1 Master
+244,Society & Politics,custom,noun,urf-odat,B1 Master
+245,Society & Politics,democracy,noun,demokratiya,B1 Master
+246,Society & Politics,development,noun,rivojlanish,B1 Master
+247,Society & Politics,economy,noun,iqtisodiyot,B1 Master
+248,Society & Politics,election,noun,saylov,B1 Master
+249,Society & Politics,environment,noun,atrof-muhit,B1 Master
+250,Society & Politics,event,noun,"hodisa, tadbir",B1 Master
+251,Society & Politics,freedom,noun,erkinlik,B1 Master
+252,Society & Politics,generation,noun,avlod,B1 Master
+253,Society & Politics,government,noun,hukumat,B1 Master
+254,Society & Politics,history,noun,tarix,B1 Master
+255,Society & Politics,independent,adjective,mustaqil,B1 Master
+256,Society & Politics,international,adjective,xalqaro,B1 Master
+257,Society & Politics,law,noun,qonun,B1 Master
+258,Society & Politics,leader,noun,"rahbar, yetakchi",B1 Master
+259,Society & Politics,local,adjective,mahalliy,B1 Master
+260,Society & Politics,mayor,noun,"mer, shahar hokimi",B1 Master
+261,Society & Politics,member,noun,a'zo,B1 Master
+262,Society & Politics,minister,noun,vazir,B1 Master
+263,Society & Politics,nation,noun,"millat, davlat",B1 Master
+264,Society & Politics,national,adjective,milliy,B1 Master
+265,Society & Politics,official,noun/adjective,"rasmiy shaxs, rasmiy",B1 Master
+266,Society & Politics,parliament,noun,parlament,B1 Master
+267,Society & Politics,peace,noun,tinchlik,B1 Master
+268,Society & Politics,policy,noun,siyosat (yo'nalish),B1 Master
+269,Society & Politics,political,adjective,siyosiy,B1 Master
+270,Society & Politics,politics,noun,siyosat,B1 Master
+271,Society & Politics,population,noun,aholi,B1 Master
+272,Society & Politics,president,noun,prezident,B1 Master
+273,Society & Politics,prime minister,noun,bosh vazir,B1 Master
+274,Society & Politics,prison,noun,qamoq,B1 Master
+275,Society & Politics,project,noun,loyiha,B1 Master
+276,Society & Politics,public,noun/adjective,"ommaviy, jamoatchilik",B1 Master
+277,Society & Politics,region,noun,mintaqa,B1 Master
+278,Society & Politics,republic,noun,respublika,B1 Master
+279,Society & Politics,rule,noun,qoida,B1 Master
+280,Society & Politics,society,noun,jamiyat,B1 Master
+281,Society & Politics,state,noun,"shtat, davlat",B1 Master
+282,Everyday Actions,absorb,verb,shimib olmoq,B1 Master
+283,Everyday Actions,accept,verb,qabul qilmoq,B1 Master
+284,Everyday Actions,achieve,verb,erishmoq,B1 Master
+285,Everyday Actions,add,verb,qo'shmoq,B1 Master
+286,Everyday Actions,admit,verb,tan olmoq,B1 Master
+287,Everyday Actions,afford,verb,qurbi yetmoq,B1 Master
+288,Everyday Actions,agree,verb,rozi bo'lmoq,B1 Master
+289,Everyday Actions,allow,verb,ruxsat bermoq,B1 Master
+290,Everyday Actions,announce,verb,e'lon qilmoq,B1 Master
+291,Everyday Actions,apologize,verb,uzr so'ramoq,B1 Master
+292,Everyday Actions,appear,verb,paydo bo'lmoq,B1 Master
+293,Everyday Actions,apply,verb,"qo'llamoq, ariza bermoq",B1 Master
+294,Everyday Actions,argue,verb,tortishmoq,B1 Master
+295,Everyday Actions,arrange,verb,tashkil qilmoq,B1 Master
+296,Everyday Actions,arrive,verb,yetib kelmoq,B1 Master
+297,Everyday Actions,ask,verb,so'ramoq,B1 Master
+298,Everyday Actions,attack,verb,hujum qilmoq,B1 Master
+299,Everyday Actions,attend,verb,qatnashmoq,B1 Master
+300,Everyday Actions,avoid,verb,qochmoq (biror narsadan),B1 Master
+301,Everyday Actions,beat,verb,"urmoq, yengmoq",B1 Master
+302,Everyday Actions,become,verb,bo'lmoq (aylanmoq),B1 Master
+303,Everyday Actions,begin,verb,boshlamoq,B1 Master
+304,Everyday Actions,believe,verb,ishonmoq,B1 Master
+305,Everyday Actions,belong,verb,tegishli bo'lmoq,B1 Master
+306,Everyday Actions,borrow,verb,qarz olmoq,B1 Master
+307,Everyday Actions,bother,verb,bezovta qilmoq,B1 Master
+308,Everyday Actions,break,verb,sindirmoq,B1 Master
+309,Everyday Actions,bring,verb,olib kelmoq,B1 Master
+310,Everyday Actions,build,verb,qurmoq,B1 Master
+311,Everyday Actions,burn,verb,"yonmoq, yoqmoq",B1 Master
+312,Everyday Actions,buy,verb,sotib olmoq,B1 Master
+313,Everyday Actions,call,verb,"chaqirmoq, telefon qilmoq",B1 Master
+314,Everyday Actions,cancel,verb,bekor qilmoq,B1 Master
+315,Everyday Actions,carry,verb,"tashimoq, ko'tarib yurmoq",B1 Master
+316,Everyday Actions,catch,verb,tutmoq,B1 Master
+317,Everyday Actions,cause,verb,sabab bo'lmoq,B1 Master
+318,Everyday Actions,celebrate,verb,nishonlamoq,B1 Master
+319,Everyday Actions,change,verb,o'zgartirmoq,B1 Master
+320,Everyday Actions,check,verb,tekshirmoq,B1 Master
+321,Everyday Actions,choose,verb,tanlamoq,B1 Master
+322,Everyday Actions,clean,verb,tozalamoq,B1 Master
+323,Everyday Actions,clear,verb,"bo'shatmoq, tozalamoq",B1 Master
+324,Everyday Actions,climb,verb,tirmashib chiqmoq,B1 Master
+325,Everyday Actions,close,verb,yopmoq,B1 Master
+326,Everyday Actions,collect,verb,yig'moq,B1 Master
+327,Everyday Actions,come,verb,kelmoq,B1 Master
+328,Everyday Actions,compare,verb,taqqoslamoq,B1 Master
+329,Everyday Actions,complain,verb,shikoyat qilmoq,B1 Master
+330,Everyday Actions,complete,verb,tugatmoq,B1 Master
+331,Everyday Actions,concentrate,verb,diqqatni jamlamoq,B1 Master
+332,Everyday Actions,confirm,verb,tasdiqlamoq,B1 Master
+333,Everyday Actions,consider,verb,o'ylab ko'rmoq,B1 Master
+334,Everyday Actions,consist,verb,iborat bo'lmoq,B1 Master
+335,Everyday Actions,contain,verb,o'z ichiga olmoq,B1 Master
+336,Everyday Actions,continue,verb,davom ettirmoq,B1 Master
+337,Everyday Actions,contribute,verb,hissa qo'shmoq,B1 Master
+338,Everyday Actions,control,verb,nazorat qilmoq,B1 Master
+339,Everyday Actions,cook,verb,pishirmoq,B1 Master
+340,Everyday Actions,correct,verb,to'g'rilamoq,B1 Master
+341,Everyday Actions,cost,verb,turmoq (narx),B1 Master
+342,Everyday Actions,count,verb,sanamoq,B1 Master
+343,Everyday Actions,cover,verb,qoplamoq,B1 Master
+344,Everyday Actions,crash,verb,to'qnashmoq,B1 Master
+345,Everyday Actions,create,verb,yaratmoq,B1 Master
+346,Everyday Actions,cross,verb,kesib o'tmoq,B1 Master
+347,Everyday Actions,cry,verb,yig'lamoq,B1 Master
+348,Everyday Actions,deal,verb,"shug'ullanmoq, kelishmoq",B1 Master
+349,Everyday Actions,decide,verb,qaror qilmoq,B1 Master
+350,Everyday Actions,decrease,verb,kamaytirmoq,B1 Master
+351,Everyday Actions,delay,verb,kechiktirmoq,B1 Master
+352,Everyday Actions,deliver,verb,yetkazib bermoq,B1 Master
+353,Everyday Actions,demand,verb,talab qilmoq,B1 Master
+354,Everyday Actions,deny,verb,rad etmoq,B1 Master
+355,Everyday Actions,depend,verb,bog'liq bo'lmoq,B1 Master
+356,Everyday Actions,describe,verb,tasvirlamoq,B1 Master
+357,Everyday Actions,destroy,verb,"buzmoq, vayron qilmoq",B1 Master
+358,Everyday Actions,develop,verb,rivojlanmoq,B1 Master
+359,Everyday Actions,die,verb,o'lmoq,B1 Master
+360,Everyday Actions,disappear,verb,g'oyib bo'lmoq,B1 Master
+361,Everyday Actions,discuss,verb,muhokama qilmoq,B1 Master
+362,Everyday Actions,divide,verb,bo'lmoq,B1 Master
+363,Everyday Actions,do,verb,qilmoq,B1 Master
+364,Everyday Actions,draw,verb,chizmoq,B1 Master
+365,Everyday Actions,dream,verb,"orzu qilmoq, tush ko'rmoq",B1 Master
+366,Everyday Actions,drop,verb,"tushirib yubormoq, tushmoq",B1 Master
+367,Personality & Character,brave,adjective,jasur,B1 Master
+368,Personality & Character,generous,adjective,saxiy,B1 Master
+369,Personality & Character,selfish,adjective,xudbin,B1 Master
+370,Personality & Character,polite,adjective,"odobli, xushmuomala",B1 Master
+371,Personality & Character,rude,adjective,qo'pol,B1 Master
+372,Personality & Character,impatient,adjective,"besabr, toqatsiz",B1 Master
+373,Personality & Character,lazy,adjective,dangasa,B1 Master
+374,Personality & Character,hardworking,adjective,mehnatkash,B1 Master
+375,Personality & Character,honest,adjective,"halol, rostgo'y",B1 Master
+376,Personality & Character,dishonest,adjective,"vijdonsiz, yolg'onchi",B1 Master
+377,Personality & Character,friendly,adjective,do'stona,B1 Master
+378,Personality & Character,quiet,adjective,"yuvosh, sokin, tinch",B1 Master
+379,Personality & Character,talkative,adjective,sergap,B1 Master
+380,Personality & Character,shy,adjective,uyatchan,B1 Master
+381,Personality & Character,clever,adjective,"aqlli, ziyrak",B1 Master
+382,Personality & Character,stupid,adjective,ahmoq,B1 Master
+383,Personality & Character,intelligent,adjective,"aqlli, farosatli",B1 Master
+384,Personality & Character,sensible,adjective,"oqil, mulohazali",B1 Master
+385,Personality & Character,silly,adjective,"tentakona, be'mani",B1 Master
+386,Personality & Character,serious,adjective,jiddiy,B1 Master
+387,Personality & Character,cheerful,adjective,"quvnoq, xushchaqchaq",B1 Master
+388,Personality & Character,miserable,adjective,"abgor, baxtsiz",B1 Master
+389,Personality & Character,relaxed,adjective,xotirjam,B1 Master
+390,Personality & Character,nervous,adjective,"asabiy, xavotirli",B1 Master
+391,Personality & Character,confident,adjective,o'ziga ishongan,B1 Master
+392,Personality & Character,ambitious,adjective,maqsad sari intiluvchan,B1 Master
+393,Personality & Character,creative,adjective,ijodkor,B1 Master
+394,Personality & Character,organized,adjective,tartibli,B1 Master
+395,Personality & Character,tidy,adjective,"ozoda, tartibli",B1 Master
+396,Personality & Character,messy,adjective,"betartib, chigal",B1 Master
+397,Personality & Character,reliable,adjective,ishonchli,B1 Master
+398,Personality & Character,punctual,adjective,aniq (vaqtida keladigan),B1 Master
+399,Personality & Character,bossy,adjective,boshqarishni yaxshi ko'radigan,B1 Master
+400,Personality & Character,jealous,adjective,rashkchi,B1 Master
+401,Personality & Character,sensitive,adjective,ta'sirchan,B1 Master
+402,Personality & Character,sympathetic,adjective,hamdard,B1 Master
+403,Personality & Character,stubborn,adjective,qaysar,B1 Master
+404,Personality & Character,loyal,adjective,sodiq,B1 Master
+405,Money & Finance,account,noun,hisob raqam,B1 Master
+406,Money & Finance,amount,noun,miqdor,B1 Master
+407,Money & Finance,atm,noun,bankomat,B1 Master
+408,Money & Finance,balance,noun,"balans, qoldiq",B1 Master
+409,Money & Finance,bank,noun,bank,B1 Master
+410,Money & Finance,bill,noun,hisob (to'lov uchun),B1 Master
+411,Money & Finance,budget,noun,byudjet,B1 Master
+412,Money & Finance,cash,noun,naqd pul,B1 Master
+413,Money & Finance,cent,noun,sent,B1 Master
+414,Money & Finance,cheap,adjective,arzon,B1 Master
+415,Money & Finance,coin,noun,tanga,B1 Master
+416,Money & Finance,credit,noun,kredit,B1 Master
+417,Money & Finance,currency,noun,valyuta,B1 Master
+418,Money & Finance,debt,noun,qarz,B1 Master
+419,Money & Finance,deposit,noun/verb,"depozit, hisobga pul qo'ymoq",B1 Master
+420,Money & Finance,dollar,noun,dollar,B1 Master
+421,Money & Finance,earn,verb,pul ishlamoq,B1 Master
+422,Money & Finance,exchange,verb/noun,almashtirmoq (pul),B1 Master
+423,Money & Finance,expensive,adjective,qimmat,B1 Master
+424,Money & Finance,fee,noun,"to'lov, badal",B1 Master
+425,Money & Finance,finance,noun,moliya,B1 Master
+426,Money & Finance,fund,noun,"jamg'arma, fond",B1 Master
+427,Money & Finance,income,noun,daromad,B1 Master
+428,Money & Finance,insurance,noun,sug'urta,B1 Master
+429,Money & Finance,invest,verb,investitsiya kiritmoq,B1 Master
+430,Money & Finance,investment,noun,investitsiya,B1 Master
+431,Money & Finance,lend,verb,qarzga bermoq,B1 Master
+432,Money & Finance,loan,noun,qarz (kredit),B1 Master
+433,Money & Finance,owe,verb,qarz bo'lmoq,B1 Master
+434,Money & Finance,pay,verb,to'lamoq,B1 Master
+435,Money & Finance,payment,noun,to'lov,B1 Master
+436,Money & Finance,penny,noun,penni (tanga),B1 Master
+437,Money & Finance,percentage,noun,foiz,B1 Master
+438,Money & Finance,pound,noun,funt (pul),B1 Master
+439,Money & Finance,price,noun,narx,B1 Master
+440,Money & Finance,profit,noun,foyda,B1 Master
+441,Money & Finance,receipt,noun,"chek, kvitansiya",B1 Master
+442,Money & Finance,rent,verb/noun,"ijaraga olmoq, ijara haqi",B1 Master
+443,Money & Finance,save,verb,"tejamoq, yig'moq",B1 Master
+444,Money & Finance,spend,verb,sarflamoq,B1 Master
+445,Money & Finance,tax,noun,soliq,B1 Master
+446,Money & Finance,value,noun,"qiymat, qadr",B1 Master
+447,Money & Finance,wage,noun,ish haqi,B1 Master
+448,Money & Finance,wealth,noun,boylik,B1 Master
+449,House & Chores,address,noun,manzil,B1 Master
+450,House & Chores,armchair,noun,kreslo,B1 Master
+451,House & Chores,basement,noun,yerto'la,B1 Master
+452,House & Chores,basin,noun,rakovina (yuvinish uchun),B1 Master
+453,House & Chores,bath,noun,vanna,B1 Master
+454,House & Chores,blanket,noun,"ko'rpa, odeyal",B1 Master
+455,House & Chores,blind,noun,jalyuzi,B1 Master
+456,House & Chores,bookcase,noun,kitob javoni,B1 Master
+457,House & Chores,bowl,noun,kosa,B1 Master
+458,House & Chores,brush,noun,cho'tka,B1 Master
+459,House & Chores,bucket,noun,chelak,B1 Master
+460,House & Chores,bulb,noun,lampochka,B1 Master
+461,House & Chores,carpet,noun,gilam,B1 Master
+462,House & Chores,cellar,noun,yerto'la (ombor),B1 Master
+463,House & Chores,chimney,noun,mo'ri,B1 Master
+464,House & Chores,clock,noun,soat (devor/stol),B1 Master
+465,House & Chores,closet,noun,kiyim javoni (devorga o'rnatilgan),B1 Master
+466,House & Chores,cooker,noun,plita (ovqat pishirish uchun),B1 Master
+467,House & Chores,corridor,noun,"koridor, dahliz",B1 Master
+468,House & Chores,couch,noun,divan,B1 Master
+469,House & Chores,cupboard,noun,javon (idishlar uchun),B1 Master
+470,House & Chores,curtain,noun,parda,B1 Master
+471,House & Chores,cushion,noun,yostiqcha (divan uchun),B1 Master
+472,House & Chores,desk,noun,yozuv stoli,B1 Master
+473,House & Chores,drawer,noun,tortma,B1 Master
+474,House & Chores,dust,noun/verb,"chang, changini artmoq",B1 Master
+475,House & Chores,dustbin,noun,axlat qutisi,B1 Master
+476,House & Chores,entrance,noun,kirish yo'lagi,B1 Master
+477,House & Chores,fence,noun,"to'siq, panjara",B1 Master
+478,House & Chores,fridge,noun,muzlatgich,B1 Master
+479,House & Chores,furniture,noun,mebel,B1 Master
+480,House & Chores,garage,noun,garaj,B1 Master
+481,House & Chores,garden,noun,bog',B1 Master
+482,House & Chores,gate,noun,darvoza,B1 Master
+483,House & Chores,hall,noun,"zal, dahliz",B1 Master
+484,House & Chores,heating,noun,isitish tizimi,B1 Master
+485,House & Chores,iron,verb/noun,"dazmollamoq, dazmol",B1 Master
+486,House & Chores,key,noun,kalit,B1 Master
+487,Nature & Geography,agriculture,noun,qishloq xo'jaligi,B1 Master
+488,Nature & Geography,animal,noun,hayvon,B1 Master
+489,Nature & Geography,autumn,noun,kuz,B1 Master
+490,Nature & Geography,beach,noun,"plyaj, qirg'oq",B1 Master
+491,Nature & Geography,branch,noun,"shox, butoq",B1 Master
+492,Nature & Geography,bush,noun,buta,B1 Master
+493,Nature & Geography,camp,noun/verb,"lager, lager qurmoq",B1 Master
+494,Nature & Geography,cave,noun,g'or,B1 Master
+495,Nature & Geography,cliff,noun,"qoya, jarlik",B1 Master
+496,Nature & Geography,climate,noun,iqlim,B1 Master
+497,Nature & Geography,coast,noun,sohil,B1 Master
+498,Nature & Geography,continent,noun,qit'a,B1 Master
+499,Nature & Geography,crop,noun,hosil,B1 Master
+500,Nature & Geography,desert,noun,sahro,B1 Master

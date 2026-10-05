@@ -1,0 +1,476 @@
+1,Advanced Academic,academically,adverb,akademik jihatdan,C1 Master
+2,Advanced Academic,aesthetic,adjective,estetik,C1 Master
+3,Advanced Academic,ambiguity,noun,noaniqlik,C1 Master
+4,Advanced Academic,analogy,noun,"o'xshatish, analogiya",C1 Master
+5,Advanced Academic,apparatus,noun,"apparat, moslama",C1 Master
+6,Advanced Academic,arbitrary,adjective,"asoslanmagan, o'zboshimcha",C1 Master
+7,Advanced Academic,assertion,noun,"tasdiq, da'vo",C1 Master
+8,Advanced Academic,assessing,noun,baholash,C1 Master
+9,Advanced Academic,asymmetry,noun,assimetriya,C1 Master
+10,Advanced Academic,benchmark,noun,"mezon, ko'rsatkich",C1 Master
+11,Advanced Academic,chronological,adjective,xronologik,C1 Master
+12,Advanced Academic,coalition,noun,"koalitsiya, ittifoq",C1 Master
+13,Advanced Academic,cohesive,adjective,"birlashgan, yaxlit",C1 Master
+14,Advanced Academic,commence,verb,boshlamoq,C1 Master
+15,Advanced Academic,commodity,noun,"tovar, xomashyo",C1 Master
+16,Advanced Academic,compatible,adjective,mos keladigan,C1 Master
+17,Advanced Academic,complementary,adjective,bir-birini to'ldiruvchi,C1 Master
+18,Advanced Academic,comprehensive,adjective,"har tomonlama, keng qamrovli",C1 Master
+19,Advanced Academic,comprise,verb,o'z ichiga olmoq,C1 Master
+20,Advanced Academic,concurrent,adjective,bir vaqtda sodir bo'ladigan,C1 Master
+21,Advanced Academic,confer,verb,maslahatlashmoq,C1 Master
+22,Advanced Academic,configuration,noun,"tuzilish, konfiguratsiya",C1 Master
+23,Advanced Academic,conform,verb,qoidalarga bo'ysunmoq,C1 Master
+24,Advanced Academic,consequent,adjective,oqibatda kelib chiqadigan,C1 Master
+25,Advanced Academic,consolidate,verb,mustahkamlamoq,C1 Master
+26,Advanced Academic,constituent,noun,tarkibiy qism,C1 Master
+27,Advanced Academic,constraint,noun,cheklov,C1 Master
+28,Advanced Academic,contaminate,verb,ifloslantirmoq,C1 Master
+29,Advanced Academic,contemporary,adjective,"zamonaviy, zamondosh",C1 Master
+30,Advanced Academic,contextual,adjective,kontekstga oid,C1 Master
+31,Advanced Academic,contradictory,adjective,qarama-qarshi,C1 Master
+32,Advanced Academic,converge,verb,bir nuqtada kesishmoq,C1 Master
+33,Advanced Academic,converse,verb/adjective,suhbatlashmoq / aksincha,C1 Master
+34,Advanced Academic,convert,verb,aylantirmoq,C1 Master
+35,Advanced Academic,criterion,noun,"mezon, talab",C1 Master
+36,Advanced Academic,crucial,adjective,hal qiluvchi,C1 Master
+37,Advanced Academic,deduce,verb,xulosa chiqarmoq,C1 Master
+38,Advanced Academic,deficit,noun,taqchillik,C1 Master
+39,Advanced Academic,denote,verb,"anglatmoq, bildirmoq",C1 Master
+40,Advanced Academic,derive,verb,kelib chiqmoq,C1 Master
+41,Advanced Academic,deviate,verb,"og'ishmoq, chetga chiqmoq",C1 Master
+42,Advanced Academic,differentiate,verb,farqlamoq,C1 Master
+43,Advanced Academic,dilemma,noun,"dilemma, ikkigacha tanlov",C1 Master
+44,Advanced Academic,diminish,verb,kamaytirmoq,C1 Master
+45,Advanced Academic,discrepancy,noun,nomuvofiqlik,C1 Master
+46,Advanced Academic,discretion,noun,"ixtiyor, mulohaza",C1 Master
+47,Advanced Academic,disseminate,verb,tarqatmoq (ma'lumot),C1 Master
+48,Advanced Academic,dissent,noun,"norozilik, qarshi fikr",C1 Master
+49,Advanced Academic,distort,verb,buzib ko'rsatmoq,C1 Master
+50,Advanced Academic,diverse,adjective,"turfa xil, xilma-xil",C1 Master
+51,Advanced Academic,domain,noun,"soha, tarmoq",C1 Master
+52,Advanced Academic,dynamic,adjective,dinamik,C1 Master
+53,Advanced Academic,eclipse,verb,soyada qoldirmoq,C1 Master
+54,Advanced Academic,embody,verb,o'zida mujassam etmoq,C1 Master
+55,Advanced Academic,empirical,adjective,tajribaga asoslangan,C1 Master
+56,Advanced Academic,endorse,verb,ma'qullamoq,C1 Master
+57,Advanced Academic,enforce,verb,majburiy ijro etmoq,C1 Master
+58,Advanced Academic,enhance,verb,"kuchaytirmoq, oshirmoq",C1 Master
+59,Advanced Academic,enigma,noun,"sir, jumboq",C1 Master
+60,Advanced Academic,ensue,verb,ortidan kelib chiqmoq,C1 Master
+61,Advanced Academic,entity,noun,"subyekt, mavjudot",C1 Master
+62,Advanced Academic,equivalent,adjective,"ekvivalent, teng",C1 Master
+63,Advanced Academic,erode,verb,"yemirmoq, yemirilmoq",C1 Master
+64,Advanced Academic,erroneous,adjective,"xato, noto'g'ri",C1 Master
+65,Advanced Academic,ethic,noun,"etika, axloq",C1 Master
+66,Advanced Academic,evoke,verb,uyg'otmoq (hissiyot),C1 Master
+67,Advanced Academic,exceed,verb,oshib ketmoq,C1 Master
+68,Advanced Academic,exclude,verb,chiqarib tashlamoq,C1 Master
+69,Advanced Academic,exemplify,noun/verb,misol bo'lmoq,C1 Master
+70,Advanced Academic,exhaustive,adjective,"batafsil, to'liq",C1 Master
+71,Advanced Academic,explicit,adjective,"aniq, ochiq-oydin",C1 Master
+72,Advanced Academic,exploit,verb,foydalanmoq,C1 Master
+73,Advanced Academic,exponent,noun,"vakil, daraja ko'rsatkichi",C1 Master
+74,Advanced Academic,extract,verb,ajratib olmoq,C1 Master
+75,Advanced Academic,fluctuate,verb,tebranib turmoq,C1 Master
+76,Advanced Academic,formulate,verb,shakllantirmoq,C1 Master
+77,Advanced Academic,foundation,noun,poydevor,C1 Master
+78,Advanced Academic,framework,noun,"asos, ramka",C1 Master
+79,Advanced Academic,furthermore,adverb,"qolaversa, bundan tashqari",C1 Master
+80,Advanced Academic,hierarchy,noun,ierarxiya,C1 Master
+81,Advanced Academic,hypothesis,noun,"gipoteza, taxmin",C1 Master
+82,Advanced Academic,idiosyncrasy,noun,o'ziga xoslik,C1 Master
+83,Advanced Academic,illuminate,verb,yoritmoq,C1 Master
+84,Advanced Academic,illusion,noun,illyuziya,C1 Master
+85,Advanced Academic,immigrate,verb,ko'chib kelmoq,C1 Master
+86,Advanced Academic,implicate,verb,aralashtirmoq,C1 Master
+87,Advanced Academic,implicit,adjective,"yashirin, tushunarli",C1 Master
+88,Advanced Academic,impose,verb,"yuklamoq, majbur qilmoq",C1 Master
+89,Advanced Academic,incentive,noun,rag'bat,C1 Master
+90,Advanced Academic,incidence,noun,uchrash chastotasi,C1 Master
+91,Advanced Academic,incline,verb,moyil bo'lmoq,C1 Master
+92,Advanced Academic,incompatible,adjective,mos kelmaydigan,C1 Master
+93,Advanced Academic,incorporate,verb,qo'shib olmoq,C1 Master
+94,Advanced Academic,incur,verb,duch kelmoq (zararga),C1 Master
+95,Advanced Academic,indigenous,adjective,tub mahalliy,C1 Master
+96,Advanced Academic,induce,verb,sabab bo'lmoq,C1 Master
+97,Advanced Academic,inevitable,adjective,muqarrar,C1 Master
+98,Advanced Academic,infer,verb,xulosa qilmoq,C1 Master
+99,Advanced Academic,infrastructure,noun,infratuzilma,C1 Master
+100,Advanced Academic,inherent,adjective,tabiiy xos bo'lgan,C1 Master
+101,Advanced Academic,inhibit,verb,to'sqinlik qilmoq,C1 Master
+102,Advanced Academic,initial,adjective,boshlang'ich,C1 Master
+103,Advanced Academic,initiate,verb,boshlamoq,C1 Master
+104,Advanced Academic,innovative,adjective,innovatsion,C1 Master
+105,Advanced Academic,input,noun,"kiritish, hissa",C1 Master
+106,Advanced Academic,insight,noun,"tushunish, farosat",C1 Master
+107,Advanced Academic,inspect,verb,tekshirmoq,C1 Master
+108,Advanced Academic,instance,noun,misol,C1 Master
+109,Advanced Academic,institute,noun,institut,C1 Master
+110,Advanced Academic,instruct,verb,o'qitmoq,C1 Master
+111,Advanced Academic,integrate,verb,integratsiya qilmoq,C1 Master
+112,Advanced Academic,integrity,noun,"halollik, yaxlitlik",C1 Master
+113,Advanced Academic,intelligence,noun,aql,C1 Master
+114,Advanced Academic,intense,adjective,"kuchli, keskin",C1 Master
+115,Advanced Academic,interact,verb,o'zaro ta'sir qilmoq,C1 Master
+116,Advanced Academic,intermediate,adjective,oraliq,C1 Master
+117,Advanced Academic,internal,adjective,ichki,C1 Master
+118,Advanced Academic,interpret,verb,talqin qilmoq,C1 Master
+119,Advanced Academic,interval,noun,oraliq,C1 Master
+120,Advanced Academic,intervene,verb,aralashmoq,C1 Master
+121,Advanced Academic,intrinsic,adjective,"ichki, tubdan",C1 Master
+122,Advanced Academic,investigate,verb,tekshirmoq,C1 Master
+123,Advanced Academic,invoke,verb,murojaat qilmoq,C1 Master
+124,Advanced Academic,isolate,verb,ajratib qo'ymoq,C1 Master
+125,Advanced Academic,issue,noun,masala,C1 Master
+126,Advanced Academic,item,noun,element,C1 Master
+127,Advanced Academic,job,noun,ish,C1 Master
+128,Advanced Academic,journal,noun,jurnal,C1 Master
+129,Advanced Academic,justify,verb,oqlamoq,C1 Master
+130,Advanced Academic,label,noun,yorliq,C1 Master
+131,Advanced Academic,labour,noun,mehnat,C1 Master
+132,Advanced Academic,layer,noun,qatlam,C1 Master
+133,Advanced Academic,lecture,noun,ma'ruza,C1 Master
+134,Advanced Academic,legal,adjective,huquqiy,C1 Master
+135,Advanced Academic,legitimate,adjective,qonuniy,C1 Master
+136,Advanced Academic,length,noun,uzunlik,C1 Master
+137,Advanced Academic,liberal,adjective,liberal,C1 Master
+138,Advanced Academic,license,noun,litsenziya,C1 Master
+139,Advanced Academic,likewise,adverb,xuddi shuningdek,C1 Master
+140,Advanced Academic,link,noun,bog'lanish,C1 Master
+141,Advanced Academic,locate,verb,joylashmoq,C1 Master
+142,Advanced Academic,logic,noun,mantiq,C1 Master
+143,Advanced Academic,maintain,verb,saqlamoq,C1 Master
+144,Advanced Academic,major,adjective,"katta, asosiy",C1 Master
+145,Advanced Academic,manipulate,verb,boshqarmoq,C1 Master
+146,Advanced Academic,manual,adjective,qo'lda bajariladigan,C1 Master
+147,Advanced Academic,margin,noun,"chegara, farq",C1 Master
+148,Advanced Academic,mature,adjective,yetuk,C1 Master
+149,Advanced Academic,maximise,verb,maksimal darajaga yetkazmoq,C1 Master
+150,Advanced Academic,mechanism,noun,mexanizm,C1 Master
+151,Advanced Academic,media,noun,OAV,C1 Master
+152,Advanced Academic,mediate,verb,vositachilik qilmoq,C1 Master
+153,Advanced Academic,medical,adjective,tibbiy,C1 Master
+154,Advanced Academic,medium,noun,vosita,C1 Master
+155,Advanced Academic,mental,adjective,aqliy,C1 Master
+156,Advanced Academic,methodology,noun,metodologiya,C1 Master
+157,Advanced Academic,migrate,verb,ko'chib yurmoq,C1 Master
+158,Advanced Academic,military,adjective,harbiy,C1 Master
+159,Advanced Academic,minimal,adjective,minimal,C1 Master
+160,Advanced Academic,minimize,verb,kamaytirmoq,C1 Master
+161,Advanced Academic,ministry,noun,vazirlik,C1 Master
+162,Advanced Academic,minor,adjective,"kichik, ahamiyatsiz",C1 Master
+163,Advanced Academic,mode,noun,"usul, tartib",C1 Master
+164,Advanced Academic,modify,verb,o'zgartirmoq,C1 Master
+165,Advanced Academic,monitor,verb,kuzatib bormoq,C1 Master
+166,Advanced Academic,motive,noun,"sabab, motiv",C1 Master
+167,Advanced Academic,mutual,adjective,o'zaro,C1 Master
+168,Advanced Academic,negate,verb,inkor qilmoq,C1 Master
+169,Advanced Academic,network,noun,tarmoq,C1 Master
+170,Advanced Academic,neutral,adjective,betaraf,C1 Master
+171,Advanced Academic,norm,noun,norma,C1 Master
+172,Advanced Academic,notion,noun,tushuncha,C1 Master
+173,Advanced Academic,objective,noun,maqsad,C1 Master
+174,Advanced Academic,obtain,verb,olmoq,C1 Master
+175,Advanced Academic,obvious,adjective,"aniq, yaqqol",C1 Master
+176,Advanced Academic,occupy,verb,band qilmoq,C1 Master
+177,Advanced Academic,occur,verb,sodir bo'lmoq,C1 Master
+178,Advanced Academic,odd,adjective,"g'alati, toq",C1 Master
+179,Advanced Academic,offset,verb,qoplamoq,C1 Master
+180,Advanced Academic,ongoing,adjective,davom etayotgan,C1 Master
+181,Advanced Academic,option,noun,tanlov,C1 Master
+182,Advanced Academic,orient,verb,mo'ljallamoq,C1 Master
+183,Advanced Academic,outcome,noun,natija,C1 Master
+184,Advanced Academic,output,noun,"chiqish, mahsulot",C1 Master
+185,Advanced Academic,overall,adjective,umumiy,C1 Master
+186,Advanced Academic,overlap,verb,ustma-ust tushmoq,C1 Master
+187,Advanced Academic,overseas,adverb,xorijda,C1 Master
+188,Advanced Academic,panel,noun,hakamlar hay'ati,C1 Master
+189,Advanced Academic,paradigm,noun,paradigma,C1 Master
+190,Advanced Academic,paragraph,noun,xatboshi,C1 Master
+191,Advanced Academic,parallel,adjective,parallel,C1 Master
+192,Advanced Academic,parameter,noun,parametr,C1 Master
+193,Advanced Academic,participant,noun,ishtirokchi,C1 Master
+194,Advanced Academic,partnership,noun,sheriklik,C1 Master
+195,Advanced Academic,passive,adjective,passiv,C1 Master
+196,Advanced Academic,perceive,verb,sezmoq,C1 Master
+197,Advanced Academic,percent,noun,foiz,C1 Master
+198,Advanced Academic,period,noun,davr,C1 Master
+199,Advanced Academic,persist,verb,davom etmoq,C1 Master
+200,Advanced Academic,perspective,noun,nuqtai nazar,C1 Master
+201,Advanced Academic,phase,noun,bosqich,C1 Master
+202,Advanced Academic,phenomenon,noun,hodisa (fenomen),C1 Master
+203,Advanced Academic,philosophy,noun,falsafa,C1 Master
+204,Advanced Academic,physical,adjective,jismoniy,C1 Master
+205,Advanced Academic,plus,conjunction,plyus,C1 Master
+206,Advanced Academic,policy,noun,siyosat,C1 Master
+207,Advanced Academic,portion,noun,"porsiya, qism",C1 Master
+208,Advanced Academic,pose,verb,tug'dirmoq (muammo),C1 Master
+209,Advanced Academic,positive,adjective,ijobiy,C1 Master
+210,Advanced Academic,potential,adjective,salohiyatli,C1 Master
+211,Advanced Academic,practitioner,noun,amaliyotchi,C1 Master
+212,Advanced Academic,precede,verb,oldin kelmoq,C1 Master
+213,Advanced Academic,precise,adjective,aniq,C1 Master
+214,Advanced Academic,predict,verb,bashorat qilmoq,C1 Master
+215,Advanced Academic,predominant,adjective,ustun turuvchi,C1 Master
+216,Advanced Academic,preliminary,adjective,dastlabki,C1 Master
+217,Advanced Academic,presume,verb,taxmin qilmoq,C1 Master
+218,Advanced Academic,previous,adjective,oldingi,C1 Master
+219,Advanced Academic,primary,adjective,"birlamchi, asosiy",C1 Master
+220,Advanced Academic,prime,adjective,birlamchi,C1 Master
+221,Advanced Academic,principal,adjective,asosiy,C1 Master
+222,Advanced Academic,principle,noun,tamoyil,C1 Master
+223,Advanced Academic,prior,adjective,oldingi,C1 Master
+224,Advanced Academic,priority,noun,ustuvorlik,C1 Master
+225,Advanced Academic,procedure,noun,"tartib, protsedura",C1 Master
+226,Advanced Academic,proceed,verb,davom etmoq,C1 Master
+227,Advanced Academic,process,noun,jarayon,C1 Master
+228,Advanced Academic,professional,adjective,professional,C1 Master
+229,Advanced Academic,prohibit,verb,taqiqlamoq,C1 Master
+230,Advanced Academic,project,noun,loyiha,C1 Master
+231,Advanced Academic,promote,verb,targ'ib qilmoq,C1 Master
+232,Advanced Academic,propose,verb,taklif qilmoq,C1 Master
+233,Advanced Academic,prospect,noun,istiqbol,C1 Master
+234,Advanced Academic,protocol,noun,"bayonnoma, protokol",C1 Master
+235,Advanced Academic,psychology,noun,psixologiya,C1 Master
+236,Advanced Academic,publication,noun,nashr,C1 Master
+237,Advanced Academic,publish,verb,chop etmoq,C1 Master
+238,Advanced Academic,purchase,verb,xarid qilmoq,C1 Master
+239,Advanced Academic,pursue,verb,"ta'qib qilmoq, intilmoq",C1 Master
+240,Advanced Academic,qualitative,adjective,sifatli,C1 Master
+241,Advanced Academic,quote,verb,iqtibos keltirmoq,C1 Master
+242,Advanced Academic,radical,adjective,"tub, radikal",C1 Master
+243,Advanced Academic,random,adjective,tasodifiy,C1 Master
+244,Advanced Academic,range,noun,diapazon,C1 Master
+245,Advanced Academic,ratio,noun,nisbat,C1 Master
+246,Advanced Academic,rational,adjective,"ratsional, mantiqiy",C1 Master
+247,Advanced Academic,react,verb,reaksiya qilmoq,C1 Master
+248,Advanced Academic,recover,verb,tiklanmoq,C1 Master
+249,Advanced Academic,refine,verb,takomillashtirmoq,C1 Master
+250,Advanced Academic,regime,noun,rejim,C1 Master
+251,Advanced Academic,region,noun,mintaqa,C1 Master
+252,Advanced Academic,register,verb,ro'yxatdan o'tmoq,C1 Master
+253,Advanced Academic,regulate,verb,tartibga solmoq,C1 Master
+254,Advanced Academic,reinforce,verb,kuchaytirmoq,C1 Master
+255,Advanced Academic,reject,verb,rad etmoq,C1 Master
+256,Advanced Academic,relax,verb,dam olmoq,C1 Master
+257,Advanced Academic,release,verb,chiqarmoq,C1 Master
+258,Advanced Academic,relevant,adjective,dolzarb,C1 Master
+259,Advanced Academic,reliability,noun,ishonchlilik,C1 Master
+260,Advanced Academic,reluctance,noun,istalmaslik,C1 Master
+261,Advanced Academic,rely,verb,tayanmoq,C1 Master
+262,Advanced Academic,remove,verb,olib tashlamoq,C1 Master
+263,Advanced Academic,require,verb,talab qilmoq,C1 Master
+264,Advanced Academic,research,noun,tadqiqot,C1 Master
+265,Advanced Academic,reside,verb,yashamoq,C1 Master
+266,Advanced Academic,resolve,verb,hal qilmoq,C1 Master
+267,Advanced Academic,resource,noun,resurs,C1 Master
+268,Advanced Academic,respond,verb,javob bermoq,C1 Master
+269,Advanced Academic,restraint,noun,tiyilish,C1 Master
+270,Advanced Academic,restrict,verb,cheklamoq,C1 Master
+271,Advanced Academic,retain,verb,saqlab qolmoq,C1 Master
+272,Advanced Academic,reveal,verb,oshkor qilmoq,C1 Master
+273,Advanced Academic,revenue,noun,daromad,C1 Master
+274,Advanced Academic,reverse,verb,teskari qilmoq,C1 Master
+275,Advanced Academic,revise,verb,tuzatish kiritmoq,C1 Master
+276,Advanced Academic,revolution,noun,inqilob,C1 Master
+277,Advanced Academic,rigid,adjective,"qattiq, o'zgarmas",C1 Master
+278,Advanced Academic,role,noun,rol,C1 Master
+279,Advanced Academic,route,noun,marshrut,C1 Master
+280,Advanced Academic,scenario,noun,ssenariy,C1 Master
+281,Advanced Academic,schedule,noun,jadval,C1 Master
+282,Advanced Academic,scheme,noun,sxema,C1 Master
+283,Advanced Academic,scope,noun,qamrov,C1 Master
+284,Advanced Academic,section,noun,bo'lim,C1 Master
+285,Advanced Academic,sector,noun,sektor,C1 Master
+286,Advanced Academic,secure,adjective,himoyalangan,C1 Master
+287,Advanced Academic,seek,verb,qidirmoq,C1 Master
+288,Advanced Academic,select,verb,tanlamoq,C1 Master
+289,Advanced Academic,sequence,noun,ketma-ketlik,C1 Master
+290,Advanced Academic,series,noun,seriya,C1 Master
+291,Advanced Academic,sex,noun,jins,C1 Master
+292,Advanced Academic,shift,verb,siljitmoq,C1 Master
+293,Advanced Academic,significant,adjective,ahamiyatli,C1 Master
+294,Advanced Academic,similar,adjective,o'xshash,C1 Master
+295,Advanced Academic,simulate,verb,simulyatsiya qilmoq,C1 Master
+296,Advanced Academic,site,noun,"sayt, joy",C1 Master
+297,Advanced Academic,slight,adjective,"kichik, sezilar-sezilmas",C1 Master
+298,Advanced Academic,sovereignty,noun,suverenitet,C1 Master
+299,Advanced Academic,source,noun,manba,C1 Master
+300,Advanced Academic,specific,adjective,"aniq, o'ziga xos",C1 Master
+301,Advanced Academic,specify,verb,aniqlab ko'rsatmoq,C1 Master
+302,Advanced Academic,sphere,noun,sfera,C1 Master
+303,Advanced Academic,stable,adjective,barqaror,C1 Master
+304,Advanced Academic,statistic,noun,statistika,C1 Master
+305,Advanced Academic,status,noun,maqom,C1 Master
+306,Advanced Academic,straightforward,adjective,"tushunarli, ochiq",C1 Master
+307,Advanced Academic,strategy,noun,strategiya,C1 Master
+308,Advanced Academic,stress,noun,"stress, urg'u",C1 Master
+309,Advanced Academic,structure,noun,tuzilma,C1 Master
+310,Advanced Academic,style,noun,uslub,C1 Master
+311,Advanced Academic,submission,noun,topshirish,C1 Master
+312,Advanced Academic,subsequent,adjective,keyingi,C1 Master
+313,Advanced Academic,subsidy,noun,subsidiya,C1 Master
+314,Advanced Academic,subtle,adjective,nozik,C1 Master
+315,Advanced Academic,successive,adjective,ketma-ket,C1 Master
+316,Advanced Academic,sufficient,adjective,yetarli,C1 Master
+317,Advanced Academic,sum,noun,summa,C1 Master
+318,Advanced Academic,summary,noun,xulosa,C1 Master
+319,Advanced Academic,supplement,noun,qo'shimcha,C1 Master
+320,Advanced Academic,survey,noun,so'rovnoma,C1 Master
+321,Advanced Academic,survive,verb,omon qolmoq,C1 Master
+322,Advanced Academic,suspend,verb,to'xtatib turmoq,C1 Master
+323,Advanced Academic,sustain,verb,saqlab turmoq,C1 Master
+324,Advanced Academic,symbol,noun,ramz,C1 Master
+325,Advanced Academic,tape,noun,lenta,C1 Master
+326,Advanced Academic,target,noun,nishon,C1 Master
+327,Advanced Academic,task,noun,vazifa,C1 Master
+328,Advanced Academic,team,noun,jamoa,C1 Master
+329,Advanced Academic,technical,adjective,texnik,C1 Master
+330,Advanced Academic,technique,noun,texnika,C1 Master
+331,Advanced Academic,technology,noun,texnologiya,C1 Master
+332,Advanced Academic,temporary,adjective,vaqtinchalik,C1 Master
+333,Advanced Academic,tense,adjective,tarang,C1 Master
+334,Advanced Academic,terminate,verb,tugatmoq,C1 Master
+335,Advanced Academic,text,noun,matn,C1 Master
+336,Advanced Academic,theme,noun,mavzu,C1 Master
+337,Advanced Academic,theory,noun,nazariya,C1 Master
+338,Advanced Academic,thereafter,adverb,shundan keyin,C1 Master
+339,Advanced Academic,thereby,adverb,shu orqali,C1 Master
+340,Advanced Academic,thesis,noun,tezis,C1 Master
+341,Advanced Academic,topic,noun,mavzu,C1 Master
+342,Advanced Academic,trace,verb,izidan bormoq,C1 Master
+343,Advanced Academic,tradition,noun,an'ana,C1 Master
+344,Advanced Academic,transfer,verb,ko'chirmoq,C1 Master
+345,Advanced Academic,transform,verb,o'zgartirmoq,C1 Master
+346,Advanced Academic,transit,noun,tranzit,C1 Master
+347,Advanced Academic,transmit,verb,uzatmoq,C1 Master
+348,Advanced Academic,transport,noun,transport,C1 Master
+349,Advanced Academic,trend,noun,trend,C1 Master
+350,Advanced Academic,trigger,verb,keltirib chiqarmoq,C1 Master
+351,Advanced Academic,ultimate,adjective,"oxirgi, eng asosiy",C1 Master
+352,Advanced Academic,undergo,verb,boshidan kechirmoq,C1 Master
+353,Advanced Academic,underlie,verb,asosida yotmoq,C1 Master
+354,Advanced Academic,undertake,verb,zimmasiga olmoq,C1 Master
+355,Advanced Academic,uniform,adjective,"bir xil, forma",C1 Master
+356,Advanced Academic,unify,verb,birlashtirmoq,C1 Master
+357,Advanced Academic,unique,adjective,noyob,C1 Master
+358,Advanced Academic,utilize,verb,foydalanmoq,C1 Master
+359,Advanced Academic,valid,adjective,"haqiqiy, amal qiluvchi",C1 Master
+360,Advanced Academic,value,noun,qiymat,C1 Master
+361,Advanced Academic,variable,noun,o'zgaruvchan,C1 Master
+362,Advanced Academic,variation,noun,o'zgarish,C1 Master
+363,Advanced Academic,vehicle,noun,transport,C1 Master
+364,Advanced Academic,version,noun,versiya,C1 Master
+365,Advanced Academic,via,preposition,orqali,C1 Master
+366,Advanced Academic,view,noun,qarash,C1 Master
+367,Advanced Academic,violate,verb,buzmoq,C1 Master
+368,Advanced Academic,virtual,adjective,virtual,C1 Master
+369,Advanced Academic,visible,adjective,ko'rinadigan,C1 Master
+370,Advanced Academic,vision,noun,"ko'rish, tasavvur",C1 Master
+371,Advanced Academic,visual,adjective,vizual,C1 Master
+372,Advanced Academic,volume,noun,hajm,C1 Master
+373,Advanced Academic,voluntary,adjective,ixtiyoriy,C1 Master
+374,Technology,obsolete,adjective,"eskirgan, urfdan qolgan",C1 Master
+375,Business,lucrative,adjective,"daromadli, serdaromad",C1 Master
+376,Environment,sustainable,adjective,barqaror (uzoq muddatli),C1 Master
+377,Society,mandatory,adjective,majburiy,C1 Master
+378,Health,sedentary,adjective,kam harakat (hayot tarzi),C1 Master
+379,Education,curriculum,noun,o'quv dasturi,C1 Master
+380,Work,delegate,verb,vakolat/vazifa topshirmoq,C1 Master
+381,Travel,itinerary,noun,sayohat yo'nalishi (marshrut),C1 Master
+382,Psychology,cognitive,adjective,"bilishga oid, kognitiv",C1 Master
+383,Society,adequate,adjective,"yetarli, muvofiq",C1 Master
+384,Communication,ambiguous,adjective,"noaniq, ikki xil ma'noli",C1 Master
+385,Law,amend,verb,o'zgartirish kiritmoq,C1 Master
+386,Science,anomaly,noun,"anomaliya, qoidadan chetga chiqish",C1 Master
+387,Business,bankrupt,adjective,bankrot bo'lgan,C1 Master
+388,Technology,browse,verb,ko'rib chiqmoq (internetda),C1 Master
+389,Society,bureaucracy,noun,byurokratiya,C1 Master
+390,Everyday,coherent,adjective,mantiqiy bog'langan,C1 Master
+391,Business,compensate,verb,"qoplamoq, tovon to'lamoq",C1 Master
+392,Work,competent,adjective,"malakali, layoqatli",C1 Master
+393,Society,consensus,noun,"hamjihatlik, umumiy kelishuv",C1 Master
+394,Psychology,conscious,adjective,"ongli, tushunadigan",C1 Master
+395,Politics,controversy,noun,"munozara, tortishuv",C1 Master
+396,Everyday,deficient,adjective,"yetishmovchi, kamchiligi bor",C1 Master
+397,Science,dense,adjective,"zich, qalin",C1 Master
+398,Health,diagnose,verb,tashxis qo'ymoq,C1 Master
+399,Technology,emerge,verb,paydo bo'lmoq,C1 Master
+400,Environment,emit,verb,"ajratib chiqarmoq (gaz, nur)",C1 Master
+401,Work,evaluate,verb,baholamoq,C1 Master
+402,Everyday,exaggerate,verb,"bo'rttirmoq, oshirib yubormoq",C1 Master
+403,Health,fatigue,noun,"charchoq, toliqish",C1 Master
+404,Law,fraud,noun,firibgarlik,C1 Master
+405,Everyday,genuine,adjective,"haqiqiy, samimiy",C1 Master
+406,Environment,habitat,noun,yashash joyi (hayvon/o'simlik),C1 Master
+407,Society,implement,verb,"amalga oshirmoq, joriy etmoq",C1 Master
+408,Communication,articulate,adjective,fikrini aniq ifodalay oladigan,C1 Master
+409,Society,ubiquitous,adjective,hamma joyda uchraydigan,C1 Master
+410,Work,meticulous,adjective,"o'ta e'tiborli, sinchkov",C1 Master
+411,Politics,pragmatic,adjective,"amaliy, pragmatik",C1 Master
+412,Economy,volatile,adjective,"beqaror, tez o'zgaruvchan",C1 Master
+413,Environment,mitigate,verb,"yumshatmoq, kamaytirmoq (zararni)",C1 Master
+414,Psychology,resilience,noun,"chidamlilik, matonat",C1 Master
+415,Language,nuance,noun,"nozik farq, nyuans",C1 Master
+416,Business,monopoly,noun,"monopoliya, yakkahokimlik",C1 Master
+417,Society,alleviate,verb,"yengillashtirmoq (dard, muammo)",C1 Master
+418,Everyday,authentic,adjective,"haqiqiy, ishonchli",C1 Master
+419,Business,catalyst,noun,"katalizator, tezlashtiruvchi omil",C1 Master
+420,Behavior,cynical,adjective,hamma narsaga shubha bilan qaraydigan,C1 Master
+421,Work,diligence,noun,"qunt, tirishqoqlik",C1 Master
+422,Society,empower,verb,huquq/vakolat bermoq,C1 Master
+423,Everyday,epitome,noun,yorqin namuna,C1 Master
+424,Communication,eloquent,adjective,"notiq, ta'sirchan gapiradigan",C1 Master
+425,Behavior,hypocrisy,noun,"munofiqlik, ikkiyuzlamachilik",C1 Master
+426,Psychology,impulsive,adjective,o'ylamasdan harakat qiladigan,C1 Master
+427,Everyday,lucid,adjective,"tushunarli, ravshan",C1 Master
+428,Politics,marginalize,verb,"chetga surib qo'ymoq, e'tiborsiz qoldirmoq",C1 Master
+429,Everyday,mundane,adjective,"odatiy, zerikarli",C1 Master
+430,Everyday,obscure,adjective,"noma'lum, tushunarsiz",C1 Master
+431,Behavior,perseverance,noun,"qatiyat, bardosh",C1 Master
+432,Everyday,plausible,adjective,"haqiqatga yaqin, ishonarli",C1 Master
+433,Politics,precedent,noun,"pretsedent, avvalgi o'xshash holat",C1 Master
+434,Everyday,profound,adjective,"chuqur (ma'no, bilim)",C1 Master
+435,Work,prolific,adjective,sermahsul,C1 Master
+436,Business,redundant,adjective,"ortiqcha, keraksiz",C1 Master
+437,Society,scrutiny,noun,"batafsil tekshiruv, sinchkovlik",C1 Master
+438,Psychology,susceptible,adjective,"tez ta'sirga tushadigan, moyil",C1 Master
+439,Work,versatile,adjective,"ko'p qirrali, turli ishga mos",C1 Master
+440,Society,viable,adjective,"yashovchan, amalga oshirsa bo'ladigan",C1 Master
+441,Literature,ephemeral,adjective,"vaqtinchalik, o'tkinchi",C1 Master
+442,Philosophy,esoteric,adjective,faqat tor doiradagilar tushunadigan,C1 Master
+443,Politics,hegemony,noun,"gegemoniya, yetakchilik",C1 Master
+444,Society,serendipity,noun,kutilmagan yaxshi tasodif,C1 Master
+445,Psychology,quintessential,adjective,eng yorqin namuna,C1 Master
+446,Work,sycophant,noun,"tilyog'lamachi, laganbardor",C1 Master
+447,Environment,cataclysm,noun,"kataklizm, halokatli o'zgarish",C1 Master
+448,Language,obfuscate,verb,ataylab chigallashtirmoq,C1 Master
+449,General,cacophony,noun,"kakofoniya, yoqimsiz aralash ovozlar",C1 Master
+450,Behavior,fastidious,adjective,"o'ta injiq, didi nozik",C1 Master
+451,Society,acrimony,noun,"achchiqlanish, adovat",C1 Master
+452,Psychology,altruism,noun,"altruizm, o'zgani o'ylash",C1 Master
+453,Behavior,audacious,adjective,"dovyurak, beadab darajada jasur",C1 Master
+454,Psychology,capricious,adjective,"injiq, tez o'zgaruvchan (xarakter)",C1 Master
+455,Everyday,conundrum,noun,"jumbog', murakkab muammo",C1 Master
+456,Literature,dichotomy,noun,ikki qarama-qarshi qismga bo'linish,C1 Master
+457,Society,egalitarian,adjective,tenglikka asoslangan,C1 Master
+458,Language,euphemism,noun,"evfemizm, yumshatib aytish",C1 Master
+459,Science,extrapolate,verb,mavjud ma'lumotlar asosida xulosa qilmoq,C1 Master
+460,Everyday,facetious,adjective,noo'rin hazillashadigan,C1 Master
+461,Behavior,gregarious,adjective,"kirishimli, jamoani yaxshi ko'radigan",C1 Master
+462,Language,ineffable,adjective,so'z bilan ta'riflab bo'lmaydigan,C1 Master
+463,Science,infinitesimal,adjective,"juda kichik, cheksiz kichik",C1 Master
+464,Politics,machiavellian,adjective,maqsad yo'lida hamma narsadan qaytmaydigan,C1 Master
+465,Society,mellifluous,adjective,"yoqimli eshitiladigan, mayin (ovoz)",C1 Master
+466,Politics,nepotism,noun,"nepotizm, tanish-bilishchilik",C1 Master
+467,Everyday,obsequious,adjective,"laganbardor, xushomadgo'y",C1 Master
+468,Everyday,panacea,noun,barcha dardlarga davo,C1 Master
+469,Society,pariah,noun,"jamiyatdan ajratib qo'yilgan odam, quvg'indi",C1 Master
+470,Everyday,plethora,noun,"ortiqchalik, juda ko'p miqdor",C1 Master
+471,Behavior,pugnacious,adjective,"urishqoq, janjalkash",C1 Master
+472,Everyday,quixotic,adjective,"xayolparast, amalda bajarmay bo'lmaydigan",C1 Master
+473,Society,sartorial,adjective,kiyim-kechakka / tikuvchilikka oid,C1 Master
+474,Behavior,stoic,adjective,og'riq va qiyinchilikka chidamli (hissiyotsiz),C1 Master
+475,Everyday,surreptitious,adjective,yashirincha qilingan,C1 Master
+476,Everyday,vicarious,adjective,boshqalarning tajribasi orqali his qilingan,C1 Master

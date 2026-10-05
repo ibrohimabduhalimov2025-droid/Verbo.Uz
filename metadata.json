@@ -1,0 +1,6 @@
+{
+  "name": "Verbo.uz",
+  "description": "Ingliz tili so'z boyligini Spaced Repetition, fleshkartalar, o'yinlar va testlar orqali samarali yodlash ilovasi",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

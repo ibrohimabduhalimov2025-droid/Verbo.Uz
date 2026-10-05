@@ -1,0 +1,400 @@
+501,Nature & Geography,dirt,noun,"kir, tuproq",B1 Master
+502,Nature & Geography,earth,noun,"yer, tuproq",B1 Master
+503,Nature & Geography,east,noun,sharq,B1 Master
+504,Nature & Geography,explore,verb,kashf qilmoq,B1 Master
+505,Nature & Geography,farm,noun,ferma,B1 Master
+506,Nature & Geography,field,noun,dala,B1 Master
+507,Nature & Geography,fire,noun,olov,B1 Master
+508,Nature & Geography,flood,noun,toshqin,B1 Master
+509,Nature & Geography,forest,noun,o'rmon,B1 Master
+510,Nature & Geography,freeze,verb,muzlamoq,B1 Master
+511,Nature & Geography,grass,noun,"maysa, o't",B1 Master
+512,Nature & Geography,ground,noun,yer (sirt),B1 Master
+513,Nature & Geography,hill,noun,tepalik,B1 Master
+514,Nature & Geography,ice,noun,muz,B1 Master
+515,Nature & Geography,island,noun,orol,B1 Master
+516,Nature & Geography,jungle,noun,changalzor,B1 Master
+517,Nature & Geography,lake,noun,ko'l,B1 Master
+518,Nature & Geography,land,noun,"quruqlik, yer",B1 Master
+519,Nature & Geography,leaf,noun,barg,B1 Master
+520,Nature & Geography,moon,noun,oy,B1 Master
+521,Nature & Geography,mountain,noun,tog',B1 Master
+522,Nature & Geography,nature,noun,tabiat,B1 Master
+523,Nature & Geography,north,noun,shimol,B1 Master
+524,Nature & Geography,ocean,noun,okean,B1 Master
+525,Nature & Geography,path,noun,so'qmoq,B1 Master
+526,Nature & Geography,planet,noun,sayyora,B1 Master
+527,Nature & Geography,plant,noun/verb,"o'simlik, ekmoq",B1 Master
+528,Nature & Geography,rain,noun/verb,"yomg'ir, yomg'ir yog'moq",B1 Master
+529,Nature & Geography,river,noun,daryo,B1 Master
+530,Nature & Geography,rock,noun,"qoya, tosh",B1 Master
+531,Nature & Geography,sand,noun,qum,B1 Master
+532,Nature & Geography,sea,noun,dengiz,B1 Master
+533,Nature & Geography,sky,noun,osmon,B1 Master
+534,Nature & Geography,snow,noun/verb,"qor, qor yog'moq",B1 Master
+535,Nature & Geography,south,noun,janub,B1 Master
+536,Nature & Geography,space,noun,fazo,B1 Master
+537,Nature & Geography,spring,noun,bahor,B1 Master
+538,Nature & Geography,star,noun,yulduz,B1 Master
+539,Nature & Geography,stone,noun,tosh,B1 Master
+540,Nature & Geography,storm,noun,bo'ron,B1 Master
+541,Nature & Geography,summer,noun,yoz,B1 Master
+542,Nature & Geography,sun,noun,quyosh,B1 Master
+543,Nature & Geography,sunrise,noun,quyosh chiqishi,B1 Master
+544,Nature & Geography,sunset,noun,quyosh botishi,B1 Master
+545,Nature & Geography,tree,noun,daraxt,B1 Master
+546,Nature & Geography,valley,noun,vodiy,B1 Master
+547,Nature & Geography,waterfall,noun,sharshara,B1 Master
+548,Nature & Geography,weather,noun,ob-havo,B1 Master
+549,Nature & Geography,west,noun,g'arb,B1 Master
+550,Nature & Geography,wind,noun,shamol,B1 Master
+551,Nature & Geography,winter,noun,qish,B1 Master
+552,Nature & Geography,wood,noun,"o'tin, yog'och",B1 Master
+553,Nature & Geography,world,noun,dunyo,B1 Master
+554,Communication & Thoughts,advise,verb,maslahat bermoq,B1 Master
+555,Communication & Thoughts,answer,verb/noun,javob bermoq / javob,B1 Master
+556,Communication & Thoughts,blame,verb/noun,"ayblamoq, ayb",B1 Master
+557,Communication & Thoughts,chat,verb/noun,suhbatlashmoq,B1 Master
+558,Communication & Thoughts,confess,verb,tan olmoq,B1 Master
+559,Communication & Thoughts,confuse,verb,"adashtirmoq, chalg'itmoq",B1 Master
+560,Communication & Thoughts,disagree,verb,noroz bo'lmoq,B1 Master
+561,Communication & Thoughts,doubt,verb/noun,"shubha qilmoq, shubha",B1 Master
+562,Communication & Thoughts,explain,verb,tushuntirmoq,B1 Master
+563,Communication & Thoughts,express,verb,ifodalamoq,B1 Master
+564,Communication & Thoughts,forget,verb,unutmoq,B1 Master
+565,Communication & Thoughts,forgive,verb,kechirmoq,B1 Master
+566,Communication & Thoughts,guess,verb,"topmoq, taxmin qilmoq",B1 Master
+567,Communication & Thoughts,inform,verb,xabar bermoq,B1 Master
+568,Communication & Thoughts,interrupt,verb,"xalaqit bermoq, gapini bo'lmoq",B1 Master
+569,Communication & Thoughts,introduce,verb,tanishtirmoq,B1 Master
+570,Communication & Thoughts,invite,verb,taklif qilmoq,B1 Master
+571,Communication & Thoughts,lie,verb,yolg'on gapirmoq,B1 Master
+572,Communication & Thoughts,mean,verb,"anglatmoq, nazarda tutmoq",B1 Master
+573,Communication & Thoughts,mention,verb,eslatib o'tmoq,B1 Master
+574,Communication & Thoughts,mind,verb,qarshi bo'lmoq,B1 Master
+575,Communication & Thoughts,nod,verb,bosh irg'amoq,B1 Master
+576,Communication & Thoughts,notice,verb/noun,"payqamoq, e'lon",B1 Master
+577,Communication & Thoughts,order,verb/noun,"buyurtma bermoq, buyruq",B1 Master
+578,Communication & Thoughts,persuade,verb,ko'ndirmoq,B1 Master
+579,Communication & Thoughts,prefer,verb,afzal ko'rmoq,B1 Master
+580,Communication & Thoughts,promise,verb,va'da bermoq,B1 Master
+581,Communication & Thoughts,pronounce,verb,talaffuz qilmoq,B1 Master
+582,Communication & Thoughts,propose,verb,taklif kiritmoq,B1 Master
+583,Communication & Thoughts,realize,verb,anglab yetmoq,B1 Master
+584,Communication & Thoughts,recognize,verb,tanib qolmoq,B1 Master
+585,Communication & Thoughts,recommend,verb,tavsiya qilmoq,B1 Master
+586,Communication & Thoughts,refuse,verb,rad etmoq,B1 Master
+587,Communication & Thoughts,regret,verb,afsuslanmoq,B1 Master
+588,Communication & Thoughts,remember,verb,eslamoq,B1 Master
+589,Communication & Thoughts,remind,verb,eslatmoq,B1 Master
+590,Communication & Thoughts,repeat,verb,takrorlamoq,B1 Master
+591,Communication & Thoughts,reply,verb,javob qaytarmoq,B1 Master
+592,Communication & Thoughts,report,verb/noun,"hisobot bermoq, hisobot",B1 Master
+593,Communication & Thoughts,request,verb/noun,"so'ramoq, talab/iltimos",B1 Master
+594,Communication & Thoughts,shout,verb,baqirmoq,B1 Master
+595,Communication & Thoughts,suggest,verb,taklif qilmoq,B1 Master
+596,Communication & Thoughts,swear,verb,qasamyod qilmoq / so'kinmoq,B1 Master
+597,Communication & Thoughts,thank,verb,tashakkur bildirmoq,B1 Master
+598,Communication & Thoughts,advance,noun,oldinga siljish,B1 Master
+599,Communication & Thoughts,understand,verb,tushunmoq,B1 Master
+600,Communication & Thoughts,warn,verb,ogohlantirmoq,B1 Master
+601,Communication & Thoughts,whisper,verb/noun,"pichirlamoq, shivir",B1 Master
+602,Communication & Thoughts,wonder,verb,"hayron bo'lmoq, qiziqmoq",B1 Master
+603,Travel & Transport,accident,noun,"halokat, baxtsiz hodisa",B1 Master
+604,Travel & Transport,airplane,noun,samolyot,B1 Master
+605,Travel & Transport,bicycle,noun,velosiped,B1 Master
+606,Travel & Transport,boat,noun,qayiq,B1 Master
+607,Travel & Transport,bridge,noun,ko'prik,B1 Master
+608,Travel & Transport,bus,noun,avtobus,B1 Master
+609,Travel & Transport,cruise,noun,kruiz (dengiz sayohati),B1 Master
+610,Travel & Transport,depart,verb,jo'nab ketmoq,B1 Master
+611,Travel & Transport,drive,verb,haydamoq,B1 Master
+612,Travel & Transport,fare,noun,yo'l haqi,B1 Master
+613,Travel & Transport,ferry,noun,parom,B1 Master
+614,Travel & Transport,flight,noun,parvoz,B1 Master
+615,Travel & Transport,fly,verb,uchmoq,B1 Master
+616,Travel & Transport,guide,noun/verb,"gid, yo'lboshlovchi",B1 Master
+617,Travel & Transport,helicopter,noun,vertolyot,B1 Master
+618,Travel & Transport,journey,noun,sayohat (uzoq masofali),B1 Master
+619,Travel & Transport,luggage,noun,"bagaj, yuk",B1 Master
+620,Travel & Transport,map,noun,xarita,B1 Master
+621,Travel & Transport,miss,verb,"o'tkazib yubormoq, sog'inmoq",B1 Master
+622,Travel & Transport,motorbike,noun,motosikl,B1 Master
+623,Travel & Transport,motorway,noun,avtomagistral,B1 Master
+624,Travel & Transport,pack,verb,narsalarni yig'moq,B1 Master
+625,Travel & Transport,park,verb,parkovka qilmoq,B1 Master
+626,Travel & Transport,passenger,noun,yo'lovchi,B1 Master
+627,Travel & Transport,passport,noun,pasport,B1 Master
+628,Travel & Transport,platform,noun,"platforma, perron",B1 Master
+629,Travel & Transport,port,noun,port,B1 Master
+630,Travel & Transport,railway,noun,temir yo'l,B1 Master
+631,Travel & Transport,ride,verb,minmoq,B1 Master
+632,Travel & Transport,road,noun,yo'l,B1 Master
+633,Travel & Transport,route,noun,marshrut,B1 Master
+634,Travel & Transport,sail,verb,suzmoq,B1 Master
+635,Travel & Transport,seat,noun,o'rindiq,B1 Master
+636,Travel & Transport,ship,noun,kema,B1 Master
+637,Travel & Transport,station,noun,"stansiya, bekat",B1 Master
+638,Travel & Transport,stop,noun,"bekat, to'xtash",B1 Master
+639,Travel & Transport,street,noun,ko'cha,B1 Master
+640,Travel & Transport,subway,noun,metro,B1 Master
+641,Travel & Transport,suitcase,noun,chamadon,B1 Master
+642,Travel & Transport,taxi,noun,taksi,B1 Master
+643,Travel & Transport,ticket,noun,chipta,B1 Master
+644,Travel & Transport,tour,noun,"tur, sayohat",B1 Master
+645,Travel & Transport,tourist,noun,sayyoh,B1 Master
+646,Travel & Transport,traffic,noun,"qatnov, tirbandlik",B1 Master
+647,Travel & Transport,train,noun,poyezd,B1 Master
+648,Travel & Transport,tram,noun,tramvay,B1 Master
+649,Travel & Transport,transport,noun,transport,B1 Master
+650,Travel & Transport,travel,verb/noun,sayohat qilmoq,B1 Master
+651,Travel & Transport,trip,noun,"safar, qisqa sayohat",B1 Master
+652,Travel & Transport,underground,noun,metro (Britaniyada),B1 Master
+653,Travel & Transport,vehicle,noun,transport vositasi,B1 Master
+654,Travel & Transport,visit,verb/noun,tashrif buyurmoq,B1 Master
+655,Travel & Transport,voyage,noun,dengiz sayohati,B1 Master
+656,Travel & Transport,walk,verb/noun,"yurmoq, sayr qilmoq",B1 Master
+657,Travel & Transport,way,noun,"yo'l, usul",B1 Master
+658,Travel & Transport,wheel,noun,g'ildirak,B1 Master
+659,Food & Cooking,recipe,noun,"retsept, tayyorlash usuli",B1 Master
+660,Food & Cooking,ingredient,noun,"masalliq, tarkibiy qism",B1 Master
+661,Food & Cooking,boil,verb,qaynatmoq,B1 Master
+662,Food & Cooking,fry,verb,qovurmoq,B1 Master
+663,Food & Cooking,bake,verb,pishirmoq (pechda),B1 Master
+664,Food & Cooking,roast,verb,dimlab pishirmoq,B1 Master
+665,Food & Cooking,chop,verb,"to'g'ramoq, chopmoq",B1 Master
+666,Food & Cooking,slice,verb,parrak qilib kesmoq,B1 Master
+667,Food & Cooking,peel,verb,archmoq (po'stini),B1 Master
+668,Food & Cooking,stir,verb,aralashtirmoq,B1 Master
+669,Food & Cooking,pour,verb,quymoq,B1 Master
+670,Food & Cooking,spicy,adjective,achchiq (ziravorli),B1 Master
+671,Food & Cooking,bitter,adjective,"taxir, achchiq",B1 Master
+672,Food & Cooking,sour,adjective,nordon,B1 Master
+673,Food & Cooking,vegetarian,noun/adjective,"vegetarian, go'sht yemaslik",B1 Master
+674,Food & Cooking,nutrition,noun,"ozuqalanish, ozuqa moddalari",B1 Master
+675,Food & Cooking,snack,noun,yengil tamaddi,B1 Master
+676,Food & Cooking,dessert,noun,shirinlik,B1 Master
+677,Entertainment & Media,broadcast,verb,efirga uzatmoq,B1 Master
+678,Entertainment & Media,commercial,noun,reklama (TV/radiodagi),B1 Master
+679,Entertainment & Media,orchestra,noun,orkestr,B1 Master
+680,Entertainment & Media,perform,verb,ijro etmoq,B1 Master
+681,Entertainment & Media,publish,verb,nashr qilmoq,B1 Master
+682,Entertainment & Media,review,noun,"taqriz, sharh",B1 Master
+683,Entertainment & Media,stage,noun,sahna,B1 Master
+684,Entertainment & Media,studio,noun,studiya,B1 Master
+685,Entertainment & Media,subtitle,noun,subtitr,B1 Master
+686,Entertainment & Media,theatre,noun,teatr,B1 Master
+687,Entertainment & Media,viewer,noun,tomoshabin,B1 Master
+688,Entertainment & Media,plot,noun,syujet,B1 Master
+689,Relationships & Emotions,anxious,adjective,"xavotirda, betoqat",B1 Master
+690,Relationships & Emotions,ashamed,adjective,uyalgan,B1 Master
+691,Relationships & Emotions,calm,adjective,xotirjam,B1 Master
+692,Relationships & Emotions,curious,adjective,qiziquvchan,B1 Master
+693,Relationships & Emotions,depressed,adjective,tushkunlikka tushgan,B1 Master
+694,Relationships & Emotions,disappointed,adjective,hafsalasi pir bo'lgan,B1 Master
+695,Relationships & Emotions,embarrassed,adjective,xijolat bo'lgan,B1 Master
+696,Relationships & Emotions,enthusiastic,adjective,"ishtiyoqmand, g'ayratli",B1 Master
+697,Relationships & Emotions,proud,adjective,faxrlanadigan,B1 Master
+698,Relationships & Emotions,upset,adjective,xafa,B1 Master
+699,Relationships & Emotions,encourage,verb,"ruhlantirmoq, dalda bermoq",B1 Master
+700,Relationships & Emotions,ignore,verb,e'tiborsiz qoldirmoq,B1 Master
+701,Relationships & Emotions,trust,verb,ishonmoq,B1 Master
+702,Relationships & Emotions,friendship,noun,do'stlik,B1 Master
+703,Relationships & Emotions,relationship,noun,munosabat,B1 Master
+704,Relationships & Emotions,relative,noun,qarindosh,B1 Master
+705,Relationships & Emotions,single,adjective,"bo'ydoq, turmush qurmagan",B1 Master
+706,Relationships & Emotions,married,adjective,"oilali, turmush qurgan",B1 Master
+707,Crime & Law,arrest,verb,hibsga olmoq,B1 Master
+708,Crime & Law,burglar,noun,o'g'ri (uyga kiradigan),B1 Master
+709,Crime & Law,commit,verb,sodir etmoq (jinoyat),B1 Master
+710,Crime & Law,court,noun,sud,B1 Master
+711,Crime & Law,evidence,noun,"dalil, isbot",B1 Master
+712,Crime & Law,guilty,adjective,aybdor,B1 Master
+713,Crime & Law,innocent,adjective,"aybsiz, begunoh",B1 Master
+714,Crime & Law,judge,noun,sudya,B1 Master
+715,Crime & Law,jury,noun,hay'at (sudda),B1 Master
+716,Crime & Law,murder,noun/verb,"qotillik, o'ldirmoq",B1 Master
+717,Crime & Law,rob,verb,"tunamoq, o'g'irlamoq",B1 Master
+718,Crime & Law,steal,verb,o'g'irlamoq,B1 Master
+719,Crime & Law,suspect,noun/verb,"gumondor, gumon qilmoq",B1 Master
+720,Crime & Law,thief,noun,o'g'ri,B1 Master
+721,Crime & Law,trial,noun,sud jarayoni,B1 Master
+722,Crime & Law,victim,noun,"qurbon, jabrlanuvchi",B1 Master
+723,Crime & Law,witness,noun,guvoh,B1 Master
+724,Crime & Law,investigate,verb,tergov qilmoq,B1 Master
+725,Crime & Law,legal,adjective,qonuniy,B1 Master
+726,Crime & Law,illegal,adjective,noqonuniy,B1 Master
+727,Crime & Law,punish,verb,jazolamoq,B1 Master
+728,City Life & Housing,accommodation,noun,yashash joyi,B1 Master
+729,City Life & Housing,apartment,noun,kvartira,B1 Master
+730,City Life & Housing,balcony,noun,balkon,B1 Master
+731,City Life & Housing,block,noun,ko'p qavatli uy,B1 Master
+732,City Life & Housing,castle,noun,"qasr, qal'a",B1 Master
+733,City Life & Housing,cathedral,noun,"sobor, katta cherkov",B1 Master
+734,City Life & Housing,ceiling,noun,shift,B1 Master
+735,City Life & Housing,central,adjective,markaziy,B1 Master
+736,City Life & Housing,cottage,noun,"kottej, hovli uy",B1 Master
+737,City Life & Housing,crowd,noun,"olomon, to'da",B1 Master
+738,City Life & Housing,elevator,noun,lift,B1 Master
+739,City Life & Housing,floor,noun,"qavat, pol",B1 Master
+740,City Life & Housing,historic,adjective,tarixiy,B1 Master
+741,City Life & Housing,location,noun,joylashuv,B1 Master
+742,City Life & Housing,monument,noun,yodgorlik,B1 Master
+743,City Life & Housing,neighborhood,noun,"mahalla, yon-atrof",B1 Master
+744,City Life & Housing,palace,noun,saroy,B1 Master
+745,City Life & Housing,roof,noun,tom,B1 Master
+746,City Life & Housing,square,noun,maydon,B1 Master
+747,City Life & Housing,stadium,noun,stadion,B1 Master
+748,City Life & Housing,suburb,noun,shahar chekkasi,B1 Master
+749,Sports & Leisure,athlete,noun,"atlet, sportchi",B1 Master
+750,Sports & Leisure,athletics,noun,yengil atletika,B1 Master
+751,Sports & Leisure,champion,noun,chempion,B1 Master
+752,Sports & Leisure,championship,noun,chempionat,B1 Master
+753,Sports & Leisure,coach,noun,murabbiy,B1 Master
+754,Sports & Leisure,compete,verb,musobaqalashmoq,B1 Master
+755,Sports & Leisure,competition,noun,musobaqa,B1 Master
+756,Sports & Leisure,defeat,verb/noun,"mag'lub etmoq, mag'lubiyat",B1 Master
+757,Sports & Leisure,fan,noun,"ishqiboz, muxlis",B1 Master
+758,Sports & Leisure,fitness,noun,"fitnes, salomatlik",B1 Master
+759,Sports & Leisure,gym,noun,sport zali,B1 Master
+760,Sports & Leisure,medal,noun,medal,B1 Master
+761,Sports & Leisure,opponent,noun,raqib,B1 Master
+762,Sports & Leisure,referee,noun,hakam,B1 Master
+763,Sports & Leisure,score,noun/verb,"hisob, ochko olmoq",B1 Master
+764,Sports & Leisure,spectator,noun,tomoshabin (sportda),B1 Master
+765,Sports & Leisure,tournament,noun,turnir,B1 Master
+766,Sports & Leisure,victory,noun,g'alaba,B1 Master
+767,Sports & Leisure,hobby,noun,"xobbi, sevimli mashg'ulot",B1 Master
+768,Sports & Leisure,outdoor,adjective,ochiq havodagi,B1 Master
+769,Sports & Leisure,indoor,adjective,"ichkaridagi, yopiq joydagi",B1 Master
+770,Shopping & Clothes,bargain,noun,"arzon xarid, savdolashish",B1 Master
+771,Shopping & Clothes,brand,noun,"brend, marka",B1 Master
+772,Shopping & Clothes,checkout,noun,"kassa, to'lov joyi",B1 Master
+773,Shopping & Clothes,consumer,noun,iste'molchi,B1 Master
+774,Shopping & Clothes,discount,noun,chegirma,B1 Master
+775,Shopping & Clothes,purchase,noun/verb,"xarid, xarid qilmoq",B1 Master
+776,Shopping & Clothes,queue,noun,navbat,B1 Master
+777,Shopping & Clothes,refund,noun,pulni qaytarish,B1 Master
+778,Shopping & Clothes,size,noun,o'lcham,B1 Master
+779,Shopping & Clothes,wardrobe,noun,kiyim javoni,B1 Master
+780,Education,academic,adjective,"akademik, ta'limga oid",B1 Master
+781,Education,assignment,noun,"vazifa, topshiriq",B1 Master
+782,Education,campus,noun,universitet shaharchasi,B1 Master
+783,Education,certificate,noun,"sertifikat, guvohnoma",B1 Master
+784,Education,degree,noun,ilmiy daraja,B1 Master
+785,Education,diploma,noun,diplom,B1 Master
+786,Education,essay,noun,"esse, insho",B1 Master
+787,Education,evaluate,verb,baholamoq,B1 Master
+788,Education,graduate,verb,o'quv yurtini bitirmoq,B1 Master
+789,Education,lecture,noun,ma'ruza,B1 Master
+790,Education,professor,noun,professor,B1 Master
+791,Education,qualification,noun,malaka,B1 Master
+792,Education,semester,noun,semestr,B1 Master
+793,Education,tutor,noun,"repetitor, ustoz",B1 Master
+794,Work & Business,applicant,noun,"nomzod, ariza beruvchi",B1 Master
+795,Work & Business,customer,noun,"xaridor, mijoz",B1 Master
+796,Work & Business,hire,verb,ishga yollamoq,B1 Master
+797,Work & Business,manage,verb,boshqarmoq,B1 Master
+798,Work & Business,promotion,noun,lavozim ko'tarilishi,B1 Master
+799,Work & Business,resign,verb,"iste'foga chiqmoq, ishdan bo'shamoq",B1 Master
+800,Health,ambulance,noun,tez yordam mashinasi,B1 Master
+801,Health,bandage,noun,"bint, bog'lam",B1 Master
+802,Health,pharmacy,noun,dorixona,B1 Master
+803,Health,pill,noun,dori (tabletka),B1 Master
+804,Health,prescription,noun,retsept,B1 Master
+805,Health,recover,verb,"sog'aymoq, o'ziga kelmoq",B1 Master
+806,Health,surgery,noun,"jarrohlik, xirurgiya",B1 Master
+807,Health,symptom,noun,"simptom, belgi",B1 Master
+808,Health,treatment,noun,"muolaja, davolash",B1 Master
+809,Travel,abroad,adverb,"chet elda, xorijda",B1 Master
+810,Travel,airline,noun,aviakompaniya,B1 Master
+811,Travel,airport,noun,aeroport,B1 Master
+812,Travel,baggage,noun,"bagaj, yuk",B1 Master
+813,Travel,border,noun,chegara,B1 Master
+814,Travel,customs,noun,bojxona,B1 Master
+815,Travel,destination,noun,manzil,B1 Master
+816,Travel,visa,noun,viza,B1 Master
+817,Environment,pollution,noun,ifloslanish,B1 Master
+818,Environment,protect,verb,himoya qilmoq,B1 Master
+819,Environment,recycle,verb,qayta ishlamoq,B1 Master
+820,Environment,rubbish,noun,"chiqindi, axlat",B1 Master
+821,Environment,wildlife,noun,yovvoyi tabiat,B1 Master
+822,Environment,disaster,noun,"falokat, ofat",B1 Master
+823,Environment,earthquake,noun,zilzila,B1 Master
+824,Environment,hurricane,noun,"bo'ron, dovul",B1 Master
+825,Environment,temperature,noun,harorat,B1 Master
+826,Technology,browser,noun,brauzer,B1 Master
+827,Technology,database,noun,ma'lumotlar bazasi,B1 Master
+828,Technology,screen,noun,ekran,B1 Master
+829,Technology,software,noun,dasturiy ta'minot,B1 Master
+830,Technology,update,verb,yangilamoq,B1 Master
+831,Technology,upload,verb,yuklamoq,B1 Master
+832,Technology,wireless,adjective,simsiz,B1 Master
+833,1. Education & Learning,academic integrity,n.,ilmiy halollik,B1 Master
+834,1. Education & Learning,academic pressure,n.,o'quv bosimi,B1 Master
+835,1. Education & Learning,academic year,n.,o'quv yili,B1 Master
+836,1. Education & Learning,accreditation,n.,akkreditatsiya,B1 Master
+837,1. Education & Learning,apprenticeship,n.,shogirdlik,B1 Master
+838,1. Education & Learning,aptitude,n.,qobiliyat,B1 Master
+839,1. Education & Learning,assessment,n.,baholash (o'quv),B1 Master
+840,1. Education & Learning,blended learning,n.,aralash ta'lim,B1 Master
+841,1. Education & Learning,citation,n.,iqtibos,B1 Master
+842,1. Education & Learning,cite (source),v.,havola keltirmoq,B1 Master
+843,1. Education & Learning,classroom management,n.,sinfni boshqarish,B1 Master
+844,1. Education & Learning,competency-based,adj.,kompetensiyaga asoslangan,B1 Master
+845,1. Education & Learning,comprehension,n.,tushunish (matn),B1 Master
+846,1. Education & Learning,continuing education,n.,davomli ta'lim,B1 Master
+847,1. Education & Learning,critical thinking,n.,tanqidiy fikrlash,B1 Master
+848,1. Education & Learning,curriculum (b1),n.,o'quv dasturi,B1 Master
+849,1. Education & Learning,dissertation,n.,dissertatsiya (ilmiy ish),B1 Master
+850,1. Education & Learning,distance learning,n.,masofaviy ta'lim,B1 Master
+851,1. Education & Learning,dropout,n.,o'qishni tashlab ketgan,B1 Master
+852,1. Education & Learning,elective course,n.,tanlov fani,B1 Master
+853,1. Education & Learning,exchange program,n.,almashinuv dasturi,B1 Master
+854,1. Education & Learning,extracurricular,adj.,dars mashg'ulotidan tashqari,B1 Master
+855,1. Education & Learning,faculty member,n.,professor-o'qituvchi,B1 Master
+856,1. Education & Learning,formative assessment,n.,joriy baholash,B1 Master
+857,1. Education & Learning,gifted student,n.,iqtidorli o'quvchi,B1 Master
+858,1. Education & Learning,grading system,n.,baholash tizimi,B1 Master
+859,1. Education & Learning,grant,n.,grant,B1 Master
+860,1. Education & Learning,illiteracy,n.,savodsizlik,B1 Master
+861,1. Education & Learning,intellectual,adj.,aqliy,B1 Master
+862,1. Education & Learning,learning outcome,n.,o'quv natijasi,B1 Master
+863,1. Education & Learning,lifelong learning,n.,umr bo'yi ta'lim,B1 Master
+864,1. Education & Learning,literacy,n.,savodxonlik,B1 Master
+865,1. Education & Learning,mandatory subject,n.,majburiy fan,B1 Master
+866,1. Education & Learning,memorize,v.,yodlamoq,B1 Master
+867,1. Education & Learning,mentor (b1),n.,murabbiy / ustoz,B1 Master
+868,1. Education & Learning,pedagogy,n.,pedagogika,B1 Master
+869,1. Education & Learning,peer review,n.,hamkasblar tomonidan baholash,B1 Master
+870,1. Education & Learning,plagiarism,n.,plagiat,B1 Master
+871,1. Education & Learning,postgraduate,n.,magistratura talabasi,B1 Master
+872,1. Education & Learning,practical (education),adj.,amaliy,B1 Master
+873,1. Education & Learning,proficiency,n.,malaka darajasi,B1 Master
+874,1. Education & Learning,remedial class,n.,tuzatuvchi dars,B1 Master
+875,1. Education & Learning,scholarship (b1),n.,stipendiya,B1 Master
+876,1. Education & Learning,self-study,n.,mustaqil o'qish,B1 Master
+877,1. Education & Learning,skill development,n.,ko'nikmani rivojlantirish,B1 Master
+878,1. Education & Learning,special needs education,n.,maxsus ta'lim ehtiyoji,B1 Master
+879,1. Education & Learning,standardized test,n.,standart test,B1 Master
+880,1. Education & Learning,student engagement,n.,talabalarning ishtiroki,B1 Master
+881,1. Education & Learning,student loan,n.,talaba krediti,B1 Master
+882,1. Education & Learning,study abroad,phr.,chet elda o'qish,B1 Master
+883,1. Education & Learning,summative assessment,n.,yakuniy baholash,B1 Master
+884,1. Education & Learning,teaching method,n.,o'qitish usuli,B1 Master
+885,1. Education & Learning,theoretical,adj.,nazariy,B1 Master
+886,1. Education & Learning,thesis,n.,dissertatsiya,B1 Master
+887,1. Education & Learning,tuition fee,n.,o'qish to'lovi,B1 Master
+888,1. Education & Learning,undergraduate,n.,bakalavriat talabasi,B1 Master
+889,1. Education & Learning,vocational training,n.,kasb-hunar ta'limi,B1 Master
+890,10. Arts & Literature,abstract art,n.,abstrakt san'at,B1 Master
+891,10. Arts & Literature,allegory,n.,allegoriya,B1 Master
+892,10. Arts & Literature,antagonist,n.,asosiy dushman qahramon,B1 Master
+893,10. Arts & Literature,character (story),n.,personaj,B1 Master
+894,10. Arts & Literature,contemporary art,n.,zamonaviy san'at,B1 Master
+895,10. Arts & Literature,critique,n.,tanqid,B1 Master
+896,10. Arts & Literature,dystopia,n.,distopiya,B1 Master
+897,10. Arts & Literature,exhibition (art),n.,ko'rgazma,B1 Master
+898,10. Arts & Literature,foreshadowing,n.,oldindan ishora,B1 Master
+899,10. Arts & Literature,genre (b1),n.,janr,B1 Master
+900,10. Arts & Literature,irony,n.,kinoya,B1 Master

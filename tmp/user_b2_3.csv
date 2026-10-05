@@ -1,0 +1,422 @@
+901,Action & Mental Verbs,tackle,verb,hal qilishga kirishmoq,B2 Master
+902,Action & Mental Verbs,tear,verb,yirtmoq,B2 Master
+903,Action & Mental Verbs,tend,verb,moyil bo'lmoq,B2 Master
+904,Action & Mental Verbs,testify,verb,guvohlik bermoq,B2 Master
+905,Action & Mental Verbs,toss,verb,"irmoq, tashlamoq",B2 Master
+906,Action & Mental Verbs,trace,verb,iziga tushmoq,B2 Master
+907,Action & Mental Verbs,train,verb,shug'ullanmoq,B2 Master
+908,Action & Mental Verbs,transfer,verb,ko'chirmoq,B2 Master
+909,Action & Mental Verbs,transform,verb,aylantirmoq,B2 Master
+910,Action & Mental Verbs,translate,verb,tarjima qilmoq,B2 Master
+911,Action & Mental Verbs,transmit,verb,uzatmoq,B2 Master
+912,Action & Mental Verbs,treat,verb,"munosabatda bo'lmoq, davolamoq",B2 Master
+913,Action & Mental Verbs,trigger,verb,keltirib chiqarmoq,B2 Master
+914,Action & Mental Verbs,trust,verb,ishonmoq,B2 Master
+915,Action & Mental Verbs,undergo,verb,boshidan kechirmoq,B2 Master
+916,Action & Mental Verbs,undermine,verb,putur yetkazmoq,B2 Master
+917,Action & Mental Verbs,understand,verb,tushunmoq,B2 Master
+918,Action & Mental Verbs,undertake,verb,o'z zimmasiga olmoq,B2 Master
+919,Action & Mental Verbs,unite,verb,birlashmoq,B2 Master
+920,Action & Mental Verbs,urge,verb,undamoq,B2 Master
+921,Action & Mental Verbs,utilize,verb,foydalanmoq,B2 Master
+922,Action & Mental Verbs,vanish,verb,g'oyib bo'lmoq,B2 Master
+923,Action & Mental Verbs,vary,verb,farq qilmoq,B2 Master
+924,Action & Mental Verbs,verify,verb,tasdiqlamoq,B2 Master
+925,Action & Mental Verbs,violate,verb,buzmoq (qoida/qonun),B2 Master
+926,Action & Mental Verbs,wander,verb,sang'ib yurmoq,B2 Master
+927,Action & Mental Verbs,warn,verb,ogohlantirmoq,B2 Master
+928,Action & Mental Verbs,weigh,verb,"tortmoq, vaznini o'lchamoq",B2 Master
+929,Action & Mental Verbs,welcome,verb,kutib olmoq,B2 Master
+930,Action & Mental Verbs,whisper,verb,pichirlamoq,B2 Master
+931,Action & Mental Verbs,withdraw,verb,"qaytarib olmoq, pul yechmoq",B2 Master
+932,Action & Mental Verbs,witness,verb,guvoh bo'lmoq,B2 Master
+933,Action & Mental Verbs,wonder,verb,hayron bo'lmoq,B2 Master
+934,Action & Mental Verbs,worry,verb,xavotirlanmoq,B2 Master
+935,Action & Mental Verbs,wrap,verb,o'ramoq,B2 Master
+936,Action & Mental Verbs,yield,verb,"hosil bermoq, taslim bo'lmoq",B2 Master
+937,Technology,obsolete,adjective,"eskirgan, urfdan qolgan",B2 Master
+938,Business,lucrative,adjective,"daromadli, serdaromad",B2 Master
+939,Society,mandatory,adjective,majburiy,B2 Master
+940,Health,sedentary,adjective,kam harakat (hayot tarzi),B2 Master
+941,Work,delegate,verb,vakolat/vazifa topshirmoq,B2 Master
+942,Travel,itinerary,noun,sayohat yo'nalishi (marshrut),B2 Master
+943,Science,empirical,adjective,tajribaga asoslangan,B2 Master
+944,Psychology,cognitive,adjective,"bilishga oid, kognitiv",B2 Master
+945,Society,adequate,adjective,"yetarli, muvofiq",B2 Master
+946,Communication,ambiguous,adjective,"noaniq, ikki xil ma'noli",B2 Master
+947,Law,amend,verb,o'zgartirish kiritmoq,B2 Master
+948,Science,anomaly,noun,"anomaliya, qoidadan chetga chiqish",B2 Master
+949,Technology,browse,verb,ko'rib chiqmoq (internetda),B2 Master
+950,Society,bureaucracy,noun,byurokratiya,B2 Master
+951,Everyday,coherent,adjective,mantiqiy bog'langan,B2 Master
+952,Work,competent,adjective,"malakali, layoqatli",B2 Master
+953,Society,consensus,noun,"hamjihatlik, umumiy kelishuv",B2 Master
+954,Psychology,conscious,adjective,"ongli, tushunadigan",B2 Master
+955,Politics,controversy,noun,"munozara, tortishuv",B2 Master
+956,Everyday,crucial,adjective,"hal qiluvchi, juda muhim",B2 Master
+957,Everyday,deficient,adjective,"yetishmovchi, kamchiligi bor",B2 Master
+958,Science,dense,adjective,"zich, qalin",B2 Master
+959,Health,diagnose,verb,tashxis qo'ymoq,B2 Master
+960,Business,dynamic,adjective,"dinamik, doim harakatdagi",B2 Master
+961,Environment,emit,verb,"ajratib chiqarmoq (gaz, nur)",B2 Master
+962,Everyday,exaggerate,verb,"bo'rttirmoq, oshirib yubormoq",B2 Master
+963,Health,fatigue,noun,"charchoq, toliqish",B2 Master
+964,Business,fluctuate,verb,o'zgarib turmoq (narx/miqdor),B2 Master
+965,Law,fraud,noun,firibgarlik,B2 Master
+966,Everyday,genuine,adjective,"haqiqiy, samimiy",B2 Master
+967,Psychology,illusion,noun,"illyuziya, sarob",B2 Master
+968,Business,incentive,noun,"rag'bat, qiziqtiruvchi omil",B2 Master
+969,Communication,articulate,adjective,fikrini aniq ifodalay oladigan,B2 Master
+970,Society,ubiquitous,adjective,hamma joyda uchraydigan,B2 Master
+971,Work,meticulous,adjective,"o'ta e'tiborli, sinchkov",B2 Master
+972,Politics,pragmatic,adjective,"amaliy, pragmatik",B2 Master
+973,Economy,volatile,adjective,"beqaror, tez o'zgaruvchan",B2 Master
+974,Environment,mitigate,verb,"yumshatmoq, kamaytirmoq (zararni)",B2 Master
+975,Psychology,resilience,noun,"chidamlilik, matonat",B2 Master
+976,Language,nuance,noun,"nozik farq, nyuans",B2 Master
+977,Business,monopoly,noun,"monopoliya, yakkahokimlik",B2 Master
+978,Society,alleviate,verb,"yengillashtirmoq (dard, muammo)",B2 Master
+979,Everyday,authentic,adjective,"haqiqiy, ishonchli",B2 Master
+980,Business,catalyst,noun,"katalizator, tezlashtiruvchi omil",B2 Master
+981,Behavior,cynical,adjective,hamma narsaga shubha bilan qaraydigan,B2 Master
+982,Work,diligence,noun,"qunt, tirishqoqlik",B2 Master
+983,Economy,discrepancy,noun,"nomuvofiqlik, farq",B2 Master
+984,Society,empower,verb,huquq/vakolat bermoq,B2 Master
+985,Everyday,epitome,noun,yorqin namuna,B2 Master
+986,Communication,eloquent,adjective,"notiq, ta'sirchan gapiradigan",B2 Master
+987,Behavior,hypocrisy,noun,"munofiqlik, ikkiyuzlamachilik",B2 Master
+988,Psychology,impulsive,adjective,o'ylamasdan harakat qiladigan,B2 Master
+989,Society,indigenous,adjective,"mahalliy, tub (aholi/o'simlik)",B2 Master
+990,Technology,innovative,adjective,"innovatsion, yangicha",B2 Master
+991,Everyday,lucid,adjective,"tushunarli, ravshan",B2 Master
+992,Politics,marginalize,verb,"chetga surib qo'ymoq, e'tiborsiz qoldirmoq",B2 Master
+993,Everyday,mundane,adjective,"odatiy, zerikarli",B2 Master
+994,Everyday,obscure,adjective,"noma'lum, tushunarsiz",B2 Master
+995,Environment,paradigm,noun,"paradigma, namuna/model",B2 Master
+996,Behavior,perseverance,noun,"qatiyat, bardosh",B2 Master
+997,Everyday,plausible,adjective,"haqiqatga yaqin, ishonarli",B2 Master
+998,Politics,precedent,noun,"pretsedent, avvalgi o'xshash holat",B2 Master
+999,Everyday,profound,adjective,"chuqur (ma'no, bilim)",B2 Master
+1000,Work,prolific,adjective,sermahsul,B2 Master
+1001,Business,redundant,adjective,"ortiqcha, keraksiz",B2 Master
+1002,Society,scrutiny,noun,"batafsil tekshiruv, sinchkovlik",B2 Master
+1003,Psychology,susceptible,adjective,"tez ta'sirga tushadigan, moyil",B2 Master
+1004,Work,versatile,adjective,"ko'p qirrali, turli ishga mos",B2 Master
+1005,Society,viable,adjective,"yashovchan, amalga oshirsa bo'ladigan",B2 Master
+1006,Literature,ephemeral,adjective,"vaqtinchalik, o'tkinchi",B2 Master
+1007,Philosophy,esoteric,adjective,faqat tor doiradagilar tushunadigan,B2 Master
+1008,Politics,hegemony,noun,"gegemoniya, yetakchilik",B2 Master
+1009,Society,serendipity,noun,kutilmagan yaxshi tasodif,B2 Master
+1010,Psychology,quintessential,adjective,eng yorqin namuna,B2 Master
+1011,Work,sycophant,noun,"tilyog'lamachi, laganbardor",B2 Master
+1012,Environment,cataclysm,noun,"kataklizm, halokatli o'zgarish",B2 Master
+1013,Language,obfuscate,verb,ataylab chigallashtirmoq,B2 Master
+1014,General,cacophony,noun,"kakofoniya, yoqimsiz aralash ovozlar",B2 Master
+1015,Behavior,fastidious,adjective,"o'ta injiq, didi nozik",B2 Master
+1016,Society,acrimony,noun,"achchiqlanish, adovat",B2 Master
+1017,Psychology,altruism,noun,"altruizm, o'zgani o'ylash",B2 Master
+1018,Behavior,audacious,adjective,"dovyurak, beadab darajada jasur",B2 Master
+1019,Psychology,capricious,adjective,"injiq, tez o'zgaruvchan (xarakter)",B2 Master
+1020,Everyday,conundrum,noun,"jumbog', murakkab muammo",B2 Master
+1021,Literature,dichotomy,noun,ikki qarama-qarshi qismga bo'linish,B2 Master
+1022,Society,egalitarian,adjective,tenglikka asoslangan,B2 Master
+1023,Everyday,enigma,noun,"jumbog', sir",B2 Master
+1024,Language,euphemism,noun,"evfemizm, yumshatib aytish",B2 Master
+1025,Science,extrapolate,verb,mavjud ma'lumotlar asosida xulosa qilmoq,B2 Master
+1026,Everyday,facetious,adjective,noo'rin hazillashadigan,B2 Master
+1027,Behavior,gregarious,adjective,"kirishimli, jamoani yaxshi ko'radigan",B2 Master
+1028,Psychology,idiosyncrasy,noun,"o'ziga xoslik, g'alati qiliq",B2 Master
+1029,Language,ineffable,adjective,so'z bilan ta'riflab bo'lmaydigan,B2 Master
+1030,Science,infinitesimal,adjective,"juda kichik, cheksiz kichik",B2 Master
+1031,Politics,machiavellian,adjective,maqsad yo'lida hamma narsadan qaytmaydigan,B2 Master
+1032,Society,mellifluous,adjective,"yoqimli eshitiladigan, mayin (ovoz)",B2 Master
+1033,Politics,nepotism,noun,"nepotizm, tanish-bilishchilik",B2 Master
+1034,Everyday,obsequious,adjective,"laganbardor, xushomadgo'y",B2 Master
+1035,Everyday,panacea,noun,barcha dardlarga davo,B2 Master
+1036,Society,pariah,noun,"jamiyatdan ajratib qo'yilgan odam, quvg'indi",B2 Master
+1037,Everyday,plethora,noun,"ortiqchalik, juda ko'p miqdor",B2 Master
+1038,Behavior,pugnacious,adjective,"urishqoq, janjalkash",B2 Master
+1039,Everyday,quixotic,adjective,"xayolparast, amalda bajarmay bo'lmaydigan",B2 Master
+1040,Society,sartorial,adjective,kiyim-kechakka / tikuvchilikka oid,B2 Master
+1041,Behavior,stoic,adjective,og'riq va qiyinchilikka chidamli (hissiyotsiz),B2 Master
+1042,Everyday,surreptitious,adjective,yashirincha qilingan,B2 Master
+1043,Everyday,vicarious,adjective,boshqalarning tajribasi orqali his qilingan,B2 Master
+1044,1. Academic & Research,abstract (paper),n.,annotatsiya,B2 Master
+1045,1. Academic & Research,academic journal,n.,ilmiy jurnal,B2 Master
+1046,1. Academic & Research,bibliography,n.,bibliografiya,B2 Master
+1047,1. Academic & Research,causation,n.,sabab-oqibat bog'liqligi,B2 Master
+1048,1. Academic & Research,confounding variable,n.,chalg'ituvchi o'zgaruvchi,B2 Master
+1049,1. Academic & Research,conjecture,n.,taxmin,B2 Master
+1050,1. Academic & Research,correlation,n.,korrelyatsiya,B2 Master
+1051,1. Academic & Research,cross-sectional study,n.,ko'ndalang kesim tadqiqoti,B2 Master
+1052,1. Academic & Research,data collection,n.,ma'lumot to'plash,B2 Master
+1053,1. Academic & Research,dissemination (research),n.,tarqatish (natijalarni),B2 Master
+1054,1. Academic & Research,empirical evidence,n.,tajribaviy dalil,B2 Master
+1055,1. Academic & Research,epistemology,n.,bilish nazariyasi,B2 Master
+1056,1. Academic & Research,ethical approval,n.,axloqiy tasdiq,B2 Master
+1057,1. Academic & Research,generalizability,n.,umumlashtirilishi,B2 Master
+1058,1. Academic & Research,hypothesis testing,n.,gipotezani sinash,B2 Master
+1059,1. Academic & Research,interdisciplinary,adj.,fanlararo,B2 Master
+1060,1. Academic & Research,literature review,n.,adabiyotlar tahlili,B2 Master
+1061,1. Academic & Research,longitudinal study,n.,uzoq muddatli tadqiqot,B2 Master
+1062,1. Academic & Research,meta-analysis,n.,meta-tahlil,B2 Master
+1063,1. Academic & Research,methodology (b2),n.,metodologiya,B2 Master
+1064,1. Academic & Research,null hypothesis,n.,nol gipoteza,B2 Master
+1065,1. Academic & Research,outlier (data),n.,chetga chiqib turuvchi qiymat,B2 Master
+1066,1. Academic & Research,peer review (b2),n.,hamkasblar tomonidan ko'rib chiqish,B2 Master
+1067,1. Academic & Research,primary source,n.,birlamchi manba,B2 Master
+1068,1. Academic & Research,qualitative data,n.,sifat ma'lumotlari,B2 Master
+1069,1. Academic & Research,quantitative data,n.,miqdoriy ma'lumotlar,B2 Master
+1070,1. Academic & Research,reliability (research),n.,ishonchlilik (natija),B2 Master
+1071,1. Academic & Research,replication (study),n.,takrorlanish (tadqiqot),B2 Master
+1072,1. Academic & Research,research design,n.,tadqiqot dizayni,B2 Master
+1073,1. Academic & Research,scholarly,adj.,ilmiy,B2 Master
+1074,1. Academic & Research,secondary source,n.,ikkilamchi manba,B2 Master
+1075,1. Academic & Research,statistical model,n.,statistik model,B2 Master
+1076,1. Academic & Research,systematic review,n.,tizimli sharh,B2 Master
+1077,1. Academic & Research,theoretical framework,n.,nazariy asos,B2 Master
+1078,1. Academic & Research,triangulation,n.,triangulyatsiya (metod),B2 Master
+1079,1. Academic & Research,validity,n.,ishonchlilik (metod),B2 Master
+1080,1. Academic & Research,variable (b2),n.,o'zgaruvchi,B2 Master
+1081,10. Literature & Rhetoric,allusion,n.,ishora (adabiy),B2 Master
+1082,10. Literature & Rhetoric,deconstruction,n.,dekonstruksiya,B2 Master
+1083,10. Literature & Rhetoric,didactic,adj.,o'rgatuvchi (adabiy),B2 Master
+1084,10. Literature & Rhetoric,existentialism,n.,ekzistensializm,B2 Master
+1085,10. Literature & Rhetoric,hyperbole,n.,mubolag'a,B2 Master
+1086,10. Literature & Rhetoric,intertextuality,n.,matnlararolik,B2 Master
+1087,10. Literature & Rhetoric,juxtaposition,n.,qarama-qarshi qo'yish,B2 Master
+1088,10. Literature & Rhetoric,literary device,n.,adabiy vosita,B2 Master
+1089,10. Literature & Rhetoric,motif,n.,motiv (adabiy),B2 Master
+1090,10. Literature & Rhetoric,narrative voice,n.,hikoya ovozi,B2 Master
+1091,10. Literature & Rhetoric,polemic,n.,polemika,B2 Master
+1092,10. Literature & Rhetoric,postmodernism,n.,postmodernizm,B2 Master
+1093,10. Literature & Rhetoric,rhetoric,n.,notiqlik san'ati,B2 Master
+1094,10. Literature & Rhetoric,understatement,n.,kamsitib aytish,B2 Master
+1095,10. Literature & Rhetoric,unreliable narrator,n.,ishonchsiz hikoyachi,B2 Master
+1096,10. Literature & Rhetoric,verisimilitude,n.,haqqoniylik (badiiy),B2 Master
+1097,11. Idioms & Advanced Expressions,a double-edged sword,idiom,ikki tomonlama qilich,B2 Master
+1098,11. Idioms & Advanced Expressions,a grey area,idiom,noaniq masala,B2 Master
+1099,11. Idioms & Advanced Expressions,a leopard can't change its spots,idiom,tabiat o'zgarmaydi,B2 Master
+1100,11. Idioms & Advanced Expressions,cut corners,idiom,ishni soddalashtirib qilmoq,B2 Master
+1101,11. Idioms & Advanced Expressions,draw a line in the sand,idiom,chek qo'ymoq,B2 Master
+1102,11. Idioms & Advanced Expressions,food for thought,idiom,o'ylantiradigan narsa,B2 Master
+1103,11. Idioms & Advanced Expressions,go down in flames,idiom,mutlaqo muvaffaqiyatsizlikka uchramoq,B2 Master
+1104,11. Idioms & Advanced Expressions,par for the course,idiom,odatiy holat,B2 Master
+1105,11. Idioms & Advanced Expressions,read the writing on the wall,idiom,oqibatni oldindan sezmoq,B2 Master
+1106,11. Idioms & Advanced Expressions,the elephant in the room,idiom,"hamma sezayotgan, lekin gapirmayotgan muammo",B2 Master
+1107,11. Idioms & Advanced Expressions,the tip of the iceberg,idiom,muzlikning uchi,B2 Master
+1108,11. Idioms & Advanced Expressions,throw caution to the wind,idiom,xavfni o'ylamasdan harakat qilmoq,B2 Master
+1109,11. Idioms & Advanced Expressions,to be at a crossroads,idiom,tanlov oldida turmoq,B2 Master
+1110,11. Idioms & Advanced Expressions,to play devil's advocate,idiom,qarama-qarshi fikr bildirmoq,B2 Master
+1111,12. Advanced Adjectives & Nuance,austere,adj.,qat'iy / soddaligicha,B2 Master
+1112,12. Advanced Adjectives & Nuance,cogent,adj.,ishontiradigan (mantiqiy),B2 Master
+1113,12. Advanced Adjectives & Nuance,dogmatic,adj.,dogmatik,B2 Master
+1114,12. Advanced Adjectives & Nuance,egregious,adj.,g'oyatda yomon,B2 Master
+1115,12. Advanced Adjectives & Nuance,elusive,adj.,ushlab bo'lmaydigan / tushuntirib bo'lmas,B2 Master
+1116,12. Advanced Adjectives & Nuance,extraneous,adj.,aloqasiz / ortiqcha,B2 Master
+1117,12. Advanced Adjectives & Nuance,indefatigable,adj.,charchamas,B2 Master
+1118,12. Advanced Adjectives & Nuance,intractable,adj.,hal qilib bo'lmas,B2 Master
+1119,12. Advanced Adjectives & Nuance,intrinsic,adj.,ichki (tabiiy),B2 Master
+1120,12. Advanced Adjectives & Nuance,multifaceted,adj.,ko'p qirrali,B2 Master
+1121,12. Advanced Adjectives & Nuance,myriad,adj.,son-sanoqsiz,B2 Master
+1122,12. Advanced Adjectives & Nuance,nuanced,adj.,nozik farqli,B2 Master
+1123,12. Advanced Adjectives & Nuance,paradoxical,adj.,paradoksal,B2 Master
+1124,12. Advanced Adjectives & Nuance,pervasive,adj.,keng tarqalgan (chuqur),B2 Master
+1125,12. Advanced Adjectives & Nuance,sanguine,adj.,optimistik,B2 Master
+1126,12. Advanced Adjectives & Nuance,tenuous,adj.,zaif / asossiz,B2 Master
+1127,13. Advanced Grammar & Discourse Markers,all things considered,phr.,hamma narsani hisobga olganda,B2 Master
+1128,13. Advanced Grammar & Discourse Markers,be that as it may,phr.,shunday bo'lsa-da,B2 Master
+1129,13. Advanced Grammar & Discourse Markers,conversely,adv.,aksincha,B2 Master
+1130,13. Advanced Grammar & Discourse Markers,for the sake of argument,phr.,bahs uchun (faraz qilaylik),B2 Master
+1131,13. Advanced Grammar & Discourse Markers,if anything,phr.,agar biror narsa bo'lsa,B2 Master
+1132,13. Advanced Grammar & Discourse Markers,in a nutshell,phr.,qisqacha aytganda,B2 Master
+1133,13. Advanced Grammar & Discourse Markers,in essence,phr.,mohiyatan,B2 Master
+1134,13. Advanced Grammar & Discourse Markers,in retrospect,phr.,orqaga qarab qaraganda,B2 Master
+1135,13. Advanced Grammar & Discourse Markers,more often than not,phr.,ko'pincha,B2 Master
+1136,13. Advanced Grammar & Discourse Markers,notwithstanding the fact that,phr.,shunga qaramasdan,B2 Master
+1137,13. Advanced Grammar & Discourse Markers,that said,phr.,shunga qaramay,B2 Master
+1138,13. Advanced Grammar & Discourse Markers,to put it bluntly,phr.,ochig'ini aytganda,B2 Master
+1139,13. Advanced Grammar & Discourse Markers,to that end,phr.,shu maqsadda,B2 Master
+1140,14. Human Nature & Ethics,categorical imperative,n.,kategorik majburiyat,B2 Master
+1141,14. Human Nature & Ethics,civic virtue,n.,fuqarolik fazilati,B2 Master
+1142,14. Human Nature & Ethics,consequentialism,n.,konsekvensializm,B2 Master
+1143,14. Human Nature & Ethics,ethical dilemma,n.,axloqiy muammo,B2 Master
+1144,14. Human Nature & Ethics,ethical relativism,n.,axloqiy relyativizm,B2 Master
+1145,14. Human Nature & Ethics,integrity (ethics),n.,halollik / poklik,B2 Master
+1146,14. Human Nature & Ethics,moral ambiguity,n.,axloqiy noaniqlik,B2 Master
+1147,14. Human Nature & Ethics,moral compass,n.,axloqiy yo'l-yo'riq,B2 Master
+1148,14. Human Nature & Ethics,moral dilemma,n.,axloqiy dilemma,B2 Master
+1149,14. Human Nature & Ethics,moral relativism,n.,axloqiy relyativizm,B2 Master
+1150,14. Human Nature & Ethics,utilitarianism,n.,utilitarizm,B2 Master
+1151,14. Human Nature & Ethics,virtue,n.,fazilat,B2 Master
+1152,2. Economics & Finance,amortization,n.,amortizatsiya,B2 Master
+1153,2. Economics & Finance,arbitrage,n.,arbitraj,B2 Master
+1154,2. Economics & Finance,austerity,n.,tejamkorlik siyosati,B2 Master
+1155,2. Economics & Finance,capital flight,n.,kapital chiqib ketishi,B2 Master
+1156,2. Economics & Finance,collateral,n.,garov,B2 Master
+1157,2. Economics & Finance,credit rating,n.,kredit reytingi,B2 Master
+1158,2. Economics & Finance,currency devaluation,n.,valyutani qadrsizlantirish,B2 Master
+1159,2. Economics & Finance,derivative (finance),n.,hosila moliyaviy vosita,B2 Master
+1160,2. Economics & Finance,diversification,n.,diversifikatsiya,B2 Master
+1161,2. Economics & Finance,economies of scale,n.,miqyos iqtisodi,B2 Master
+1162,2. Economics & Finance,exchange rate mechanism,n.,valyuta kursi mexanizmi,B2 Master
+1163,2. Economics & Finance,financial contagion,n.,moliyaviy yuqumlilik,B2 Master
+1164,2. Economics & Finance,fiscal deficit,n.,byudjet taqchilligi,B2 Master
+1165,2. Economics & Finance,fiscal stimulus,n.,fiskal rag'batlantirish,B2 Master
+1166,2. Economics & Finance,hedge fund,n.,xedj-fond,B2 Master
+1167,2. Economics & Finance,liquidity,n.,likvidlik,B2 Master
+1168,2. Economics & Finance,macroeconomics,n.,makroiqtisodiyot,B2 Master
+1169,2. Economics & Finance,microeconomics,n.,mikroiqtisodiyot,B2 Master
+1170,2. Economics & Finance,moral hazard,n.,axloqiy xavf,B2 Master
+1171,2. Economics & Finance,opportunity cost,n.,muqobil qiymat,B2 Master
+1172,2. Economics & Finance,price elasticity,n.,narx elastikligi,B2 Master
+1173,2. Economics & Finance,protectionism,n.,proteksionizm,B2 Master
+1174,2. Economics & Finance,purchasing power,n.,xarid qobiliyati,B2 Master
+1175,2. Economics & Finance,quantitative easing,n.,miqdoriy yumshatish,B2 Master
+1176,2. Economics & Finance,solvency,n.,to'lov qobiliyati,B2 Master
+1177,2. Economics & Finance,speculative,adj.,spekulyativ,B2 Master
+1178,2. Economics & Finance,stagflation,n.,stagflyatsiya,B2 Master
+1179,2. Economics & Finance,supply-side economics,n.,taklif tomonlama iqtisodiyot,B2 Master
+1180,2. Economics & Finance,systemic risk,n.,tizimli xavf,B2 Master
+1181,2. Economics & Finance,trade liberalization,n.,savdoni erkinlashtirish,B2 Master
+1182,2. Economics & Finance,volatility,n.,beqarorlik (bozor),B2 Master
+1183,3. Governance & Law,accountability,n.,hisobdorlik,B2 Master
+1184,3. Governance & Law,administrative law,n.,ma'muriy huquq,B2 Master
+1185,3. Governance & Law,amnesty,n.,amnistiya,B2 Master
+1186,3. Governance & Law,case law,n.,sud amaliyoti,B2 Master
+1187,3. Governance & Law,checks and balances (b2),phr.,o'zaro nazorat tizimi,B2 Master
+1188,3. Governance & Law,constitutional law,n.,konstitutsiyaviy huquq,B2 Master
+1189,3. Governance & Law,customary law,n.,odat huquqi,B2 Master
+1190,3. Governance & Law,devolution,n.,vakolatlarni berish,B2 Master
+1191,3. Governance & Law,due diligence (law),n.,tegishli ehtiyotkorlik,B2 Master
+1192,3. Governance & Law,extradition,n.,ekstraditsiya,B2 Master
+1193,3. Governance & Law,geopolitical,adj.,geosiyosiy,B2 Master
+1194,3. Governance & Law,habeas corpus,n.,shaxsni daxlsizligi huquqi,B2 Master
+1195,3. Governance & Law,international law,n.,xalqaro huquq,B2 Master
+1196,3. Governance & Law,judicial review,n.,sud nazorati,B2 Master
+1197,3. Governance & Law,jurisprudence,n.,huquqshunoslik,B2 Master
+1198,3. Governance & Law,legislative gridlock,n.,qonun chiqarishdagi to'siq,B2 Master
+1199,3. Governance & Law,plea bargain,n.,kelishuvli hukm,B2 Master
+1200,3. Governance & Law,plutocracy,n.,boylar hukmronligi,B2 Master
+1201,3. Governance & Law,regulatory framework,n.,meyoriy-huquqiy asos,B2 Master
+1202,3. Governance & Law,rule of law,n.,qonun ustuvorligi,B2 Master
+1203,3. Governance & Law,separation of powers,n.,hokimiyatlar bo'linishi,B2 Master
+1204,3. Governance & Law,statute of limitations,n.,da'vo muddati,B2 Master
+1205,3. Governance & Law,statutory,adj.,qonun bilan belgilangan,B2 Master
+1206,3. Governance & Law,technocracy,n.,texnokratiya,B2 Master
+1207,3. Governance & Law,transparency (governance),n.,shaffoflik,B2 Master
+1208,3. Governance & Law,whistleblower,n.,sirni fosh qiluvchi shaxs,B2 Master
+1209,4. Science & Technology,algorithm (b2),n.,algoritm,B2 Master
+1210,4. Science & Technology,algorithmic decision-making,n.,algoritmik qaror qabul qilish,B2 Master
+1211,4. Science & Technology,automation,n.,avtomatlashtirish,B2 Master
+1212,4. Science & Technology,autonomous vehicle,n.,avtonom transport vositasi,B2 Master
+1213,4. Science & Technology,biotechnology,n.,biotexnologiya,B2 Master
+1214,4. Science & Technology,blockchain,n.,blokcheyn,B2 Master
+1215,4. Science & Technology,CRISPR,n.,CRISPR (gen tahriri),B2 Master
+1216,4. Science & Technology,cryptocurrency,n.,kriptovalyuta,B2 Master
+1217,4. Science & Technology,cybersecurity threat,n.,kiberxavfsizlik tahdidi,B2 Master
+1218,4. Science & Technology,data mining,n.,ma'lumotlarni qazib olish,B2 Master
+1219,4. Science & Technology,data privacy,n.,ma'lumotlar maxfiyligi,B2 Master
+1220,4. Science & Technology,digital transformation,n.,raqamli transformatsiya,B2 Master
+1221,4. Science & Technology,encryption,n.,shifrlash,B2 Master
+1222,4. Science & Technology,gene editing,n.,gen tahriri,B2 Master
+1223,4. Science & Technology,genome,n.,genom,B2 Master
+1224,4. Science & Technology,machine learning,n.,mashinali o'rganish,B2 Master
+1225,4. Science & Technology,nanotechnology,n.,nanotexnologiya,B2 Master
+1226,4. Science & Technology,neural network,n.,neyron tarmoq,B2 Master
+1227,4. Science & Technology,obsolescence,n.,eskirish (texnika),B2 Master
+1228,4. Science & Technology,quantum computing,n.,kvant hisoblashi,B2 Master
+1229,4. Science & Technology,quantum physics,n.,kvant fizikasi,B2 Master
+1230,4. Science & Technology,renewable technology,n.,qayta tiklanuvchi texnologiya,B2 Master
+1231,4. Science & Technology,scalable technology,n.,kengaytiriladigan texnologiya,B2 Master
+1232,4. Science & Technology,synthetic biology,n.,sintetik biologiya,B2 Master
+1233,4. Science & Technology,technological singularity,n.,texnologik singularlik,B2 Master
+1234,5. Medicine & Public Health,antimicrobial resistance,n.,antimikrob chidamliligi,B2 Master
+1235,5. Medicine & Public Health,bioethics,n.,biotibbiy etika,B2 Master
+1236,5. Medicine & Public Health,chronic condition,n.,surunkali holat,B2 Master
+1237,5. Medicine & Public Health,clinical guideline,n.,klinik ko'rsatma,B2 Master
+1238,5. Medicine & Public Health,comorbidity,n.,qo'shma kasallik,B2 Master
+1239,5. Medicine & Public Health,epidemiological,adj.,epidemiologik,B2 Master
+1240,5. Medicine & Public Health,epidemiological transition,n.,epidemiologik o'tish,B2 Master
+1241,5. Medicine & Public Health,etiology,n.,kasallik sababi (nazariyasi),B2 Master
+1242,5. Medicine & Public Health,health disparity,n.,sog'liqdagi tengsizlik,B2 Master
+1243,5. Medicine & Public Health,health literacy,n.,sog'liq savodxonligi,B2 Master
+1244,5. Medicine & Public Health,health outcome,n.,sog'liq natijasi,B2 Master
+1245,5. Medicine & Public Health,healthcare disparity,n.,sog'liqni saqlashda tengsizlik,B2 Master
+1246,5. Medicine & Public Health,medical breakthrough,n.,tibbiy yutuq,B2 Master
+1247,5. Medicine & Public Health,occupational health,n.,kasbiy salomatlik,B2 Master
+1248,5. Medicine & Public Health,pathology,n.,patologiya,B2 Master
+1249,5. Medicine & Public Health,preventive medicine,n.,profilaktik tibbiyot,B2 Master
+1250,5. Medicine & Public Health,prognosis (b2),n.,kasallik istiqboli,B2 Master
+1251,5. Medicine & Public Health,public health intervention,n.,jamoat salomatligi aralashuvi,B2 Master
+1252,5. Medicine & Public Health,telemedicine,n.,masofaviy tibbiyot,B2 Master
+1253,6. Media, Culture & Society,acculturation,n.,madaniyatlashuv,B2 Master
+1254,6. Media, Culture & Society,assimilation (b2),n.,assimilyatsiya,B2 Master
+1255,6. Media, Culture & Society,collective identity,n.,kollektiv o'zlik,B2 Master
+1256,6. Media, Culture & Society,countercultural,adj.,qarshi madaniyatga oid,B2 Master
+1257,6. Media, Culture & Society,cultural appropriation,n.,madaniyatni o'zlashtirish,B2 Master
+1258,6. Media, Culture & Society,cultural hegemony,n.,madaniy hukmronlik,B2 Master
+1259,6. Media, Culture & Society,cultural relativism,n.,madaniy relyativizm,B2 Master
+1260,6. Media, Culture & Society,demographic shift,n.,demografik o'zgarish,B2 Master
+1261,6. Media, Culture & Society,dominant narrative,n.,hukmron hikoya,B2 Master
+1262,6. Media, Culture & Society,identity politics,n.,o'zlik siyosati,B2 Master
+1263,6. Media, Culture & Society,intergenerational,adj.,avlodlararo,B2 Master
+1264,6. Media, Culture & Society,marginalized group,n.,chetlashtirilgan guruh,B2 Master
+1265,6. Media, Culture & Society,moral panic,n.,axloqiy vahima,B2 Master
+1266,6. Media, Culture & Society,normative,adj.,me'yoriy,B2 Master
+1267,6. Media, Culture & Society,social capital,n.,ijtimoiy kapital,B2 Master
+1268,6. Media, Culture & Society,social mobility,n.,ijtimoiy harakatchanlik,B2 Master
+1269,6. Media, Culture & Society,social stratification,n.,ijtimoiy tabaqalanish,B2 Master
+1270,6. Media, Culture & Society,subculture,n.,submadaniyat,B2 Master
+1271,6. Media, Culture & Society,zeitgeist,n.,davr ruhi,B2 Master
+1272,7. Psychology & Cognition,anchoring bias,n.,langar xatoligi,B2 Master
+1273,7. Psychology & Cognition,availability heuristic,n.,mavjudlik evristikasi,B2 Master
+1274,7. Psychology & Cognition,behavioral economics,n.,xulq-atvor iqtisodiyoti,B2 Master
+1275,7. Psychology & Cognition,cognitive dissonance,n.,kognitiv dissonans,B2 Master
+1276,7. Psychology & Cognition,cognitive load,n.,kognitiv yuk,B2 Master
+1277,7. Psychology & Cognition,dunning-kruger effect,n.,Danning-Kryuger effekti,B2 Master
+1278,7. Psychology & Cognition,emotional labor,n.,hissiy mehnat,B2 Master
+1279,7. Psychology & Cognition,executive function,n.,boshqaruv funksiyasi (miya),B2 Master
+1280,7. Psychology & Cognition,heuristic,n.,evristika (qisqartma qoida),B2 Master
+1281,7. Psychology & Cognition,implicit bias,n.,yashirin xolislik yo'qligi,B2 Master
+1282,7. Psychology & Cognition,learned helplessness,n.,o'rganilgan ojizlik,B2 Master
+1283,7. Psychology & Cognition,negativity bias,n.,salbiylikka moyillik,B2 Master
+1284,7. Psychology & Cognition,neuroplasticity,n.,neyroplastiklik,B2 Master
+1285,7. Psychology & Cognition,placebo effect,n.,platsebo effekti,B2 Master
+1286,7. Psychology & Cognition,self-fulfilling prophecy,n.,o'zini oqlaydigan bashorat,B2 Master
+1287,7. Psychology & Cognition,theory of mind,n.,ong nazariyasi,B2 Master
+1288,7. Psychology & Cognition,working memory,n.,operativ xotira,B2 Master
+1289,8. Environment & Sustainability,adaptation (climate),n.,moslashish (iqlim),B2 Master
+1290,8. Environment & Sustainability,biodiversity loss,n.,bioxilma-xillikning yo'qolishi,B2 Master
+1291,8. Environment & Sustainability,carbon neutrality,n.,uglerod neytralligi,B2 Master
+1292,8. Environment & Sustainability,carbon offset,n.,uglerod kompensatsiyasi,B2 Master
+1293,8. Environment & Sustainability,carbon sequestration,n.,uglerodni yutish,B2 Master
+1294,8. Environment & Sustainability,circular economy,n.,aylanma iqtisodiyot,B2 Master
+1295,8. Environment & Sustainability,climate resilience,n.,iqlimga chidamlilik,B2 Master
+1296,8. Environment & Sustainability,ecological footprint,n.,ekologik iz,B2 Master
+1297,8. Environment & Sustainability,environmental degradation,n.,atrof-muhit degradatsiyasi,B2 Master
+1298,8. Environment & Sustainability,environmental externality,n.,ekologik tashqi ta'sir,B2 Master
+1299,8. Environment & Sustainability,environmental justice,n.,ekologik adolat,B2 Master
+1300,8. Environment & Sustainability,green infrastructure,n.,yashil infratuzilma,B2 Master
+1301,8. Environment & Sustainability,greenhouse gas,n.,issiqxona gazi,B2 Master
+1302,8. Environment & Sustainability,mitigation (climate),n.,yumshatish (iqlim),B2 Master
+1303,8. Environment & Sustainability,planetary boundary,n.,sayyoraviy chegara,B2 Master
+1304,8. Environment & Sustainability,regenerative agriculture,n.,tiklovchi qishloq xo'jaligi,B2 Master
+1305,8. Environment & Sustainability,resource management,n.,resurslarni boshqarish,B2 Master
+1306,8. Environment & Sustainability,tipping point (climate),n.,burilish nuqtasi,B2 Master
+1307,9. Global & International Affairs,balance of power,n.,kuchlar muvozanati,B2 Master
+1308,9. Global & International Affairs,bilateral relations,n.,ikki tomonlama munosabatlar,B2 Master
+1309,9. Global & International Affairs,cross-cultural,adj.,madaniyatlararo,B2 Master
+1310,9. Global & International Affairs,diaspora,n.,diaspora,B2 Master
+1311,9. Global & International Affairs,failed state,n.,muvaffaqiyatsiz davlat,B2 Master
+1312,9. Global & International Affairs,global governance,n.,global boshqaruv,B2 Master
+1313,9. Global & International Affairs,humanitarian intervention,n.,insonparvarlik aralashuvi,B2 Master
+1314,9. Global & International Affairs,multilateral treaty,n.,ko'p tomonlama shartnoma,B2 Master
+1315,9. Global & International Affairs,multilateralism,n.,ko'p tomonlamalik,B2 Master
+1316,9. Global & International Affairs,multipolarity,n.,ko'p qutblilik,B2 Master
+1317,9. Global & International Affairs,nation-building,n.,davlat qurilishi,B2 Master
+1318,9. Global & International Affairs,non-state actor,n.,nodavlat sub'ekt,B2 Master
+1319,9. Global & International Affairs,proxy war,n.,vositachi urush,B2 Master
+1320,9. Global & International Affairs,soft power,n.,yumshoq kuch,B2 Master
+1321,9. Global & International Affairs,sphere of influence,n.,ta'sir doirasi,B2 Master
+1322,9. Global & International Affairs,supranational,adj.,davlatlar ustidan (tashkilot),B2 Master

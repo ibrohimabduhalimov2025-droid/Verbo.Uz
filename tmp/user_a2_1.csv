@@ -1,0 +1,550 @@
+1,Travel & Transport,arrive,verb,yetib kelmoq,A2 Master
+2,Travel & Transport,baggage,noun,"bagaj, yuk",A2 Master
+3,Travel & Transport,bicycle,noun,velosiped,A2 Master
+4,Travel & Transport,boat,noun,qayiq,A2 Master
+5,Travel & Transport,bridge,noun,ko'prik,A2 Master
+6,Travel & Transport,bus,noun,avtobus,A2 Master
+7,Travel & Transport,cancel,verb,bekor qilmoq,A2 Master
+8,Travel & Transport,car,noun,mashina,A2 Master
+9,Travel & Transport,catch,verb,ushlab olmoq,A2 Master
+10,Travel & Transport,coach,noun,avtobus (shaharlararo),A2 Master
+11,Travel & Transport,delay,noun,kechikish,A2 Master
+12,Travel & Transport,delayed,adjective,kechikkan,A2 Master
+13,Travel & Transport,drive,verb,haydamoq,A2 Master
+14,Travel & Transport,driver,noun,haydovchi,A2 Master
+15,Travel & Transport,flight,noun,parvoz,A2 Master
+16,Travel & Transport,fly,verb,uchmoq,A2 Master
+17,Travel & Transport,helicopter,noun,vertolyot,A2 Master
+18,Travel & Transport,journey,noun,sayohat (uzoq masofali),A2 Master
+19,Travel & Transport,luggage,noun,bagaj,A2 Master
+20,Travel & Transport,map,noun,xarita,A2 Master
+21,Travel & Transport,motorcycle,noun,motosikl,A2 Master
+22,Travel & Transport,passengers,noun,yo'lovchilar,A2 Master
+23,Travel & Transport,passport,noun,pasport,A2 Master
+24,Travel & Transport,platform,noun,platforma,A2 Master
+25,Travel & Transport,return,noun/verb,"qaytish, qaytarmoq",A2 Master
+26,Travel & Transport,ride,verb,minmoq,A2 Master
+27,Travel & Transport,road,noun,yo'l,A2 Master
+28,Travel & Transport,sail,verb,suzmoq,A2 Master
+29,Travel & Transport,station,noun,stansiya,A2 Master
+30,Travel & Transport,ticket,noun,chipta,A2 Master
+31,Travel & Transport,tourist,noun,sayyoh,A2 Master
+32,Travel & Transport,traffic,noun,"harakat, tirbandlik",A2 Master
+33,Travel & Transport,train,noun,poyezd,A2 Master
+34,Travel & Transport,tram,noun,tramvay,A2 Master
+35,Travel & Transport,trip,noun,"safar, qisqa sayohat",A2 Master
+36,Travel & Transport,vehicle,noun,transport vositasi,A2 Master
+37,1. Work & Career,achievement,n.,yutuq,A2 Master
+38,1. Work & Career,agenda,n.,kun tartibi,A2 Master
+39,1. Work & Career,ambition,n.,intilish / orzu,A2 Master
+40,1. Work & Career,ambitious,adj.,intiluvchan,A2 Master
+41,1. Work & Career,annual leave,n.,yillik ta'til,A2 Master
+42,1. Work & Career,application,n.,ariza,A2 Master
+43,1. Work & Career,apply for a job,phr.,ishga ariza topshirmoq,A2 Master
+44,1. Work & Career,apply online,phr.,onlayn ariza topshirmoq,A2 Master
+45,1. Work & Career,appraisal,n.,baholash (ish),A2 Master
+46,1. Work & Career,apprentice,n.,shogird,A2 Master
+47,1. Work & Career,assignment (work),n.,topshiriq,A2 Master
+48,1. Work & Career,bonus,n.,mukofot puli,A2 Master
+49,1. Work & Career,boss,n.,boshliq,A2 Master
+50,1. Work & Career,brainstorm,v.,fikr yig'moq,A2 Master
+51,1. Work & Career,branch (office),n.,filial,A2 Master
+52,1. Work & Career,budget (work),n.,byudjet,A2 Master
+53,1. Work & Career,business trip,n.,xizmat safari,A2 Master
+54,1. Work & Career,candidate,n.,nomzod,A2 Master
+55,1. Work & Career,career,n.,"karyera, kasbiy yo'l",A2 Master
+56,1. Work & Career,career path,n.,kasbiy yo'l,A2 Master
+57,1. Work & Career,client,n.,mijoz,A2 Master
+58,1. Work & Career,collaborate,v.,hamkorlik qilmoq,A2 Master
+59,1. Work & Career,colleague,n.,hamkasb,A2 Master
+60,1. Work & Career,commitment (work),n.,sodiqlik (ishga),A2 Master
+61,1. Work & Career,commute (work),n.,ishga borish-kelish,A2 Master
+62,1. Work & Career,conference,n.,konferensiya,A2 Master
+63,1. Work & Career,consult,v.,maslahatlashmoq,A2 Master
+64,1. Work & Career,contract,n.,shartnoma,A2 Master
+65,1. Work & Career,corporation,n.,korporatsiya,A2 Master
+66,1. Work & Career,cover letter,n.,motivatsion xat,A2 Master
+67,1. Work & Career,cross-training,n.,o'zaro o'rgatish,A2 Master
+68,1. Work & Career,customer,n.,xaridor,A2 Master
+69,1. Work & Career,deadline,n.,muddat,A2 Master
+70,1. Work & Career,dedication,n.,fidoyilik,A2 Master
+71,1. Work & Career,delegate,v.,topshirmoq (vazifani),A2 Master
+72,1. Work & Career,department,n.,bo'lim,A2 Master
+73,1. Work & Career,employee,n.,xodim,A2 Master
+74,1. Work & Career,employer,n.,ish beruvchi,A2 Master
+75,1. Work & Career,entrepreneur,n.,tadbirkor,A2 Master
+76,1. Work & Career,evaluation,n.,baholash,A2 Master
+77,1. Work & Career,exit interview,n.,ishdan ketish suhbati,A2 Master
+78,1. Work & Career,experience,n.,tajriba,A2 Master
+79,1. Work & Career,feedback,n.,fikr-mulohaza,A2 Master
+80,1. Work & Career,fire,v.,ishdan bo'shatmoq,A2 Master
+81,1. Work & Career,freelancer,n.,frilanser,A2 Master
+82,1. Work & Career,full-time,adj.,to'liq stavka,A2 Master
+83,1. Work & Career,goal,n.,maqsad,A2 Master
+84,1. Work & Career,hard skills,n.,texnik ko'nikmalar,A2 Master
+85,1. Work & Career,headquarters,n.,bosh idora,A2 Master
+86,1. Work & Career,hire,v.,ishga olmoq,A2 Master
+87,1. Work & Career,industry,n.,sanoat / soha,A2 Master
+88,1. Work & Career,initiative,n.,tashabbus,A2 Master
+89,1. Work & Career,intern,n.,amaliyotchi,A2 Master
+90,1. Work & Career,internship,n.,amaliyot,A2 Master
+91,1. Work & Career,interview,n.,suhbat (ish uchun),A2 Master
+92,1. Work & Career,invoice,n.,hisob-faktura,A2 Master
+93,1. Work & Career,job description,n.,ish tavsifi,A2 Master
+94,1. Work & Career,job fair,n.,ish yarmarkasi,A2 Master
+95,1. Work & Career,job hunting,n.,ish qidirish,A2 Master
+96,1. Work & Career,job offer,n.,ish taklifi,A2 Master
+97,1. Work & Career,job rotation,n.,ish almashinuvi,A2 Master
+98,1. Work & Career,job satisfaction,n.,ishdan qoniqish,A2 Master
+99,1. Work & Career,job security,n.,ish barqarorligi,A2 Master
+100,1. Work & Career,job title,n.,lavozim nomi,A2 Master
+101,1. Work & Career,job vacancy,n.,bo'sh ish o'rni (e'lon),A2 Master
+102,1. Work & Career,layoff,n.,qisqartirish (ishdan),A2 Master
+103,1. Work & Career,leadership,n.,yetakchilik,A2 Master
+104,1. Work & Career,loss (business),n.,zarar,A2 Master
+105,1. Work & Career,manager,n.,menejer,A2 Master
+106,1. Work & Career,maternity leave,n.,dekret ta'tili,A2 Master
+107,1. Work & Career,meeting,n.,yig'ilish,A2 Master
+108,1. Work & Career,mentor,n.,murabbiy (kasbiy),A2 Master
+109,1. Work & Career,minutes (meeting),n.,yig'ilish bayoni,A2 Master
+110,1. Work & Career,negotiation,n.,muzokara,A2 Master
+111,1. Work & Career,networking,n.,aloqalar o'rnatish,A2 Master
+112,1. Work & Career,office worker,n.,ofis xodimi,A2 Master
+113,1. Work & Career,onboarding,n.,ishga moslashtirish,A2 Master
+114,1. Work & Career,outsource,v.,tashqi manbadan foydalanmoq,A2 Master
+115,1. Work & Career,overtime,n.,qo'shimcha ish vaqti,A2 Master
+116,1. Work & Career,part-time,adj.,yarim stavka,A2 Master
+117,1. Work & Career,performance review,n.,ish faoliyati bahosi,A2 Master
+118,1. Work & Career,presentation (work),n.,taqdimot,A2 Master
+119,1. Work & Career,proactive,adj.,tashabbuskor,A2 Master
+120,1. Work & Career,probation period,n.,sinov muddati,A2 Master
+121,1. Work & Career,productivity (work),n.,samaradorlik,A2 Master
+122,1. Work & Career,productivity tool,n.,samaradorlik vositasi,A2 Master
+123,1. Work & Career,profit,n.,foyda,A2 Master
+124,1. Work & Career,project,n.,loyiha,A2 Master
+125,1. Work & Career,promotion,n.,lavozim ko'tarilishi,A2 Master
+126,1. Work & Career,punctuality,n.,vaqtida kelish,A2 Master
+127,1. Work & Career,qualification,n.,malaka,A2 Master
+128,1. Work & Career,recommendation letter,n.,tavsiyanoma,A2 Master
+129,1. Work & Career,recruitment,n.,yollash,A2 Master
+130,1. Work & Career,reference (job),n.,tavsiyachi,A2 Master
+131,1. Work & Career,remote work,n.,masofaviy ish,A2 Master
+132,1. Work & Career,resign,v.,o'z xohishi bilan ketmoq,A2 Master
+133,1. Work & Career,responsibility,n.,mas'uliyat,A2 Master
+134,1. Work & Career,resume/CV,n.,rezyume,A2 Master
+135,1. Work & Career,retire,v.,nafaqaga chiqmoq,A2 Master
+136,1. Work & Career,revenue,n.,daromad (kompaniya),A2 Master
+137,1. Work & Career,salary,n.,oylik maosh,A2 Master
+138,1. Work & Career,self-employed,adj.,o'z ishi bilan shug'ullanuvchi,A2 Master
+139,1. Work & Career,severance pay,n.,ishdan bo'shatish puli,A2 Master
+140,1. Work & Career,shareholder,n.,aksiyador,A2 Master
+141,1. Work & Career,shift,n.,smena,A2 Master
+142,1. Work & Career,shift work,n.,smenali ish,A2 Master
+143,1. Work & Career,sick leave,n.,kasallik ta'tili,A2 Master
+144,1. Work & Career,skill,n.,ko'nikma,A2 Master
+145,1. Work & Career,skill set,n.,ko'nikmalar to'plami,A2 Master
+146,1. Work & Career,soft skills,n.,muloqot ko'nikmalari,A2 Master
+147,1. Work & Career,staff,n.,xodimlar,A2 Master
+148,1. Work & Career,stakeholder,n.,manfaatdor tomon,A2 Master
+149,1. Work & Career,startup,n.,startap,A2 Master
+150,1. Work & Career,supervise,v.,nazorat qilmoq,A2 Master
+151,1. Work & Career,supervisor,n.,nazoratchi,A2 Master
+152,1. Work & Career,task,n.,vazifa,A2 Master
+153,1. Work & Career,teambuilding,n.,jamoa qurish,A2 Master
+154,1. Work & Career,teamwork,n.,jamoaviy ish,A2 Master
+155,1. Work & Career,temp job,n.,vaqtinchalik ish,A2 Master
+156,1. Work & Career,training,n.,o'qitish / trening,A2 Master
+157,1. Work & Career,unemployed,adj.,ishsiz,A2 Master
+158,1. Work & Career,vacancy,n.,bo'sh ish o'rni,A2 Master
+159,1. Work & Career,versatile employee,n.,ko'p qirrali xodim,A2 Master
+160,1. Work & Career,work ethic,n.,mehnat odobi,A2 Master
+161,1. Work & Career,workaholic,n.,ishqiz (ishga berilib ketgan),A2 Master
+162,1. Work & Career,workload,n.,ish yuki,A2 Master
+163,1. Work & Career,workplace,n.,ish joyi,A2 Master
+164,1. Work & Career,workplace culture,n.,ish joyi madaniyati,A2 Master
+165,1. Work & Career,workplace safety,n.,ish joyida xavfsizlik,A2 Master
+166,1. Work & Career,workshop (event),n.,seminar (amaliy),A2 Master
+167,10. Nature & Environment,air quality,n.,havo sifati,A2 Master
+168,10. Nature & Environment,biodiversity,n.,bioxilma-xillik,A2 Master
+169,10. Nature & Environment,carbon emission,n.,uglerod chiqindisi,A2 Master
+170,10. Nature & Environment,carbon footprint,n.,uglerod izi,A2 Master
+171,10. Nature & Environment,clean energy,n.,toza energiya,A2 Master
+172,10. Nature & Environment,climate change,n.,iqlim o'zgarishi,A2 Master
+173,10. Nature & Environment,conservation,n.,muhofaza qilish,A2 Master
+174,10. Nature & Environment,coral reef,n.,marjon riflari,A2 Master
+175,10. Nature & Environment,deforestation,n.,o'rmonlarning yo'q qilinishi,A2 Master
+176,10. Nature & Environment,drought (env),n.,qurg'oqchilik,A2 Master
+177,10. Nature & Environment,eco-friendly,adj.,atrof-muhitga zararsiz,A2 Master
+178,10. Nature & Environment,ecosystem,n.,ekotizim,A2 Master
+179,10. Nature & Environment,emission,n.,chiqindi (gaz),A2 Master
+180,10. Nature & Environment,endangered species,n.,yo'q bo'lib ketish xavfi ostidagi turlar,A2 Master
+181,10. Nature & Environment,environmental awareness,n.,ekologik ong,A2 Master
+182,10. Nature & Environment,environmental impact,n.,atrof-muhitga ta'sir,A2 Master
+183,10. Nature & Environment,environmental protection,n.,atrof-muhitni muhofaza qilish,A2 Master
+184,10. Nature & Environment,erosion,n.,eroziya,A2 Master
+185,10. Nature & Environment,extinction,n.,yo'q bo'lib ketish,A2 Master
+186,10. Nature & Environment,fossil fuel,n.,qazilma yoqilg'i,A2 Master
+187,10. Nature & Environment,global warming,n.,global isish,A2 Master
+188,10. Nature & Environment,green energy,n.,yashil energiya,A2 Master
+189,10. Nature & Environment,greenhouse effect,n.,issiqxona effekti,A2 Master
+190,10. Nature & Environment,habitat,n.,yashash muhiti,A2 Master
+191,10. Nature & Environment,hurricane,n.,uragan,A2 Master
+192,10. Nature & Environment,marine life,n.,dengiz hayoti,A2 Master
+193,10. Nature & Environment,national park,n.,milliy bog',A2 Master
+194,10. Nature & Environment,natural disaster,n.,tabiiy ofat,A2 Master
+195,10. Nature & Environment,natural habitat,n.,tabiiy yashash joyi,A2 Master
+196,10. Nature & Environment,natural resource,n.,tabiiy resurs,A2 Master
+197,10. Nature & Environment,ozone depletion,n.,ozon qatlamining kamayishi,A2 Master
+198,10. Nature & Environment,ozone layer,n.,ozon qatlami,A2 Master
+199,10. Nature & Environment,plastic pollution,n.,plastik ifloslanish,A2 Master
+200,10. Nature & Environment,plastic waste,n.,plastik chiqindi,A2 Master
+201,10. Nature & Environment,pollution (env),n.,ifloslanish,A2 Master
+202,10. Nature & Environment,recycle (env),v.,qayta ishlash,A2 Master
+203,10. Nature & Environment,renewable energy,n.,qayta tiklanuvchi energiya,A2 Master
+204,10. Nature & Environment,single-use plastic,n.,bir martalik plastik,A2 Master
+205,10. Nature & Environment,solar energy,n.,quyosh energiyasi,A2 Master
+206,10. Nature & Environment,species,n.,tur (biologik),A2 Master
+207,10. Nature & Environment,sustainability,n.,barqarorlik,A2 Master
+208,10. Nature & Environment,sustainable,adj.,barqaror (ekologik),A2 Master
+209,10. Nature & Environment,tsunami,n.,tsunami,A2 Master
+210,10. Nature & Environment,waste,n.,chiqindi,A2 Master
+211,10. Nature & Environment,water scarcity,n.,suv tanqisligi,A2 Master
+212,10. Nature & Environment,wildfire,n.,o'rmon yong'ini,A2 Master
+213,10. Nature & Environment,wildlife conservation,n.,yovvoyi tabiatni muhofaza qilish,A2 Master
+214,10. Nature & Environment,wildlife reserve,n.,qo'riqxona,A2 Master
+215,10. Nature & Environment,wind energy,n.,shamol energiyasi,A2 Master
+216,10. Nature & Environment,zero waste,n.,chiqindisiz turmush,A2 Master
+217,11. Emotions & Relationships,active listening,n.,faol tinglash,A2 Master
+218,11. Emotions & Relationships,affection,n.,mehr,A2 Master
+219,11. Emotions & Relationships,attachment,n.,bog'lanish,A2 Master
+220,11. Emotions & Relationships,bond (relationship),n.,bog'liqlik,A2 Master
+221,11. Emotions & Relationships,breakup,n.,ajralish (munosabat),A2 Master
+222,11. Emotions & Relationships,comfort (feeling),n.,taskin,A2 Master
+223,11. Emotions & Relationships,commitment,n.,sodiqlik / majburiyat,A2 Master
+224,11. Emotions & Relationships,common interest,n.,umumiy qiziqish,A2 Master
+225,11. Emotions & Relationships,communication skills,n.,muloqot ko'nikmalari,A2 Master
+226,11. Emotions & Relationships,conflict,n.,ziddiyat,A2 Master
+227,11. Emotions & Relationships,conflict resolution,n.,nizolarni hal qilish,A2 Master
+228,11. Emotions & Relationships,embarrassment,n.,noqulaylik,A2 Master
+229,11. Emotions & Relationships,emotional bond,n.,hissiy bog'lanish,A2 Master
+230,11. Emotions & Relationships,emotional intelligence,n.,hissiy aql,A2 Master
+231,11. Emotions & Relationships,emotional support,n.,hissiy yordam,A2 Master
+232,11. Emotions & Relationships,empathy,n.,empatiya,A2 Master
+233,11. Emotions & Relationships,family bond,n.,oilaviy bog'lanish,A2 Master
+234,11. Emotions & Relationships,forgiveness,n.,kechirim,A2 Master
+235,11. Emotions & Relationships,friendship bond,n.,do'stlik aloqasi,A2 Master
+236,11. Emotions & Relationships,frustration,n.,asabiylashuv,A2 Master
+237,11. Emotions & Relationships,gratitude,n.,minnatdorchilik,A2 Master
+238,11. Emotions & Relationships,healthy relationship,n.,sog'lom munosabat,A2 Master
+239,11. Emotions & Relationships,heartbreak,n.,yurak og'rig'i (sevgida),A2 Master
+240,11. Emotions & Relationships,infatuation,n.,yaxshi ko'rib qolish,A2 Master
+241,11. Emotions & Relationships,intimacy,n.,yaqinlik,A2 Master
+242,11. Emotions & Relationships,jealousy,n.,hasad,A2 Master
+243,11. Emotions & Relationships,judgmental,adj.,hukm qiluvchi,A2 Master
+244,11. Emotions & Relationships,loneliness,n.,yolg'izlik,A2 Master
+245,11. Emotions & Relationships,long-distance relationship,n.,masofaviy munosabat,A2 Master
+246,11. Emotions & Relationships,misunderstanding,n.,tushunmovchilik,A2 Master
+247,11. Emotions & Relationships,mood,n.,kayfiyat,A2 Master
+248,11. Emotions & Relationships,mutual respect,n.,o'zaro hurmat,A2 Master
+249,11. Emotions & Relationships,mutual understanding,n.,o'zaro tushunish,A2 Master
+250,11. Emotions & Relationships,open-minded,adj.,keng fikrli,A2 Master
+251,11. Emotions & Relationships,peer pressure,n.,tengdoshlar bosimi,A2 Master
+252,11. Emotions & Relationships,personal boundary,n.,shaxsiy chegara,A2 Master
+253,11. Emotions & Relationships,platonic relationship,n.,do'stona (platonik) munosabat,A2 Master
+254,11. Emotions & Relationships,quality time,n.,sifatli vaqt,A2 Master
+255,11. Emotions & Relationships,reconcile,v.,yarashmoq,A2 Master
+256,11. Emotions & Relationships,relief,n.,yengil tortish,A2 Master
+257,11. Emotions & Relationships,resilience,n.,chidamlilik (ruhiy),A2 Master
+258,11. Emotions & Relationships,reunion,n.,qayta uchrashuv,A2 Master
+259,11. Emotions & Relationships,romantic relationship,n.,romantik munosabat,A2 Master
+260,11. Emotions & Relationships,self-awareness,n.,o'z-o'zini anglash,A2 Master
+261,11. Emotions & Relationships,self-confidence,n.,o'ziga ishonch,A2 Master
+262,11. Emotions & Relationships,self-esteem,n.,o'z-o'ziga ishonch,A2 Master
+263,11. Emotions & Relationships,support system,n.,yordam tizimi,A2 Master
+264,11. Emotions & Relationships,supportive,adj.,qo'llab-quvvatlovchi,A2 Master
+265,11. Emotions & Relationships,sympathy,n.,hamdardlik,A2 Master
+266,11. Emotions & Relationships,toxic relationship,n.,zaharli munosabat,A2 Master
+267,11. Emotions & Relationships,trust (relationship),n.,ishonch,A2 Master
+268,11. Emotions & Relationships,understanding (adj),adj.,tushunuvchan,A2 Master
+269,11. Emotions & Relationships,vulnerability,n.,zaiflik (hissiy),A2 Master
+270,12. Phrasal Verbs & Expressions,branch out,phr.v.,yangi soha kengaytirmoq,A2 Master
+271,12. Phrasal Verbs & Expressions,break down,phr.v.,buzilmoq,A2 Master
+272,12. Phrasal Verbs & Expressions,bring up,phr.v.,tarbiyalamoq / gap ochmoq,A2 Master
+273,12. Phrasal Verbs & Expressions,burn out,phr.v.,charchab qolmoq (ishdan),A2 Master
+274,12. Phrasal Verbs & Expressions,carry on,phr.v.,davom ettirmoq,A2 Master
+275,12. Phrasal Verbs & Expressions,catch up,phr.v.,yetib olmoq,A2 Master
+276,12. Phrasal Verbs & Expressions,check out (explore),phr.v.,ko'rib chiqmoq,A2 Master
+277,12. Phrasal Verbs & Expressions,come across,phr.v.,tasodifan uchramoq,A2 Master
+278,12. Phrasal Verbs & Expressions,come up with,phr.v.,o'ylab topmoq,A2 Master
+279,12. Phrasal Verbs & Expressions,cut back on,phr.v.,qisqartirmoq,A2 Master
+280,12. Phrasal Verbs & Expressions,cut down on,phr.v.,kamaytirmoq,A2 Master
+281,12. Phrasal Verbs & Expressions,deal with,phr.v.,hal qilmoq (muammo),A2 Master
+282,12. Phrasal Verbs & Expressions,end up,phr.v.,oxir-oqibat bo'lmoq,A2 Master
+283,12. Phrasal Verbs & Expressions,fall apart,phr.v.,parchalanmoq / buzilmoq,A2 Master
+284,12. Phrasal Verbs & Expressions,figure out,phr.v.,aniqlab olmoq,A2 Master
+285,12. Phrasal Verbs & Expressions,get along with,phr.v.,chiqishmoq (birov bilan),A2 Master
+286,12. Phrasal Verbs & Expressions,get by,phr.v.,kun kechirmoq,A2 Master
+287,12. Phrasal Verbs & Expressions,get over,phr.v.,yengib o'tmoq,A2 Master
+288,12. Phrasal Verbs & Expressions,get through,phr.v.,yengib o'tmoq (qiyinchilikni),A2 Master
+289,12. Phrasal Verbs & Expressions,give up,phr.v.,voz kechmoq,A2 Master
+290,12. Phrasal Verbs & Expressions,go along with,phr.v.,rozi bo'lmoq,A2 Master
+291,12. Phrasal Verbs & Expressions,go on,phr.v.,davom etmoq,A2 Master
+292,12. Phrasal Verbs & Expressions,go over,phr.v.,ko'rib chiqmoq (takrorlamoq),A2 Master
+293,12. Phrasal Verbs & Expressions,go through,phr.v.,boshdan kechirmoq,A2 Master
+294,12. Phrasal Verbs & Expressions,hang out,phr.v.,vaqt o'tkazmoq (do'stlar bilan),A2 Master
+295,12. Phrasal Verbs & Expressions,hold on,phr.v.,kuting,A2 Master
+296,12. Phrasal Verbs & Expressions,keep on,phr.v.,davom ettirmoq,A2 Master
+297,12. Phrasal Verbs & Expressions,keep track of,phr.v.,kuzatib bormoq,A2 Master
+298,12. Phrasal Verbs & Expressions,keep up with,phr.v.,hamqadam bo'lmoq,A2 Master
+299,12. Phrasal Verbs & Expressions,live up to,phr.v.,umidni oqlamoq,A2 Master
+300,12. Phrasal Verbs & Expressions,look down on,phr.v.,kamsitmoq,A2 Master
+301,12. Phrasal Verbs & Expressions,look forward to,phr.v.,intiqlik bilan kutmoq,A2 Master
+302,12. Phrasal Verbs & Expressions,look into,phr.v.,tekshirib ko'rmoq,A2 Master
+303,12. Phrasal Verbs & Expressions,look up to,phr.v.,hurmat qilmoq / o'rnak olmoq,A2 Master
+304,12. Phrasal Verbs & Expressions,make up for,phr.v.,o'rnini qoplamoq,A2 Master
+305,12. Phrasal Verbs & Expressions,pass away,phr.v.,vafot etmoq,A2 Master
+306,12. Phrasal Verbs & Expressions,pass out,phr.v.,hushidan ketmoq,A2 Master
+307,12. Phrasal Verbs & Expressions,point out,phr.v.,ta'kidlamoq,A2 Master
+308,12. Phrasal Verbs & Expressions,pull off,phr.v.,uddalamoq,A2 Master
+309,12. Phrasal Verbs & Expressions,put off,phr.v.,kechiktirmoq,A2 Master
+310,12. Phrasal Verbs & Expressions,put up with,phr.v.,chidamoq,A2 Master
+311,12. Phrasal Verbs & Expressions,run into,phr.v.,tasodifan uchrashmoq,A2 Master
+312,12. Phrasal Verbs & Expressions,run out of,phr.v.,tugab qolmoq,A2 Master
+313,12. Phrasal Verbs & Expressions,set up,phr.v.,o'rnatmoq / tashkil qilmoq,A2 Master
+314,12. Phrasal Verbs & Expressions,settle down,phr.v.,joylashib olmoq / turmush qurmoq,A2 Master
+315,12. Phrasal Verbs & Expressions,show up,phr.v.,kelib qolmoq (kutilmagan),A2 Master
+316,12. Phrasal Verbs & Expressions,stand out,phr.v.,ajralib turmoq,A2 Master
+317,12. Phrasal Verbs & Expressions,take after,phr.v.,o'xshamoq (qarindoshga),A2 Master
+318,12. Phrasal Verbs & Expressions,take care of,phr.v.,g'amxo'rlik qilmoq,A2 Master
+319,12. Phrasal Verbs & Expressions,take over,phr.v.,o'z qo'liga olmoq,A2 Master
+320,12. Phrasal Verbs & Expressions,turn out,phr.v.,natijada bo'lmoq,A2 Master
+321,12. Phrasal Verbs & Expressions,wear out,phr.v.,charchatmoq / eskirmoq,A2 Master
+322,12. Phrasal Verbs & Expressions,weigh up,phr.v.,tarozida solishtirmoq,A2 Master
+323,12. Phrasal Verbs & Expressions,work out,phr.v.,mashq qilmoq / hal bo'lmoq,A2 Master
+324,13. Adjectives & Opinions,actually,adv.,aslida,A2 Master
+325,13. Adjectives & Opinions,adaptable,adj.,moslashuvchan,A2 Master
+326,13. Adjectives & Opinions,appropriate,adj.,mos,A2 Master
+327,13. Adjectives & Opinions,basically,adv.,asosan,A2 Master
+328,13. Adjectives & Opinions,biased,adj.,xolis bo'lmagan,A2 Master
+329,13. Adjectives & Opinions,compelling,adj.,ishontiruvchi (kuchli),A2 Master
+330,13. Adjectives & Opinions,comprehensive,adj.,har tomonlama,A2 Master
+331,13. Adjectives & Opinions,consistent,adj.,izchil,A2 Master
+332,13. Adjectives & Opinions,controversial,adj.,bahsli,A2 Master
+333,13. Adjectives & Opinions,convenient,adj.,qulay,A2 Master
+334,13. Adjectives & Opinions,convincing,adj.,ishontiruvchi,A2 Master
+335,13. Adjectives & Opinions,credible,adj.,ishonchli,A2 Master
+336,13. Adjectives & Opinions,cutting-edge,adj.,eng zamonaviy,A2 Master
+337,13. Adjectives & Opinions,debatable,adj.,muhokama qilinadigan,A2 Master
+338,13. Adjectives & Opinions,definitely,adv.,albatta,A2 Master
+339,13. Adjectives & Opinions,effective,adj.,samarali,A2 Master
+340,13. Adjectives & Opinions,efficient,adj.,unumli,A2 Master
+341,13. Adjectives & Opinions,essential,adj.,zaruriy,A2 Master
+342,13. Adjectives & Opinions,fortunately,adv.,baxtimizga,A2 Master
+343,13. Adjectives & Opinions,forward-thinking,adj.,kelajakni o'ylovchi,A2 Master
+344,13. Adjectives & Opinions,groundbreaking,adj.,yangilik yaratuvchi,A2 Master
+345,13. Adjectives & Opinions,I believe,phr.,ishonaman,A2 Master
+346,13. Adjectives & Opinions,I think that,phr.,menimcha,A2 Master
+347,13. Adjectives & Opinions,in my opinion,phr.,mening fikrimcha,A2 Master
+348,13. Adjectives & Opinions,inconsistent,adj.,izchil bo'lmagan,A2 Master
+349,13. Adjectives & Opinions,innovative,adj.,innovatsion,A2 Master
+350,13. Adjectives & Opinions,insightful,adj.,chuqur tushunchali,A2 Master
+351,13. Adjectives & Opinions,irrational,adj.,noaqliy,A2 Master
+352,13. Adjectives & Opinions,legitimate,adj.,qonuniy,A2 Master
+353,13. Adjectives & Opinions,logical,adj.,mantiqiy,A2 Master
+354,13. Adjectives & Opinions,mainstream,adj.,keng tarqalgan,A2 Master
+355,13. Adjectives & Opinions,niche,adj.,tor doiradagi,A2 Master
+356,13. Adjectives & Opinions,noteworthy,adj.,e'tiborga loyiq,A2 Master
+357,13. Adjectives & Opinions,objective,adj.,xolis,A2 Master
+358,13. Adjectives & Opinions,obvious,adj.,"aniq, ravshan",A2 Master
+359,13. Adjectives & Opinions,obviously,adv.,shubhasiz,A2 Master
+360,13. Adjectives & Opinions,outdated,adj.,eskirgan,A2 Master
+361,13. Adjectives & Opinions,overwhelming,adj.,haddan tashqari ko'p (his),A2 Master
+362,13. Adjectives & Opinions,persuasive,adj.,ishontira oladigan,A2 Master
+363,13. Adjectives & Opinions,plausible,adj.,ishonarli,A2 Master
+364,13. Adjectives & Opinions,practical,adj.,amaliy,A2 Master
+365,13. Adjectives & Opinions,probably,adv.,ehtimol,A2 Master
+366,13. Adjectives & Opinions,questionable,adj.,shubhali,A2 Master
+367,13. Adjectives & Opinions,reasonable,adj.,oqilona,A2 Master
+368,13. Adjectives & Opinions,remarkable,adj.,ajoyib / diqqatga sazovor,A2 Master
+369,13. Adjectives & Opinions,significant,adj.,muhim (ahamiyatli),A2 Master
+370,13. Adjectives & Opinions,subjective,adj.,subyektiv,A2 Master
+371,13. Adjectives & Opinions,suitable,adj.,mos keluvchi,A2 Master
+372,13. Adjectives & Opinions,surprisingly,adv.,hayron qolarli tarzda,A2 Master
+373,13. Adjectives & Opinions,thorough,adj.,puxta,A2 Master
+374,13. Adjectives & Opinions,thought-provoking,adj.,o'ylantiruvchi,A2 Master
+375,13. Adjectives & Opinions,typical,adj.,odatiy,A2 Master
+376,13. Adjectives & Opinions,underwhelming,adj.,kutilganidan past,A2 Master
+377,13. Adjectives & Opinions,unfortunately,adv.,afsuski,A2 Master
+378,13. Adjectives & Opinions,unusual,adj.,g'ayrioddiy,A2 Master
+379,13. Adjectives & Opinions,valuable,adj.,qimmatli,A2 Master
+380,13. Adjectives & Opinions,versatile,adj.,ko'p qirrali,A2 Master
+381,13. Adjectives & Opinions,well-rounded,adj.,har tomonlama rivojlangan,A2 Master
+382,13. Adjectives & Opinions,worthwhile,adj.,arziydigan,A2 Master
+383,14. Grammar & Connectors,all in all,phr.,umuman olganda,A2 Master
+384,14. Grammar & Connectors,although (grammar),conj.,garchi,A2 Master
+385,14. Grammar & Connectors,apart from,prep.,dan tashqari,A2 Master
+386,14. Grammar & Connectors,as a matter of fact,phr.,aslida,A2 Master
+387,14. Grammar & Connectors,as a result,phr.,natijada,A2 Master
+388,14. Grammar & Connectors,as long as,conj.,qadar / -sa,A2 Master
+389,14. Grammar & Connectors,as opposed to,phr.,farqli o'laroq,A2 Master
+390,14. Grammar & Connectors,as soon as,conj.,-shi bilanoq,A2 Master
+391,14. Grammar & Connectors,because of,prep.,sababli,A2 Master
+392,14. Grammar & Connectors,by and large,phr.,asosan,A2 Master
+393,14. Grammar & Connectors,consequently,adv.,natijada,A2 Master
+394,14. Grammar & Connectors,despite (grammar),prep.,-ga qaramay,A2 Master
+395,14. Grammar & Connectors,due to,prep.,tufayli,A2 Master
+396,14. Grammar & Connectors,even though,conj.,garchi ham,A2 Master
+397,14. Grammar & Connectors,eventually,adv.,oxir-oqibat,A2 Master
+398,14. Grammar & Connectors,for example,phr.,masalan,A2 Master
+399,14. Grammar & Connectors,for instance,phr.,misol uchun,A2 Master
+400,14. Grammar & Connectors,furthermore,conj.,yana,A2 Master
+401,14. Grammar & Connectors,given that,conj.,-ni hisobga olsak,A2 Master
+402,14. Grammar & Connectors,however,conj.,biroq,A2 Master
+403,14. Grammar & Connectors,in addition,phr.,qo'shimcha ravishda,A2 Master
+404,14. Grammar & Connectors,in any case,phr.,har qanday holatda,A2 Master
+405,14. Grammar & Connectors,in case,conj.,agar-chi bo'lsa,A2 Master
+406,14. Grammar & Connectors,in conclusion,phr.,xulosa qilib aytganda,A2 Master
+407,14. Grammar & Connectors,in fact,phr.,aslida,A2 Master
+408,14. Grammar & Connectors,in light of,phr.,-ni hisobga olgan holda,A2 Master
+409,14. Grammar & Connectors,in order to,phr.,uchun (maqsad),A2 Master
+410,14. Grammar & Connectors,in other words,phr.,boshqacha aytganda,A2 Master
+411,14. Grammar & Connectors,in spite of,prep.,-ga qaramasdan,A2 Master
+412,14. Grammar & Connectors,in terms of,phr.,nuqtai nazaridan,A2 Master
+413,14. Grammar & Connectors,last but not least,phr.,"oxirgi, lekin muhim",A2 Master
+414,14. Grammar & Connectors,meanwhile,adv.,shu bilan birga,A2 Master
+415,14. Grammar & Connectors,more importantly,phr.,eng muhimi,A2 Master
+416,14. Grammar & Connectors,moreover,conj.,bundan tashqari,A2 Master
+417,14. Grammar & Connectors,needless to say,phr.,aytmasa ham bo'ladi,A2 Master
+418,14. Grammar & Connectors,nevertheless,conj.,shunga qaramay,A2 Master
+419,14. Grammar & Connectors,on the other hand,phr.,boshqa tomondan,A2 Master
+420,14. Grammar & Connectors,on the whole,phr.,umuman olganda,A2 Master
+421,14. Grammar & Connectors,provided that,conj.,"-sa, shart bilan",A2 Master
+422,14. Grammar & Connectors,rather than,phr.,o'rniga,A2 Master
+423,14. Grammar & Connectors,simultaneously,adv.,bir vaqtning o'zida,A2 Master
+424,14. Grammar & Connectors,so that,conj.,shu maqsadda,A2 Master
+425,14. Grammar & Connectors,subsequently,adv.,keyinchalik,A2 Master
+426,14. Grammar & Connectors,that being said,phr.,shunga qaramay,A2 Master
+427,14. Grammar & Connectors,therefore,conj.,shuning uchun,A2 Master
+428,14. Grammar & Connectors,to be honest,phr.,rostini aytsam,A2 Master
+429,14. Grammar & Connectors,to sum up,phr.,xulosa qilganda,A2 Master
+430,14. Grammar & Connectors,unless otherwise,phr.,aks holda,A2 Master
+431,14. Grammar & Connectors,with regard to,phr.,-ga nisbatan,A2 Master
+432,14. Grammar & Connectors,with respect to,phr.,-ga nisbatan,A2 Master
+433,2. Shopping & Money,afford,v.,qurbi yetmoq,A2 Master
+434,2. Shopping & Money,ATM,n.,bankomat,A2 Master
+435,2. Shopping & Money,bank statement,n.,bank hisobi,A2 Master
+436,2. Shopping & Money,bank transfer,n.,bank o'tkazmasi,A2 Master
+437,2. Shopping & Money,bankruptcy,n.,bankrotlik,A2 Master
+438,2. Shopping & Money,bargain,n.,chegirmali xarid,A2 Master
+439,2. Shopping & Money,bargain hunter,n.,chegirma izlovchi,A2 Master
+440,2. Shopping & Money,bill payment,n.,to'lovlarni to'lash,A2 Master
+441,2. Shopping & Money,borrow money,phr.,qarz olmoq,A2 Master
+442,2. Shopping & Money,brand,n.,brend,A2 Master
+443,2. Shopping & Money,budget,n.,byudjet,A2 Master
+444,2. Shopping & Money,cash,n.,naqd pul,A2 Master
+445,2. Shopping & Money,cash register,n.,kassa apparati,A2 Master
+446,2. Shopping & Money,cashback,n.,pul qaytarish,A2 Master
+447,2. Shopping & Money,cashier,n.,kassir,A2 Master
+448,2. Shopping & Money,clearance sale,n.,yakuniy sotuv,A2 Master
+449,2. Shopping & Money,consumer,n.,iste'molchi,A2 Master
+450,2. Shopping & Money,consumer goods,n.,iste'mol tovarlari,A2 Master
+451,2. Shopping & Money,consumer rights,n.,iste'molchi huquqlari,A2 Master
+452,2. Shopping & Money,cost,v.,turmoq (narxga ega bo'lmoq),A2 Master
+453,2. Shopping & Money,cost of living,n.,yashash xarajati,A2 Master
+454,2. Shopping & Money,counterfeit,adj.,soxta (mahsulot),A2 Master
+455,2. Shopping & Money,credit card,n.,kredit karta,A2 Master
+456,2. Shopping & Money,currency,n.,valyuta,A2 Master
+457,2. Shopping & Money,customer service,n.,mijozlarga xizmat,A2 Master
+458,2. Shopping & Money,debit card,n.,debet karta,A2 Master
+459,2. Shopping & Money,debt,n.,qarz,A2 Master
+460,2. Shopping & Money,delivery,n.,yetkazib berish,A2 Master
+461,2. Shopping & Money,deposit,v.,hisobga qo'ymoq,A2 Master
+462,2. Shopping & Money,discount,n.,chegirma,A2 Master
+463,2. Shopping & Money,economic crisis,n.,iqtisodiy inqiroz,A2 Master
+464,2. Shopping & Money,emergency fund,n.,favqulodda zaxira mablag',A2 Master
+465,2. Shopping & Money,essential goods,n.,zarur mahsulotlar,A2 Master
+466,2. Shopping & Money,exchange (goods),v.,almashtirmoq,A2 Master
+467,2. Shopping & Money,exchange rate,n.,valyuta kursi,A2 Master
+468,2. Shopping & Money,expense,n.,xarajat,A2 Master
+469,2. Shopping & Money,financial advisor,n.,moliyaviy maslahatchi,A2 Master
+470,2. Shopping & Money,financial goal,n.,moliyaviy maqsad,A2 Master
+471,2. Shopping & Money,financial literacy,n.,moliyaviy savodxonlik,A2 Master
+472,2. Shopping & Money,financial plan,n.,moliyaviy reja,A2 Master
+473,2. Shopping & Money,fixed price,n.,qat'iy narx,A2 Master
+474,2. Shopping & Money,flea market,n.,bit bozor,A2 Master
+475,2. Shopping & Money,genuine,adj.,haqiqiy (mahsulot),A2 Master
+476,2. Shopping & Money,gift card,n.,sovg'a kartasi,A2 Master
+477,2. Shopping & Money,gross income,n.,yalpi daromad,A2 Master
+478,2. Shopping & Money,impulse buying,n.,o'ylamasdan xarid qilish,A2 Master
+479,2. Shopping & Money,in stock,phr.,mavjud (mahsulot),A2 Master
+480,2. Shopping & Money,income,n.,daromad,A2 Master
+481,2. Shopping & Money,inflation,n.,inflatsiya,A2 Master
+482,2. Shopping & Money,installment,n.,bo'lib to'lash,A2 Master
+483,2. Shopping & Money,insurance policy,n.,sug'urta polisi,A2 Master
+484,2. Shopping & Money,insurance premium,n.,sug'urta badali,A2 Master
+485,2. Shopping & Money,interest rate,n.,foiz stavkasi,A2 Master
+486,2. Shopping & Money,invest,v.,sarmoya kiritmoq,A2 Master
+487,2. Shopping & Money,investment,n.,sarmoya,A2 Master
+488,2. Shopping & Money,lend money,phr.,qarz bermoq,A2 Master
+489,2. Shopping & Money,loan,n.,kredit / qarz,A2 Master
+490,2. Shopping & Money,loyalty card,n.,sodiqlik kartasi,A2 Master
+491,2. Shopping & Money,luxury item,n.,hashamatli buyum,A2 Master
+492,2. Shopping & Money,mall,n.,savdo markazi,A2 Master
+493,2. Shopping & Money,markdown,n.,narx tushirish,A2 Master
+494,2. Shopping & Money,membership,n.,a'zolik,A2 Master
+495,2. Shopping & Money,mortgage payment,n.,ipoteka to'lovi,A2 Master
+496,2. Shopping & Money,negotiate price,phr.,narxni kelishmoq,A2 Master
+497,2. Shopping & Money,net income,n.,sof daromad,A2 Master
+498,2. Shopping & Money,online banking,n.,onlayn bank,A2 Master
+499,2. Shopping & Money,online shopping,n.,onlayn xarid,A2 Master
+500,2. Shopping & Money,order (verb),v.,buyurtma bermoq,A2 Master
+501,2. Shopping & Money,out of stock,phr.,tugagan (mahsulot),A2 Master
+502,2. Shopping & Money,pension,n.,pensiya,A2 Master
+503,2. Shopping & Money,premium (insurance),n.,sug'urta badali,A2 Master
+504,2. Shopping & Money,price,n.,narx,A2 Master
+505,2. Shopping & Money,price comparison,n.,narxlarni solishtirish,A2 Master
+506,2. Shopping & Money,price tag,n.,narx yorlig'i,A2 Master
+507,2. Shopping & Money,purchase (noun),n.,xarid,A2 Master
+508,2. Shopping & Money,purse,n.,hamyon (ayollar),A2 Master
+509,2. Shopping & Money,quality,n.,sifat,A2 Master
+510,2. Shopping & Money,queue,n.,navbat,A2 Master
+511,2. Shopping & Money,receipt,n.,chek,A2 Master
+512,2. Shopping & Money,refund,n.,pulni qaytarish,A2 Master
+513,2. Shopping & Money,retail,n.,chakana savdo,A2 Master
+514,2. Shopping & Money,sale,n.,sotuv / aksiya,A2 Master
+515,2. Shopping & Money,save money,phr.,pul jamg'armoq,A2 Master
+516,2. Shopping & Money,savings account,n.,jamg'arma hisobi,A2 Master
+517,2. Shopping & Money,second-hand,adj.,ikkinchi qo'l,A2 Master
+518,2. Shopping & Money,second-hand shop,n.,ikkinchi qo'l do'kon,A2 Master
+519,2. Shopping & Money,shares (stock),n.,aksiyalar,A2 Master
+520,2. Shopping & Money,shopping cart,n.,aravacha,A2 Master
+521,2. Shopping & Money,shopping list,n.,xaridlar ro'yxati,A2 Master
+522,2. Shopping & Money,spend money,phr.,pul sarflamoq,A2 Master
+523,2. Shopping & Money,stock market,n.,fond bozori,A2 Master
+524,2. Shopping & Money,street vendor,n.,ko'cha sotuvchisi,A2 Master
+525,2. Shopping & Money,subscription,n.,obuna,A2 Master
+526,2. Shopping & Money,supplier,n.,yetkazib beruvchi,A2 Master
+527,2. Shopping & Money,tax,n.,soliq,A2 Master
+528,2. Shopping & Money,transaction,n.,tranzaksiya,A2 Master
+529,2. Shopping & Money,transfer money,phr.,pul o'tkazmoq,A2 Master
+530,2. Shopping & Money,utility bill,n.,kommunal to'lov,A2 Master
+531,2. Shopping & Money,wallet,n.,hamyon,A2 Master
+532,2. Shopping & Money,warranty,n.,kafolat,A2 Master
+533,2. Shopping & Money,wholesale,n.,ulgurji savdo,A2 Master
+534,2. Shopping & Money,withdraw,v.,yechib olmoq (pul),A2 Master
+535,3. Sports & Hobbies,agility,n.,chaqqonlik,A2 Master
+536,3. Sports & Hobbies,amateur,n.,havaskor,A2 Master
+537,3. Sports & Hobbies,archery,n.,kamondan otish,A2 Master
+538,3. Sports & Hobbies,athlete,n.,sportchi,A2 Master
+539,3. Sports & Hobbies,basketball,n.,basketbol,A2 Master
+540,3. Sports & Hobbies,bird watching,n.,qushlarni kuzatish,A2 Master
+541,3. Sports & Hobbies,board game,n.,stol o'yini,A2 Master
+542,3. Sports & Hobbies,boxing,n.,boks,A2 Master
+543,3. Sports & Hobbies,camping,n.,kemping,A2 Master
+544,3. Sports & Hobbies,captain (team),n.,kapitan,A2 Master
+545,3. Sports & Hobbies,cardio,n.,yurak-qon tomir mashqi,A2 Master
+546,3. Sports & Hobbies,champion,n.,chempion,A2 Master
+547,3. Sports & Hobbies,championship,n.,chempionat,A2 Master
+548,3. Sports & Hobbies,chess,n.,shaxmat,A2 Master
+549,3. Sports & Hobbies,collecting,n.,kolleksiya yig'ish,A2 Master
+550,3. Sports & Hobbies,competition,n.,musobaqa,A2 Master
